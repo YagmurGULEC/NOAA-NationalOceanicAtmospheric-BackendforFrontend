@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules
+.next
+.turbo
+out
+.eslintcache
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build artifacts
+dist
+coverage
+
+# Env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
