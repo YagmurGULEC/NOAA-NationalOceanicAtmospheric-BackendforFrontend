@@ -130,18 +130,18 @@ def write_to_csv(data):
             except KeyError:
                 print(f"⚠️ Missing fields in response: {record}")
 
+
+async def process_all_files(files):
+    """Process all JSON files asynchronously."""
+    tasks = [read_json_file(file) for file in files]
+    results = await asyncio.gather(*tasks)
+    data = [record for result in results if result for record in result]
+    write_to_csv(data)
+
 async def main():
-#     files=glob.glob(f"{JSON_DIR}*.json")
-# #     files=files[:1]
-#     print (f"Total files: {len(files)}")
-#     tasks = [read_json_file(file) for file in files]
-#     results = await asyncio.gather(*tasks)
-#     data = [record for result in results if result for record in result]
-#     print (len(data))
-    df=pd.read_csv(OUTPUT_CSV)
-    df.drop_duplicates(subset=['id'], inplace=True)
-    print (df.shape)
-#     df.to_csv(OUTPUT_CSV,index=False)
+    files=glob.glob(f"{JSON_DIR}*.json")
+    await process_all_files(files)
+
 
 
 asyncio.run(main())
