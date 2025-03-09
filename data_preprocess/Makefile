@@ -13,7 +13,6 @@ help: Makefile
 install:
 	python3 -m venv venv
 	pip install --upgrade pip
-	make post-install
 
 .PHONY: post-install
 post-install:

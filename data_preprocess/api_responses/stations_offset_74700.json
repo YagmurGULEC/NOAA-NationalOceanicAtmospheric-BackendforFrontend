@@ -1,0 +1,1035 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 74700,
+      "count": 154115,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "mindate": "2010-03-01",
+      "maxdate": "2012-11-11",
+      "latitude": 40.601956,
+      "name": "HASTINGS 1.4 NW, NE US",
+      "datacoverage": 0.7261,
+      "id": "GHCND:US10adam039",
+      "longitude": -98.404807
+    },
+    {
+      "mindate": "2010-04-01",
+      "maxdate": "2012-07-09",
+      "latitude": 40.433974,
+      "name": "AYR 0.3 SSE, NE US",
+      "datacoverage": 0.785,
+      "id": "GHCND:US10adam041",
+      "longitude": -98.438873
+    },
+    {
+      "mindate": "2010-04-01",
+      "maxdate": "2011-05-13",
+      "latitude": 40.591717,
+      "name": "JUNIATA 0.2 WNW, NE US",
+      "datacoverage": 0.7145,
+      "id": "GHCND:US10adam043",
+      "longitude": -98.50922
+    },
+    {
+      "mindate": "2010-08-01",
+      "maxdate": "2016-09-16",
+      "latitude": 40.6121239990454,
+      "name": "HASTINGS 1.8 N, NE US",
+      "datacoverage": 0.7229,
+      "id": "GHCND:US10adam045",
+      "longitude": -98.3887535333633
+    },
+    {
+      "mindate": "2010-09-01",
+      "maxdate": "2025-03-04",
+      "latitude": 40.544303,
+      "name": "HASTINGS 3.3 SW, NE US",
+      "datacoverage": 0.7621,
+      "id": "GHCND:US10adam046",
+      "longitude": -98.420844
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2013-12-19",
+      "latitude": 40.5917,
+      "name": "HASTINGS 2.1 W, NE US",
+      "datacoverage": 0.9442,
+      "id": "GHCND:US10adam047",
+      "longitude": -98.4287
+    },
+    {
+      "mindate": "2011-07-01",
+      "maxdate": "2021-12-17",
+      "latitude": 40.416567,
+      "name": "ROSELAND 3.9 SSE, NE US",
+      "datacoverage": 0.9994,
+      "id": "GHCND:US10adam051",
+      "longitude": -98.534145
+    },
+    {
+      "mindate": "2018-06-20",
+      "maxdate": "2024-11-19",
+      "latitude": 40.439558,
+      "name": "GLENVIL 6.6 SW, NE US",
+      "datacoverage": 0.1122,
+      "id": "GHCND:US10adam055",
+      "longitude": -98.344883
+    },
+    {
+      "mindate": "2014-05-01",
+      "maxdate": "2023-09-03",
+      "latitude": 40.579996,
+      "name": "HASTINGS 1.0 ESE, NE US",
+      "datacoverage": 0.9987,
+      "id": "GHCND:US10adam056",
+      "longitude": -98.371673
+    },
+    {
+      "mindate": "2014-08-23",
+      "maxdate": "2024-11-19",
+      "latitude": 40.660679,
+      "name": "PROSSER 2.2 SE, NE US",
+      "datacoverage": 0.1064,
+      "id": "GHCND:US10adam057",
+      "longitude": -98.55352
+    },
+    {
+      "mindate": "2009-08-01",
+      "maxdate": "2015-08-20",
+      "latitude": 42.3374,
+      "name": "ORCHARD 0.2 ENE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10ante003",
+      "longitude": -98.2405
+    },
+    {
+      "elevation": 1068.9,
+      "mindate": "2005-08-01",
+      "maxdate": "2009-05-11",
+      "latitude": 41.3955,
+      "name": "PAXTON 18.9 N, NE US",
+      "datacoverage": 0.3696,
+      "id": "GHCND:US10arth002",
+      "elevationUnit": "METERS",
+      "longitude": -101.4074
+    },
+    {
+      "elevation": 1278,
+      "mindate": "2004-06-01",
+      "maxdate": "2007-01-31",
+      "latitude": 41.6581,
+      "name": "HARRISBURG 9.5 NE, NE US",
+      "datacoverage": 0.999,
+      "id": "GHCND:US10bann001",
+      "elevationUnit": "METERS",
+      "longitude": -103.6151
+    },
+    {
+      "elevation": 1375,
+      "mindate": "2006-05-01",
+      "maxdate": "2016-07-30",
+      "latitude": 41.6415,
+      "name": "HARRISBURG 12.4 WNW, NE US",
+      "datacoverage": 0.57,
+      "id": "GHCND:US10bann005",
+      "elevationUnit": "METERS",
+      "longitude": -103.9481
+    },
+    {
+      "elevation": 1366.1,
+      "mindate": "2007-10-01",
+      "maxdate": "2010-10-10",
+      "latitude": 41.5589,
+      "name": "HARRISBURG 0.2 NW, NE US",
+      "datacoverage": 0.5402,
+      "id": "GHCND:US10bann006",
+      "elevationUnit": "METERS",
+      "longitude": -103.7407
+    },
+    {
+      "mindate": "2007-05-01",
+      "maxdate": "2025-03-03",
+      "latitude": 41.5037,
+      "name": "SCOTTSBLUFF 25.5 SSW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10bann007",
+      "longitude": -103.7634
+    },
+    {
+      "elevation": 1288.1,
+      "mindate": "2008-04-01",
+      "maxdate": "2010-05-07",
+      "latitude": 41.6363,
+      "name": "HARRISBURG 6.2 NE, NE US",
+      "datacoverage": 0.8466,
+      "id": "GHCND:US10bann008",
+      "elevationUnit": "METERS",
+      "longitude": -103.6842
+    },
+    {
+      "mindate": "2010-06-01",
+      "maxdate": "2025-02-20",
+      "latitude": 41.6803803709325,
+      "name": "GERING 10.1 S, NE US",
+      "datacoverage": 0.9986,
+      "id": "GHCND:US10bann009",
+      "longitude": -103.685156822046
+    },
+    {
+      "elevation": 797.1,
+      "mindate": "2004-05-01",
+      "maxdate": "2008-05-29",
+      "latitude": 41.9138,
+      "name": "DUNNING 9.4 ENE, NE US",
+      "datacoverage": 0.3672,
+      "id": "GHCND:US10blai001",
+      "elevationUnit": "METERS",
+      "longitude": -99.9644
+    },
+    {
+      "elevation": 841.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2005-09-26",
+      "latitude": 41.7609,
+      "name": "DUNNING 8.2 WSW, NE US",
+      "datacoverage": 0.7958,
+      "id": "GHCND:US10blai003",
+      "elevationUnit": "METERS",
+      "longitude": -100.2353
+    },
+    {
+      "elevation": 826.9,
+      "mindate": "2004-08-01",
+      "maxdate": "2024-10-22",
+      "latitude": 41.9043,
+      "name": "HALSEY 0.2 ENE, NE US",
+      "datacoverage": 0.1921,
+      "id": "GHCND:US10blai004",
+      "elevationUnit": "METERS",
+      "longitude": -100.2657
+    },
+    {
+      "mindate": "2004-08-01",
+      "maxdate": "2007-05-04",
+      "latitude": 42.0189,
+      "name": "PURDUM 7.5 ESE, NE US",
+      "datacoverage": 0.8339,
+      "id": "GHCND:US10blai005",
+      "longitude": -100.1227
+    },
+    {
+      "mindate": "2004-11-01",
+      "maxdate": "2006-06-14",
+      "latitude": 42.0715,
+      "name": "DUNNING 16.9 N, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10blai006",
+      "longitude": -100.0649
+    },
+    {
+      "elevation": 819.9,
+      "mindate": "2005-06-01",
+      "maxdate": "2009-09-24",
+      "latitude": 41.803,
+      "name": "DUNNING 6.4 WSW, NE US",
+      "datacoverage": 0.9037,
+      "id": "GHCND:US10blai008",
+      "elevationUnit": "METERS",
+      "longitude": -100.2225
+    },
+    {
+      "elevation": 746.2,
+      "mindate": "2006-09-01",
+      "maxdate": "2009-10-31",
+      "latitude": 41.9224,
+      "name": "BREWSTER 6.4 E, NE US",
+      "datacoverage": 0.8944,
+      "id": "GHCND:US10blai010",
+      "elevationUnit": "METERS",
+      "longitude": -99.7449
+    },
+    {
+      "mindate": "2009-08-01",
+      "maxdate": "2010-10-31",
+      "latitude": 41.8838,
+      "name": "DUNNING 5.3 NW, NE US",
+      "datacoverage": 0.666,
+      "id": "GHCND:US10blai011",
+      "longitude": -100.174
+    },
+    {
+      "mindate": "2013-09-01",
+      "maxdate": "2016-03-22",
+      "latitude": 41.819375,
+      "name": "DUNNING 0.6 SSW, NE US",
+      "datacoverage": 0.6133,
+      "id": "GHCND:US10blai012",
+      "longitude": -100.107092
+    },
+    {
+      "mindate": "2017-05-16",
+      "maxdate": "2017-12-27",
+      "latitude": 41.749483,
+      "name": "MILBURN 1.4 NW, NE US",
+      "datacoverage": 0.9956,
+      "id": "GHCND:US10blai013",
+      "longitude": -99.760087
+    },
+    {
+      "elevation": 540.1,
+      "mindate": "2004-08-01",
+      "maxdate": "2023-05-08",
+      "latitude": 41.5249,
+      "name": "SAINT EDWARD 7.3 WSW, NE US",
+      "datacoverage": 0.7574,
+      "id": "GHCND:US10boon002",
+      "elevationUnit": "METERS",
+      "longitude": -97.9933
+    },
+    {
+      "elevation": 627,
+      "mindate": "2004-08-01",
+      "maxdate": "2005-02-01",
+      "latitude": 41.7571,
+      "name": "ALBION 12.9 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10boon003",
+      "elevationUnit": "METERS",
+      "longitude": -98.2343
+    },
+    {
+      "elevation": 530,
+      "mindate": "2004-09-01",
+      "maxdate": "2006-06-24",
+      "latitude": 41.684,
+      "name": "ALBION 1.0 ESE, NE US",
+      "datacoverage": 0.4101,
+      "id": "GHCND:US10boon004",
+      "elevationUnit": "METERS",
+      "longitude": -97.9872
+    },
+    {
+      "elevation": 573.9,
+      "mindate": "2004-10-01",
+      "maxdate": "2025-03-06",
+      "latitude": 41.6402,
+      "name": "ALBION 3.5 S, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10boon005",
+      "elevationUnit": "METERS",
+      "longitude": -97.9951
+    },
+    {
+      "elevation": 591,
+      "mindate": "2004-10-01",
+      "maxdate": "2008-10-29",
+      "latitude": 41.502,
+      "name": "CEDAR RAPIDS 4.1 SSW, NE US",
+      "datacoverage": 0.9384,
+      "id": "GHCND:US10boon006",
+      "elevationUnit": "METERS",
+      "longitude": -98.158
+    },
+    {
+      "elevation": 580.9,
+      "mindate": "2004-11-01",
+      "maxdate": "2007-11-15",
+      "latitude": 41.8655,
+      "name": "PETERSBURG 7.9 W, NE US",
+      "datacoverage": 0.8117,
+      "id": "GHCND:US10boon007",
+      "elevationUnit": "METERS",
+      "longitude": -98.2295
+    },
+    {
+      "elevation": 573,
+      "mindate": "2005-03-01",
+      "maxdate": "2012-10-18",
+      "latitude": 41.6273,
+      "name": "PRIMROSE 0.3 N, NE US",
+      "datacoverage": 0.9559,
+      "id": "GHCND:US10boon008",
+      "elevationUnit": "METERS",
+      "longitude": -98.2379
+    },
+    {
+      "elevation": 552.9,
+      "mindate": "2006-01-01",
+      "maxdate": "2017-08-22",
+      "latitude": 41.6685,
+      "name": "ALBION 5.9 ESE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10boon009",
+      "elevationUnit": "METERS",
+      "longitude": -97.8945
+    },
+    {
+      "elevation": 548.9,
+      "mindate": "2006-04-01",
+      "maxdate": "2025-03-05",
+      "latitude": 41.6688667,
+      "name": "ALBION 6.1 W, NE US",
+      "datacoverage": 0.8915,
+      "id": "GHCND:US10boon010",
+      "elevationUnit": "METERS",
+      "longitude": -98.1166
+    },
+    {
+      "elevation": 613.9,
+      "mindate": "2008-05-01",
+      "maxdate": "2012-08-02",
+      "latitude": 41.8518,
+      "name": "PETERSBURG 1.8 E, NE US",
+      "datacoverage": 0.7899,
+      "id": "GHCND:US10boon011",
+      "elevationUnit": "METERS",
+      "longitude": -98.0448
+    },
+    {
+      "elevation": 1250,
+      "mindate": "2006-07-01",
+      "maxdate": "2023-12-26",
+      "latitude": 42.1911,
+      "name": "ALLIANCE 7.4 NW, NE US",
+      "datacoverage": 0.9998,
+      "id": "GHCND:US10box_001",
+      "elevationUnit": "METERS",
+      "longitude": -102.9518
+    },
+    {
+      "elevation": 1236.9,
+      "mindate": "2006-10-01",
+      "maxdate": "2012-12-22",
+      "latitude": 42.017,
+      "name": "ALLIANCE 8.6 SW, NE US",
+      "datacoverage": 0.9995,
+      "id": "GHCND:US10box_003",
+      "elevationUnit": "METERS",
+      "longitude": -102.9953
+    },
+    {
+      "elevation": 1196,
+      "mindate": "2007-01-01",
+      "maxdate": "2019-09-29",
+      "latitude": 42.1486,
+      "name": "ALLIANCE 7.2 ENE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10box_004",
+      "elevationUnit": "METERS",
+      "longitude": -102.749
+    },
+    {
+      "elevation": 1299.1,
+      "mindate": "2006-09-01",
+      "maxdate": "2011-05-27",
+      "latitude": 42.3195,
+      "name": "HEMINGFORD 0.2 ESE, NE US",
+      "datacoverage": 0.8601,
+      "id": "GHCND:US10box_005",
+      "elevationUnit": "METERS",
+      "longitude": -103.0705
+    },
+    {
+      "elevation": 1271,
+      "mindate": "2007-02-01",
+      "maxdate": "2010-07-09",
+      "latitude": 42.3653,
+      "name": "HEMINGFORD 5.1 ENE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10box_006",
+      "elevationUnit": "METERS",
+      "longitude": -102.9952
+    },
+    {
+      "elevation": 1206.1,
+      "mindate": "2007-03-01",
+      "maxdate": "2025-02-06",
+      "latitude": 42.1675,
+      "name": "ALLIANCE 5.9 NE, NE US",
+      "datacoverage": 0.752,
+      "id": "GHCND:US10box_007",
+      "elevationUnit": "METERS",
+      "longitude": -102.8005
+    },
+    {
+      "elevation": 1310,
+      "mindate": "2007-04-01",
+      "maxdate": "2018-11-05",
+      "latitude": 42.2712,
+      "name": "HEMINGFORD 4.9 SW, NE US",
+      "datacoverage": 0.9991,
+      "id": "GHCND:US10box_008",
+      "elevationUnit": "METERS",
+      "longitude": -103.141
+    },
+    {
+      "elevation": 1214,
+      "mindate": "2007-09-01",
+      "maxdate": "2018-06-18",
+      "latitude": 42.3968,
+      "name": "ALLIANCE 20.3 ENE, NE US",
+      "datacoverage": 0.9223,
+      "id": "GHCND:US10box_009",
+      "elevationUnit": "METERS",
+      "longitude": -102.8848
+    },
+    {
+      "elevation": 1310.9,
+      "mindate": "2008-06-01",
+      "maxdate": "2009-09-30",
+      "latitude": 42.116,
+      "name": "ALLIANCE 29.1 W, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10box_010",
+      "elevationUnit": "METERS",
+      "longitude": -103.4295
+    },
+    {
+      "mindate": "2011-07-01",
+      "maxdate": "2024-05-09",
+      "latitude": 42.11376,
+      "name": "ALLIANCE 1.2 NW, NE US",
+      "datacoverage": 0.8416,
+      "id": "GHCND:US10box_013",
+      "longitude": -102.890053
+    },
+    {
+      "mindate": "2011-08-01",
+      "maxdate": "2017-05-15",
+      "latitude": 42.298151,
+      "name": "ALLIANCE 13.6 N, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10box_014",
+      "longitude": -102.859583
+    },
+    {
+      "mindate": "2013-05-01",
+      "maxdate": "2018-07-27",
+      "latitude": 42.31665,
+      "name": "HEMINGFORD 0.4 SW, NE US",
+      "datacoverage": 0.5171,
+      "id": "GHCND:US10box_020",
+      "longitude": -103.078702
+    },
+    {
+      "mindate": "2013-09-01",
+      "maxdate": "2015-05-07",
+      "latitude": 42.409343,
+      "name": "ALLIANCE 21.7 NNE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10box_023",
+      "longitude": -102.789363
+    },
+    {
+      "mindate": "2014-03-01",
+      "maxdate": "2025-03-07",
+      "latitude": 42.326258,
+      "name": "HEMINGFORD 4.2 E, NE US",
+      "datacoverage": 0.9986,
+      "id": "GHCND:US10box_024",
+      "longitude": -102.993436
+    },
+    {
+      "mindate": "2014-05-01",
+      "maxdate": "2016-12-14",
+      "latitude": 42.235736,
+      "name": "HEMINGFORD 13.5 WSW, NE US",
+      "datacoverage": 0.8684,
+      "id": "GHCND:US10box_030",
+      "longitude": -103.307221
+    },
+    {
+      "elevation": 552.9,
+      "mindate": "2007-03-01",
+      "maxdate": "2008-10-23",
+      "latitude": 42.9095,
+      "name": "BUTTE 0.1 S, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10boyd002",
+      "elevationUnit": "METERS",
+      "longitude": -98.8492
+    },
+    {
+      "elevation": 513,
+      "mindate": "2007-04-01",
+      "maxdate": "2010-08-31",
+      "latitude": 42.9141,
+      "name": "SPENCER 3.5 NE, NE US",
+      "datacoverage": 0.8042,
+      "id": "GHCND:US10boyd003",
+      "elevationUnit": "METERS",
+      "longitude": -98.6603
+    },
+    {
+      "mindate": "2011-07-01",
+      "maxdate": "2012-08-16",
+      "latitude": 42.9096,
+      "name": "BUTTE 0.4 ESE, NE US",
+      "datacoverage": 0.7112,
+      "id": "GHCND:US10boyd005",
+      "longitude": -98.8428
+    },
+    {
+      "mindate": "2004-07-01",
+      "maxdate": "2007-09-21",
+      "latitude": 42.5359,
+      "name": "LONG PINE 0.4 W, NE US",
+      "datacoverage": 0.7693,
+      "id": "GHCND:US10brow001",
+      "longitude": -99.7092
+    },
+    {
+      "elevation": 783.9,
+      "mindate": "2006-11-01",
+      "maxdate": "2014-10-07",
+      "latitude": 42.636,
+      "name": "JOHNSTOWN 5.0 NE, NE US",
+      "datacoverage": 0.2188,
+      "id": "GHCND:US10brow003",
+      "elevationUnit": "METERS",
+      "longitude": -100.015
+    },
+    {
+      "elevation": 794.9,
+      "mindate": "2007-07-01",
+      "maxdate": "2012-02-08",
+      "latitude": 42.5375,
+      "name": "JOHNSTOWN 4.0 WSW, NE US",
+      "datacoverage": 0.9997,
+      "id": "GHCND:US10brow004",
+      "elevationUnit": "METERS",
+      "longitude": -100.1208
+    },
+    {
+      "elevation": 686.1,
+      "mindate": "2007-07-01",
+      "maxdate": "2013-10-14",
+      "latitude": 42.6748,
+      "name": "LONG PINE 15.7 ESE, NE US",
+      "datacoverage": 0.9467,
+      "id": "GHCND:US10brow005",
+      "elevationUnit": "METERS",
+      "longitude": -99.7695
+    },
+    {
+      "elevation": 790,
+      "mindate": "2007-09-01",
+      "maxdate": "2011-04-21",
+      "latitude": 42.5718,
+      "name": "JOHNSTOWN 0.2 E, NE US",
+      "datacoverage": 0.7352,
+      "id": "GHCND:US10brow006",
+      "elevationUnit": "METERS",
+      "longitude": -100.0545
+    },
+    {
+      "mindate": "2009-03-01",
+      "maxdate": "2019-01-24",
+      "latitude": 42.6988,
+      "name": "JOHNSTOWN 8.8 N, NE US",
+      "datacoverage": 0.7138,
+      "id": "GHCND:US10brow007",
+      "longitude": -100.0668
+    },
+    {
+      "mindate": "2009-06-01",
+      "maxdate": "2016-01-22",
+      "latitude": 42.3248,
+      "name": "AINSWORTH 18.7 SW, NE US",
+      "datacoverage": 0.9991,
+      "id": "GHCND:US10brow008",
+      "longitude": -100.061
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-10-17",
+      "latitude": 42.3171,
+      "name": "AINSWORTH 17.8 SSW, NE US",
+      "datacoverage": 0.9011,
+      "id": "GHCND:US10brow009",
+      "longitude": -100.0112
+    },
+    {
+      "elevation": 662,
+      "mindate": "2004-05-01",
+      "maxdate": "2006-09-16",
+      "latitude": 40.7826,
+      "name": "KEARNEY 5.8 NNW, NE US",
+      "datacoverage": 0.9996,
+      "id": "GHCND:US10buff001",
+      "elevationUnit": "METERS",
+      "longitude": -99.1023
+    },
+    {
+      "elevation": 694.9,
+      "mindate": "2004-05-01",
+      "maxdate": "2025-03-04",
+      "latitude": 40.7062,
+      "name": "KEARNEY 1.8 WNW, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10buff002",
+      "elevationUnit": "METERS",
+      "longitude": -99.1142
+    },
+    {
+      "elevation": 641,
+      "mindate": "2004-06-01",
+      "maxdate": "2024-10-25",
+      "latitude": 40.9445,
+      "name": "RAVENNA 6.6 SE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10buff003",
+      "elevationUnit": "METERS",
+      "longitude": -98.8465
+    },
+    {
+      "elevation": 662,
+      "mindate": "2004-05-01",
+      "maxdate": "2025-03-06",
+      "latitude": 40.6908,
+      "name": "KEARNEY 0.9 SW, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10buff004",
+      "elevationUnit": "METERS",
+      "longitude": -99.094
+    },
+    {
+      "mindate": "2004-05-01",
+      "maxdate": "2007-04-26",
+      "latitude": 40.8588,
+      "name": "GIBBON 8.6 NW, NE US",
+      "datacoverage": 0.9542,
+      "id": "GHCND:US10buff005",
+      "longitude": -98.9216
+    },
+    {
+      "elevation": 726.9,
+      "mindate": "2004-05-01",
+      "maxdate": "2025-03-06",
+      "latitude": 40.9223,
+      "name": "MILLER 0.5 SE, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10buff006",
+      "elevationUnit": "METERS",
+      "longitude": -99.3868
+    },
+    {
+      "elevation": 633.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2025-03-05",
+      "latitude": 40.9903,
+      "name": "RAVENNA 3.3 SE, NE US",
+      "datacoverage": 0.9719,
+      "id": "GHCND:US10buff007",
+      "elevationUnit": "METERS",
+      "longitude": -98.8699
+    },
+    {
+      "elevation": 626.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2019-08-20",
+      "latitude": 40.9593,
+      "name": "RAVENNA 5.3 SW, NE US",
+      "datacoverage": 0.9789,
+      "id": "GHCND:US10buff008",
+      "elevationUnit": "METERS",
+      "longitude": -98.9631
+    },
+    {
+      "elevation": 637.9,
+      "mindate": "2004-07-01",
+      "maxdate": "2009-09-24",
+      "latitude": 40.9789,
+      "name": "PLEASANTON 1.4 ENE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10buff010",
+      "elevationUnit": "METERS",
+      "longitude": -99.0637
+    },
+    {
+      "elevation": 618.1,
+      "mindate": "2004-07-01",
+      "maxdate": "2014-08-21",
+      "latitude": 40.7725,
+      "name": "SHELTON 0.5 SSE, NE US",
+      "datacoverage": 0.6147,
+      "id": "GHCND:US10buff011",
+      "elevationUnit": "METERS",
+      "longitude": -98.7306
+    },
+    {
+      "elevation": 630,
+      "mindate": "2004-07-01",
+      "maxdate": "2014-08-21",
+      "latitude": 40.7494,
+      "name": "GIBBON 0.2 WNW, NE US",
+      "datacoverage": 0.6147,
+      "id": "GHCND:US10buff012",
+      "elevationUnit": "METERS",
+      "longitude": -98.8479
+    },
+    {
+      "elevation": 691.9,
+      "mindate": "2004-07-01",
+      "maxdate": "2013-10-30",
+      "latitude": 40.69954,
+      "name": "ELM CREEK 2.2 WSW, NE US",
+      "datacoverage": 0.9997,
+      "id": "GHCND:US10buff013",
+      "elevationUnit": "METERS",
+      "longitude": -99.4062
+    },
+    {
+      "elevation": 718.1,
+      "mindate": "2004-08-01",
+      "maxdate": "2008-11-11",
+      "latitude": 40.84766,
+      "name": "AMHERST 3.1 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10buff015",
+      "elevationUnit": "METERS",
+      "longitude": -99.32768
+    },
+    {
+      "elevation": 677,
+      "mindate": "2004-10-01",
+      "maxdate": "2008-11-24",
+      "latitude": 40.7236,
+      "name": "KEARNEY 2.0 NW, NE US",
+      "datacoverage": 0.9199,
+      "id": "GHCND:US10buff017",
+      "elevationUnit": "METERS",
+      "longitude": -99.1035
+    },
+    {
+      "mindate": "2005-04-01",
+      "maxdate": "2006-08-25",
+      "latitude": 40.665,
+      "name": "KEARNEY 2.4 S, NE US",
+      "datacoverage": 0.9989,
+      "id": "GHCND:US10buff018",
+      "longitude": -99.0852
+    },
+    {
+      "elevation": 627,
+      "mindate": "2005-03-01",
+      "maxdate": "2017-05-04",
+      "latitude": 40.9728,
+      "name": "RAVENNA 6.8 ESE, NE US",
+      "datacoverage": 0.4621,
+      "id": "GHCND:US10buff019",
+      "elevationUnit": "METERS",
+      "longitude": -98.8024
+    },
+    {
+      "mindate": "2005-04-01",
+      "maxdate": "2005-10-31",
+      "latitude": 40.7407,
+      "name": "KEARNEY 3.0 NNE, NE US",
+      "datacoverage": 0.9956,
+      "id": "GHCND:US10buff020",
+      "longitude": -99.0647
+    },
+    {
+      "elevation": 694.9,
+      "mindate": "2008-05-01",
+      "maxdate": "2018-07-14",
+      "latitude": 40.7412,
+      "name": "KEARNEY 5.0 WNW, NE US",
+      "datacoverage": 0.6554,
+      "id": "GHCND:US10buff025",
+      "elevationUnit": "METERS",
+      "longitude": -99.1602
+    },
+    {
+      "mindate": "2012-08-01",
+      "maxdate": "2016-08-29",
+      "latitude": 40.81444,
+      "name": "GIBBON 4.2 N, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10buff034",
+      "longitude": -98.84028
+    },
+    {
+      "mindate": "2014-01-01",
+      "maxdate": "2025-03-07",
+      "latitude": 40.785292,
+      "name": "RIVERDALE 0.2 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10buff036",
+      "longitude": -99.165347
+    },
+    {
+      "mindate": "2015-09-25",
+      "maxdate": "2020-05-22",
+      "latitude": 40.815345,
+      "name": "GIBBON 4.7 N, NE US",
+      "datacoverage": 0.3753,
+      "id": "GHCND:US10buff039",
+      "longitude": -98.835517
+    },
+    {
+      "elevation": 307.8,
+      "mindate": "2006-06-01",
+      "maxdate": "2006-11-07",
+      "latitude": 41.7267,
+      "name": "TEKAMAH 5.0 SE, NE US",
+      "datacoverage": 0.998,
+      "id": "GHCND:US10burt001",
+      "elevationUnit": "METERS",
+      "longitude": -96.1557
+    },
+    {
+      "elevation": 388.9,
+      "mindate": "2006-01-01",
+      "maxdate": "2025-03-05",
+      "latitude": 41.6965,
+      "name": "CRAIG 6.2 S, NE US",
+      "datacoverage": 0.9835,
+      "id": "GHCND:US10burt002",
+      "elevationUnit": "METERS",
+      "longitude": -96.3619
+    },
+    {
+      "elevation": 388,
+      "mindate": "2006-06-01",
+      "maxdate": "2007-12-20",
+      "latitude": 41.8593,
+      "name": "OAKLAND 1.6 N, NE US",
+      "datacoverage": 0.9988,
+      "id": "GHCND:US10burt003",
+      "elevationUnit": "METERS",
+      "longitude": -96.4701
+    },
+    {
+      "elevation": 417.9,
+      "mindate": "2006-06-01",
+      "maxdate": "2008-05-27",
+      "latitude": 41.7859,
+      "name": "CRAIG 2.2 W, NE US",
+      "datacoverage": 0.4997,
+      "id": "GHCND:US10burt004",
+      "elevationUnit": "METERS",
+      "longitude": -96.4065
+    },
+    {
+      "elevation": 480.1,
+      "mindate": "2004-05-01",
+      "maxdate": "2007-01-08",
+      "latitude": 41.1229,
+      "name": "SHELBY 5.7 SE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10butl003",
+      "elevationUnit": "METERS",
+      "longitude": -97.367
+    },
+    {
+      "mindate": "2004-05-01",
+      "maxdate": "2008-03-28",
+      "latitude": 41.219,
+      "name": "RISING CITY 3.1 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10butl004",
+      "longitude": -97.349
+    },
+    {
+      "elevation": 484.9,
+      "mindate": "2004-05-01",
+      "maxdate": "2024-11-20",
+      "latitude": 41.185,
+      "name": "RISING CITY 2.4 ESE, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10butl005",
+      "elevationUnit": "METERS",
+      "longitude": -97.2542
+    },
+    {
+      "elevation": 490.1,
+      "mindate": "2004-05-01",
+      "maxdate": "2025-03-07",
+      "latitude": 41.158,
+      "name": "BRAINARD 1.8 SSE, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10butl008",
+      "elevationUnit": "METERS",
+      "longitude": -96.9952
+    },
+    {
+      "elevation": 502,
+      "mindate": "2006-05-01",
+      "maxdate": "2013-10-07",
+      "latitude": 41.2963,
+      "name": "RISING CITY 7.2 NNW, NE US",
+      "datacoverage": 0.3664,
+      "id": "GHCND:US10butl010",
+      "elevationUnit": "METERS",
+      "longitude": -97.3493
+    },
+    {
+      "elevation": 451.1,
+      "mindate": "2006-05-01",
+      "maxdate": "2025-03-05",
+      "latitude": 41.3221,
+      "name": "BELLWOOD 5.8 W, NE US",
+      "datacoverage": 0.9997,
+      "id": "GHCND:US10butl011",
+      "elevationUnit": "METERS",
+      "longitude": -97.3465
+    },
+    {
+      "elevation": 434.9,
+      "mindate": "2008-03-01",
+      "maxdate": "2010-06-08",
+      "latitude": 41.3565,
+      "name": "BELLWOOD 0.2 ESE, NE US",
+      "datacoverage": 0.8574,
+      "id": "GHCND:US10butl013",
+      "elevationUnit": "METERS",
+      "longitude": -97.2356
+    },
+    {
+      "mindate": "2012-03-01",
+      "maxdate": "2012-10-02",
+      "latitude": 41.0706,
+      "name": "ULYSSES 8.6 W, NE US",
+      "datacoverage": 0.998,
+      "id": "GHCND:US10butl015",
+      "longitude": -97.3672
+    },
+    {
+      "mindate": "2015-07-01",
+      "maxdate": "2017-10-01",
+      "latitude": 41.255743,
+      "name": "DAVID CITY 0.2 N, NE US",
+      "datacoverage": 0.7748,
+      "id": "GHCND:US10butl020",
+      "longitude": -97.130107
+    },
+    {
+      "elevation": 337.1,
+      "mindate": "2007-08-01",
+      "maxdate": "2024-11-06",
+      "latitude": 40.9946,
+      "name": "PLATTSMOUTH 1.4 SW, NE US",
+      "datacoverage": 0.9998,
+      "id": "GHCND:US10cass001",
+      "elevationUnit": "METERS",
+      "longitude": -95.8976
+    },
+    {
+      "elevation": 335.9,
+      "mindate": "2008-04-01",
+      "maxdate": "2025-03-04",
+      "latitude": 40.865,
+      "name": "WEEPING WATER 1.3 ESE, NE US",
+      "datacoverage": 0.7917,
+      "id": "GHCND:US10cass005",
+      "elevationUnit": "METERS",
+      "longitude": -96.1171
+    }
+  ]
+}

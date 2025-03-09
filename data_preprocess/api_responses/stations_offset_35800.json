@@ -1,0 +1,1035 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 35800,
+      "count": 154115,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "elevation": 204.2,
+      "mindate": "1889-01-01",
+      "maxdate": "1918-12-31",
+      "latitude": -34.4167,
+      "name": "ULEY, AS",
+      "datacoverage": 0.9696,
+      "id": "GHCND:ASN00075156",
+      "elevationUnit": "METERS",
+      "longitude": 146.8833
+    },
+    {
+      "elevation": 93.9,
+      "mindate": "1887-04-01",
+      "maxdate": "1917-10-31",
+      "latitude": -33.8667,
+      "name": "THE CUBAS, AS",
+      "datacoverage": 0.9673,
+      "id": "GHCND:ASN00075157",
+      "elevationUnit": "METERS",
+      "longitude": 144.8833
+    },
+    {
+      "elevation": 335.3,
+      "mindate": "1907-06-01",
+      "maxdate": "1914-07-31",
+      "latitude": -33.3833,
+      "name": "GORMANS HILL, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00075159",
+      "elevationUnit": "METERS",
+      "longitude": 146.8167
+    },
+    {
+      "elevation": 223,
+      "mindate": "1970-06-01",
+      "maxdate": "1998-12-31",
+      "latitude": -33.6359,
+      "name": "NARADHAN ANDERLOOSE, AS",
+      "datacoverage": 0.8804,
+      "id": "GHCND:ASN00075161",
+      "elevationUnit": "METERS",
+      "longitude": 146.3061
+    },
+    {
+      "elevation": 275,
+      "mindate": "1970-01-01",
+      "maxdate": "1996-07-31",
+      "latitude": -33.6633,
+      "name": "NARADHAN STRATHEILAN, AS",
+      "datacoverage": 0.9875,
+      "id": "GHCND:ASN00075162",
+      "elevationUnit": "METERS",
+      "longitude": 146.3225
+    },
+    {
+      "elevation": 135,
+      "mindate": "1750-03-14",
+      "maxdate": "2024-12-04",
+      "latitude": -33.3476,
+      "name": "HILLSTON ALDINGA, AS",
+      "datacoverage": 0.9954,
+      "id": "GHCND:ASN00075163",
+      "elevationUnit": "METERS",
+      "longitude": 145.8703
+    },
+    {
+      "elevation": 66,
+      "mindate": "1750-03-14",
+      "maxdate": "2024-12-31",
+      "latitude": -35.0461,
+      "name": "STONY CROSSING BARWON, AS",
+      "datacoverage": 0.8234,
+      "id": "GHCND:ASN00075164",
+      "elevationUnit": "METERS",
+      "longitude": 143.5718
+    },
+    {
+      "elevation": 110,
+      "mindate": "1961-05-01",
+      "maxdate": "1998-12-31",
+      "latitude": -33.6131,
+      "name": "DIRRUNG WEEPOOL, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00075165",
+      "elevationUnit": "METERS",
+      "longitude": 145.4564
+    },
+    {
+      "elevation": 121,
+      "mindate": "1909-03-01",
+      "maxdate": "2020-07-27",
+      "latitude": -34.5717,
+      "name": "DARLINGTON POINT ST PAULS CLO, AS",
+      "datacoverage": 0.9895,
+      "id": "GHCND:ASN00075166",
+      "elevationUnit": "METERS",
+      "longitude": 145.9987
+    },
+    {
+      "elevation": 107,
+      "mindate": "1975-08-01",
+      "maxdate": "2021-12-31",
+      "latitude": -33.7433,
+      "name": "MERRIWAGGA THURLO, AS",
+      "datacoverage": 0.7787,
+      "id": "GHCND:ASN00075167",
+      "elevationUnit": "METERS",
+      "longitude": 145.4654
+    },
+    {
+      "elevation": 84,
+      "mindate": "1967-03-01",
+      "maxdate": "1990-04-30",
+      "latitude": -35.3383,
+      "name": "DENILIQUIN NOONAMEENA, AS",
+      "datacoverage": 0.9568,
+      "id": "GHCND:ASN00075168",
+      "elevationUnit": "METERS",
+      "longitude": 144.695
+    },
+    {
+      "elevation": 120,
+      "mindate": "1892-01-01",
+      "maxdate": "1912-12-31",
+      "latitude": -34.5333,
+      "name": "WILLBRIGGIE WOODBURN, AS",
+      "datacoverage": 0.9763,
+      "id": "GHCND:ASN00075169",
+      "elevationUnit": "METERS",
+      "longitude": 146.0667
+    },
+    {
+      "elevation": 100,
+      "mindate": "1750-05-02",
+      "maxdate": "2025-01-26",
+      "latitude": -34.6403,
+      "name": "HAY BEDARBIDGAL, AS",
+      "datacoverage": 0.772,
+      "id": "GHCND:ASN00075173",
+      "elevationUnit": "METERS",
+      "longitude": 145.1545
+    },
+    {
+      "elevation": 125,
+      "mindate": "1994-06-01",
+      "maxdate": "2003-10-01",
+      "latitude": -34.3229,
+      "name": "GRIFFITH CSIRO, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00075174",
+      "elevationUnit": "METERS",
+      "longitude": 146.0684
+    },
+    {
+      "elevation": 90,
+      "mindate": "1994-06-01",
+      "maxdate": "2007-09-03",
+      "latitude": -34.5471,
+      "name": "HAY CSIRO AWS, AS",
+      "datacoverage": 0.9875,
+      "id": "GHCND:ASN00075175",
+      "elevationUnit": "METERS",
+      "longitude": 144.867
+    },
+    {
+      "elevation": 70,
+      "mindate": "1993-07-01",
+      "maxdate": "2008-07-31",
+      "latitude": -35.3728,
+      "name": "TULLAKOOL CHEETHAMS SALT, AS",
+      "datacoverage": 0.9336,
+      "id": "GHCND:ASN00075176",
+      "elevationUnit": "METERS",
+      "longitude": 144.1862
+    },
+    {
+      "elevation": 52,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-31",
+      "latitude": -34.85,
+      "name": "ANNUELLO, AS",
+      "datacoverage": 0.9467,
+      "id": "GHCND:ASN00076000",
+      "elevationUnit": "METERS",
+      "longitude": 142.7811
+    },
+    {
+      "mindate": "1924-09-01",
+      "maxdate": "1965-07-31",
+      "latitude": -34.8,
+      "name": "ANNUELLO MOSTANK, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076001",
+      "longitude": 142.75
+    },
+    {
+      "elevation": 83,
+      "mindate": "1923-05-01",
+      "maxdate": "2003-09-30",
+      "latitude": -34.7233,
+      "name": "BANNERTON, AS",
+      "datacoverage": 0.9886,
+      "id": "GHCND:ASN00076002",
+      "elevationUnit": "METERS",
+      "longitude": 142.7903
+    },
+    {
+      "elevation": 80,
+      "mindate": "1926-11-01",
+      "maxdate": "1975-01-31",
+      "latitude": -35.3833,
+      "name": "BARING KINTA, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076003",
+      "elevationUnit": "METERS",
+      "longitude": 142.0667
+    },
+    {
+      "mindate": "1938-03-01",
+      "maxdate": "1959-12-31",
+      "latitude": -34.1,
+      "name": "BENETOOK NORTH, AS",
+      "datacoverage": 0.8168,
+      "id": "GHCND:ASN00076004",
+      "longitude": 141.8
+    },
+    {
+      "elevation": 58,
+      "mindate": "1915-01-01",
+      "maxdate": "1980-04-30",
+      "latitude": -34.4667,
+      "name": "CARWARP, AS",
+      "datacoverage": 0.9044,
+      "id": "GHCND:ASN00076005",
+      "elevationUnit": "METERS",
+      "longitude": 142.2
+    },
+    {
+      "mindate": "1938-10-01",
+      "maxdate": "1977-01-31",
+      "latitude": -35.2,
+      "name": "CHINKAPOOK, AS",
+      "datacoverage": 0.9999,
+      "id": "GHCND:ASN00076007",
+      "longitude": 142.95
+    },
+    {
+      "mindate": "1923-06-01",
+      "maxdate": "1957-06-30",
+      "latitude": -34.5,
+      "name": "COLIGNAN, AS",
+      "datacoverage": 0.8705,
+      "id": "GHCND:ASN00076008",
+      "longitude": 142.4
+    },
+    {
+      "elevation": 43,
+      "mindate": "1912-10-01",
+      "maxdate": "2004-09-30",
+      "latitude": -35.2339,
+      "name": "COWANGIE, AS",
+      "datacoverage": 0.9176,
+      "id": "GHCND:ASN00076009",
+      "elevationUnit": "METERS",
+      "longitude": 141.3828
+    },
+    {
+      "mindate": "1930-07-01",
+      "maxdate": "1982-11-30",
+      "latitude": -34.8,
+      "name": "CRAMENTON, AS",
+      "datacoverage": 0.9984,
+      "id": "GHCND:ASN00076010",
+      "longitude": 142.4667
+    },
+    {
+      "elevation": 62,
+      "mindate": "1930-09-01",
+      "maxdate": "2009-12-31",
+      "latitude": -35.1966,
+      "name": "MANANGATANG DAYTRAP, AS",
+      "datacoverage": 0.9233,
+      "id": "GHCND:ASN00076011",
+      "elevationUnit": "METERS",
+      "longitude": 142.8014
+    },
+    {
+      "elevation": 60,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-02-15",
+      "latitude": -35.1702,
+      "name": "MANANGATANG EUREKA EAST, AS",
+      "datacoverage": 0.9013,
+      "id": "GHCND:ASN00076012",
+      "elevationUnit": "METERS",
+      "longitude": 143.0001
+    },
+    {
+      "elevation": 52,
+      "mindate": "1911-01-01",
+      "maxdate": "2004-08-31",
+      "latitude": -35.0833,
+      "name": "GALAH, AS",
+      "datacoverage": 0.9982,
+      "id": "GHCND:ASN00076013",
+      "elevationUnit": "METERS",
+      "longitude": 142.1825
+    },
+    {
+      "mindate": "1929-07-01",
+      "maxdate": "1988-07-31",
+      "latitude": -34.8833,
+      "name": "HAYSDALE, AS",
+      "datacoverage": 0.9421,
+      "id": "GHCND:ASN00076014",
+      "longitude": 143.2667
+    },
+    {
+      "elevation": 45,
+      "mindate": "1908-07-01",
+      "maxdate": "2024-12-31",
+      "latitude": -34.2262,
+      "name": "IRYMPLE ARLINGTON, AS",
+      "datacoverage": 0.9992,
+      "id": "GHCND:ASN00076015",
+      "elevationUnit": "METERS",
+      "longitude": 142.1512
+    },
+    {
+      "mindate": "1923-08-01",
+      "maxdate": "1957-01-31",
+      "latitude": -35.2,
+      "name": "KADOON, AS",
+      "datacoverage": 0.7889,
+      "id": "GHCND:ASN00076016",
+      "longitude": 141.4
+    },
+    {
+      "elevation": 58,
+      "mindate": "2000-03-01",
+      "maxdate": "2025-01-31",
+      "latitude": -35.1945,
+      "name": "MANANGATANG CHINKAPOOK, AS",
+      "datacoverage": 0.9998,
+      "id": "GHCND:ASN00076017",
+      "elevationUnit": "METERS",
+      "longitude": 143.04
+    },
+    {
+      "elevation": 55,
+      "mindate": "2000-01-01",
+      "maxdate": "2025-02-05",
+      "latitude": -35.1136,
+      "name": "MANANGATANG COCAMBA, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076018",
+      "elevationUnit": "METERS",
+      "longitude": 142.9194
+    },
+    {
+      "mindate": "1950-01-01",
+      "maxdate": "1954-06-30",
+      "latitude": -34.4,
+      "name": "KARAWINNA 2, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076019",
+      "longitude": 141.7
+    },
+    {
+      "mindate": "1942-06-01",
+      "maxdate": "1945-12-31",
+      "latitude": -34.4,
+      "name": "KARAWINNA SOUTH, AS",
+      "datacoverage": 0.9986,
+      "id": "GHCND:ASN00076020",
+      "longitude": 141.7
+    },
+    {
+      "mindate": "1938-09-01",
+      "maxdate": "1965-08-31",
+      "latitude": -34.8833,
+      "name": "KOOLOONONG, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00076021",
+      "longitude": 143.1333
+    },
+    {
+      "mindate": "1921-04-01",
+      "maxdate": "1953-09-30",
+      "latitude": -35.1,
+      "name": "KULWIN, AS",
+      "datacoverage": 0.8974,
+      "id": "GHCND:ASN00076022",
+      "longitude": 142.65
+    },
+    {
+      "elevation": 80,
+      "mindate": "1929-10-01",
+      "maxdate": "2006-12-31",
+      "latitude": -34.4613,
+      "name": "KURNWILL, AS",
+      "datacoverage": 0.8997,
+      "id": "GHCND:ASN00076023",
+      "elevationUnit": "METERS",
+      "longitude": 141.3923
+    },
+    {
+      "elevation": 53,
+      "mindate": "1926-01-01",
+      "maxdate": "2008-07-31",
+      "latitude": -34.7122,
+      "name": "ROBINVALE KYNDALYN PARK, AS",
+      "datacoverage": 0.9637,
+      "id": "GHCND:ASN00076024",
+      "elevationUnit": "METERS",
+      "longitude": 142.9275
+    },
+    {
+      "elevation": 55,
+      "mindate": "1914-05-01",
+      "maxdate": "2019-06-30",
+      "latitude": -35.0551,
+      "name": "MANANGATANG, AS",
+      "datacoverage": 0.9539,
+      "id": "GHCND:ASN00076025",
+      "elevationUnit": "METERS",
+      "longitude": 142.8832
+    },
+    {
+      "elevation": 56.4,
+      "mindate": "1920-07-01",
+      "maxdate": "1991-03-31",
+      "latitude": -34.2133,
+      "name": "MERBEIN CSIRO RESEARCH STATION, AS",
+      "datacoverage": 0.9988,
+      "id": "GHCND:ASN00076026",
+      "elevationUnit": "METERS",
+      "longitude": 142.04
+    },
+    {
+      "mindate": "1919-03-01",
+      "maxdate": "1978-05-31",
+      "latitude": -34.1667,
+      "name": "MERBEIN SRWSC, AS",
+      "datacoverage": 0.9732,
+      "id": "GHCND:ASN00076027",
+      "longitude": 142.0667
+    },
+    {
+      "mindate": "1936-02-01",
+      "maxdate": "1953-11-30",
+      "latitude": -34.2,
+      "name": "MERBEIN WEST, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076028",
+      "longitude": 142
+    },
+    {
+      "elevation": 100,
+      "mindate": "1927-11-01",
+      "maxdate": "2023-12-31",
+      "latitude": -34.3895,
+      "name": "MERINGUR, AS",
+      "datacoverage": 0.9329,
+      "id": "GHCND:ASN00076029",
+      "elevationUnit": "METERS",
+      "longitude": 141.3352
+    },
+    {
+      "elevation": 63,
+      "mindate": "1925-01-01",
+      "maxdate": "2020-08-08",
+      "latitude": -34.3846,
+      "name": "MERRINEE, AS",
+      "datacoverage": 0.9469,
+      "id": "GHCND:ASN00076030",
+      "elevationUnit": "METERS",
+      "longitude": 141.758
+    },
+    {
+      "elevation": 50,
+      "mindate": "1750-03-09",
+      "maxdate": "2025-02-27",
+      "latitude": -34.2358,
+      "name": "MILDURA AIRPORT, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076031",
+      "elevationUnit": "METERS",
+      "longitude": 142.0867
+    },
+    {
+      "elevation": 49,
+      "mindate": "1934-05-01",
+      "maxdate": "1994-12-31",
+      "latitude": -34.2164,
+      "name": "MILDURA SE, AS",
+      "datacoverage": 0.9986,
+      "id": "GHCND:ASN00076032",
+      "elevationUnit": "METERS",
+      "longitude": 142.1667
+    },
+    {
+      "elevation": 59,
+      "mindate": "1937-12-01",
+      "maxdate": "1976-12-31",
+      "latitude": -35.15,
+      "name": "MITTYACK, AS",
+      "datacoverage": 0.904,
+      "id": "GHCND:ASN00076033",
+      "elevationUnit": "METERS",
+      "longitude": 142.6667
+    },
+    {
+      "mindate": "1925-09-01",
+      "maxdate": "1963-02-28",
+      "latitude": -35,
+      "name": "MOONDAH THE PINES, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076034",
+      "longitude": 143
+    },
+    {
+      "elevation": 57,
+      "mindate": "1928-07-01",
+      "maxdate": "2014-01-28",
+      "latitude": -34.2942,
+      "name": "MORKALLA NORTH, AS",
+      "datacoverage": 0.9503,
+      "id": "GHCND:ASN00076035",
+      "elevationUnit": "METERS",
+      "longitude": 141.173
+    },
+    {
+      "elevation": 88,
+      "mindate": "1920-08-01",
+      "maxdate": "1988-12-31",
+      "latitude": -35.1667,
+      "name": "MULCRA, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076036",
+      "elevationUnit": "METERS",
+      "longitude": 141.1
+    },
+    {
+      "elevation": 30,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-31",
+      "latitude": -34.1928,
+      "name": "MURRAY LOCK NUMBER 9, AS",
+      "datacoverage": 0.9968,
+      "id": "GHCND:ASN00076037",
+      "elevationUnit": "METERS",
+      "longitude": 141.5996
+    },
+    {
+      "elevation": 71,
+      "mindate": "1750-05-02",
+      "maxdate": "2025-02-04",
+      "latitude": -35.2628,
+      "name": "MURRAYVILLE, AS",
+      "datacoverage": 0.9897,
+      "id": "GHCND:ASN00076038",
+      "elevationUnit": "METERS",
+      "longitude": 141.1789
+    },
+    {
+      "elevation": 66,
+      "mindate": "1917-07-01",
+      "maxdate": "1981-01-31",
+      "latitude": -35.3167,
+      "name": "NANDALY, AS",
+      "datacoverage": 0.7811,
+      "id": "GHCND:ASN00076039",
+      "elevationUnit": "METERS",
+      "longitude": 142.7
+    },
+    {
+      "mindate": "1927-01-01",
+      "maxdate": "1972-12-31",
+      "latitude": -34.3167,
+      "name": "NEDS CORNER, AS",
+      "datacoverage": 0.9782,
+      "id": "GHCND:ASN00076040",
+      "longitude": 141.3333
+    },
+    {
+      "elevation": 83,
+      "mindate": "2000-10-01",
+      "maxdate": "2025-02-25",
+      "latitude": -34.7631,
+      "name": "BANNERTON CARINA PARK, AS",
+      "datacoverage": 0.9946,
+      "id": "GHCND:ASN00076042",
+      "elevationUnit": "METERS",
+      "longitude": 142.7447
+    },
+    {
+      "elevation": 42,
+      "mindate": "1750-03-14",
+      "maxdate": "2024-12-31",
+      "latitude": -34.9272,
+      "name": "NULKWYNE KIAMAL, AS",
+      "datacoverage": 0.9981,
+      "id": "GHCND:ASN00076043",
+      "elevationUnit": "METERS",
+      "longitude": 142.1765
+    },
+    {
+      "elevation": 80,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-31",
+      "latitude": -35.1759,
+      "name": "NYAH, AS",
+      "datacoverage": 0.9033,
+      "id": "GHCND:ASN00076044",
+      "elevationUnit": "METERS",
+      "longitude": 143.37
+    },
+    {
+      "elevation": 77,
+      "mindate": "1927-04-01",
+      "maxdate": "1984-06-30",
+      "latitude": -35.1833,
+      "name": "NYAH WEST POST OFFICE, AS",
+      "datacoverage": 0.921,
+      "id": "GHCND:ASN00076045",
+      "elevationUnit": "METERS",
+      "longitude": 143.3333
+    },
+    {
+      "elevation": 80,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-31",
+      "latitude": -35.167,
+      "name": "NYAH YARRABY TANK, AS",
+      "datacoverage": 0.9686,
+      "id": "GHCND:ASN00076046",
+      "elevationUnit": "METERS",
+      "longitude": 143.2781
+    },
+    {
+      "elevation": 50.3,
+      "mindate": "1750-03-09",
+      "maxdate": "2025-02-22",
+      "latitude": -35.0694,
+      "name": "OUYEN POST OFFICE, AS",
+      "datacoverage": 0.9875,
+      "id": "GHCND:ASN00076047",
+      "elevationUnit": "METERS",
+      "longitude": 142.3158
+    },
+    {
+      "mindate": "1939-01-01",
+      "maxdate": "1950-11-30",
+      "latitude": -35.25,
+      "name": "PANITYA, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076048",
+      "longitude": 141.1
+    },
+    {
+      "elevation": 64,
+      "mindate": "1897-03-01",
+      "maxdate": "1953-12-31",
+      "latitude": -35.5,
+      "name": "PIANGIL, AS",
+      "datacoverage": 0.9487,
+      "id": "GHCND:ASN00076049",
+      "elevationUnit": "METERS",
+      "longitude": 143.3
+    },
+    {
+      "elevation": 89,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-02-04",
+      "latitude": -35.2555,
+      "name": "PIRA WILD HORSE PLAINS, AS",
+      "datacoverage": 0.9966,
+      "id": "GHCND:ASN00076050",
+      "elevationUnit": "METERS",
+      "longitude": 143.3683
+    },
+    {
+      "elevation": 60,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-31",
+      "latitude": -34.362,
+      "name": "PIRLTA, AS",
+      "datacoverage": 0.8574,
+      "id": "GHCND:ASN00076051",
+      "elevationUnit": "METERS",
+      "longitude": 141.9038
+    },
+    {
+      "elevation": 67,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-31",
+      "latitude": -34.3075,
+      "name": "RED CLIFFS POST OFFICE, AS",
+      "datacoverage": 0.9777,
+      "id": "GHCND:ASN00076052",
+      "elevationUnit": "METERS",
+      "longitude": 142.1882
+    },
+    {
+      "elevation": 60,
+      "mindate": "1926-05-01",
+      "maxdate": "2024-06-28",
+      "latitude": -34.5898,
+      "name": "ROBINVALE, AS",
+      "datacoverage": 0.9749,
+      "id": "GHCND:ASN00076053",
+      "elevationUnit": "METERS",
+      "longitude": 142.7686
+    },
+    {
+      "elevation": 50.3,
+      "mindate": "1905-12-01",
+      "maxdate": "1964-01-31",
+      "latitude": -35.1,
+      "name": "TIEGA, AS",
+      "datacoverage": 0.9412,
+      "id": "GHCND:ASN00076054",
+      "elevationUnit": "METERS",
+      "longitude": 142.2
+    },
+    {
+      "elevation": 62.8,
+      "mindate": "1904-12-01",
+      "maxdate": "1965-03-31",
+      "latitude": -35.1,
+      "name": "TOWAN, AS",
+      "datacoverage": 0.9904,
+      "id": "GHCND:ASN00076055",
+      "elevationUnit": "METERS",
+      "longitude": 143.2
+    },
+    {
+      "mindate": "1929-07-01",
+      "maxdate": "1947-04-30",
+      "latitude": -34.2,
+      "name": "TULILLAH, AS",
+      "datacoverage": 0.9487,
+      "id": "GHCND:ASN00076056",
+      "longitude": 141.8667
+    },
+    {
+      "mindate": "1930-01-01",
+      "maxdate": "1949-11-30",
+      "latitude": -34.5,
+      "name": "TUNART SOUTH, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076057",
+      "longitude": 141.3
+    },
+    {
+      "mindate": "1912-08-01",
+      "maxdate": "1953-07-31",
+      "latitude": -35.2,
+      "name": "TUTYE, AS",
+      "datacoverage": 0.998,
+      "id": "GHCND:ASN00076058",
+      "longitude": 141.5
+    },
+    {
+      "elevation": 67.1,
+      "mindate": "1882-01-01",
+      "maxdate": "1970-08-31",
+      "latitude": -35.2,
+      "name": "TYNTYNDER STATION, AS",
+      "datacoverage": 0.9859,
+      "id": "GHCND:ASN00076059",
+      "elevationUnit": "METERS",
+      "longitude": 143.5
+    },
+    {
+      "mindate": "1896-11-01",
+      "maxdate": "1950-10-31",
+      "latitude": -35.2,
+      "name": "TYNTYNDER WEST, AS",
+      "datacoverage": 0.9924,
+      "id": "GHCND:ASN00076060",
+      "longitude": 143.4
+    },
+    {
+      "mindate": "1918-05-01",
+      "maxdate": "1978-12-31",
+      "latitude": -35.1667,
+      "name": "UNDERBOOL, AS",
+      "datacoverage": 0.9326,
+      "id": "GHCND:ASN00076061",
+      "longitude": 141.8167
+    },
+    {
+      "mindate": "1915-07-01",
+      "maxdate": "1954-12-31",
+      "latitude": -35.1,
+      "name": "WAGANT, AS",
+      "datacoverage": 0.9893,
+      "id": "GHCND:ASN00076062",
+      "longitude": 142.5
+    },
+    {
+      "elevation": 60,
+      "mindate": "1915-04-01",
+      "maxdate": "2017-07-31",
+      "latitude": -35.0924,
+      "name": "WALPA DANYO, AS",
+      "datacoverage": 0.9867,
+      "id": "GHCND:ASN00076063",
+      "elevationUnit": "METERS",
+      "longitude": 141.2611
+    },
+    {
+      "elevation": 105,
+      "mindate": "1750-03-09",
+      "maxdate": "2025-02-27",
+      "latitude": -35.1201,
+      "name": "WALPEUP RESEARCH, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076064",
+      "elevationUnit": "METERS",
+      "longitude": 142.004
+    },
+    {
+      "elevation": 113,
+      "mindate": "1912-01-01",
+      "maxdate": "2020-09-30",
+      "latitude": -35.1362,
+      "name": "WALPEUP, AS",
+      "datacoverage": 0.9567,
+      "id": "GHCND:ASN00076065",
+      "elevationUnit": "METERS",
+      "longitude": 142.0246
+    },
+    {
+      "mindate": "1926-02-01",
+      "maxdate": "1949-04-30",
+      "latitude": -34.7,
+      "name": "WEMEN, AS",
+      "datacoverage": 0.8994,
+      "id": "GHCND:ASN00076066",
+      "longitude": 142.7
+    },
+    {
+      "elevation": 65,
+      "mindate": "1750-03-14",
+      "maxdate": "2025-01-21",
+      "latitude": -34.3883,
+      "name": "WERRIMULL, AS",
+      "datacoverage": 0.8967,
+      "id": "GHCND:ASN00076067",
+      "elevationUnit": "METERS",
+      "longitude": 141.5954
+    },
+    {
+      "mindate": "1928-01-01",
+      "maxdate": "1976-04-30",
+      "latitude": -34.5,
+      "name": "WILLAH, AS",
+      "datacoverage": 0.9483,
+      "id": "GHCND:ASN00076068",
+      "longitude": 141.9
+    },
+    {
+      "elevation": 71,
+      "mindate": "1750-03-22",
+      "maxdate": "2024-12-31",
+      "latitude": -34.9536,
+      "name": "WINNAMBOOL KULWIN, AS",
+      "datacoverage": 0.891,
+      "id": "GHCND:ASN00076069",
+      "elevationUnit": "METERS",
+      "longitude": 142.7392
+    },
+    {
+      "mindate": "1937-04-01",
+      "maxdate": "1966-09-30",
+      "latitude": -35.1,
+      "name": "WOOD WOOD, AS",
+      "datacoverage": 0.9604,
+      "id": "GHCND:ASN00076070",
+      "longitude": 143.35
+    },
+    {
+      "mindate": "1919-06-01",
+      "maxdate": "1948-04-30",
+      "latitude": -35.3,
+      "name": "WOORINEEN, AS",
+      "datacoverage": 0.9608,
+      "id": "GHCND:ASN00076071",
+      "longitude": 143.5
+    },
+    {
+      "mindate": "1915-01-01",
+      "maxdate": "1973-12-31",
+      "latitude": -35.15,
+      "name": "WOORNACK, AS",
+      "datacoverage": 0.9873,
+      "id": "GHCND:ASN00076072",
+      "longitude": 142.4833
+    },
+    {
+      "mindate": "1938-10-01",
+      "maxdate": "1978-06-16",
+      "latitude": -34.4,
+      "name": "YARRARA, AS",
+      "datacoverage": 0.8523,
+      "id": "GHCND:ASN00076073",
+      "longitude": 141.4167
+    },
+    {
+      "mindate": "1926-06-01",
+      "maxdate": "1952-01-31",
+      "latitude": -34.8,
+      "name": "YUNGERA, AS",
+      "datacoverage": 0.9902,
+      "id": "GHCND:ASN00076074",
+      "longitude": 143.1
+    },
+    {
+      "mindate": "1950-03-01",
+      "maxdate": "1953-12-31",
+      "latitude": -34.5,
+      "name": "MALLANBOOL, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076075",
+      "longitude": 141.5333
+    },
+    {
+      "mindate": "1945-08-01",
+      "maxdate": "1952-06-30",
+      "latitude": -35.4,
+      "name": "STRATTON, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076076",
+      "longitude": 142.6
+    },
+    {
+      "elevation": 53.9,
+      "mindate": "1889-06-01",
+      "maxdate": "1949-12-31",
+      "latitude": -34.1833,
+      "name": "MILDURA POST OFFICE, AS",
+      "datacoverage": 0.9973,
+      "id": "GHCND:ASN00076077",
+      "elevationUnit": "METERS",
+      "longitude": 142.2
+    },
+    {
+      "mindate": "1955-09-01",
+      "maxdate": "1956-10-31",
+      "latitude": -34.95,
+      "name": "NATYA, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076079",
+      "longitude": 143.2333
+    },
+    {
+      "mindate": "1927-01-01",
+      "maxdate": "1950-02-28",
+      "latitude": -35.3,
+      "name": "BARING PATCHWOLLOCK, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00076080",
+      "longitude": 142
+    },
+    {
+      "mindate": "1927-01-01",
+      "maxdate": "1946-01-31",
+      "latitude": -34.4,
+      "name": "BENETOOK STATE SCHOOL, AS",
+      "datacoverage": 0.7728,
+      "id": "GHCND:ASN00076081",
+      "longitude": 142
+    },
+    {
+      "mindate": "1906-10-01",
+      "maxdate": "1944-07-31",
+      "latitude": -35.2833,
+      "name": "CHILLINGOLLAH, AS",
+      "datacoverage": 0.4097,
+      "id": "GHCND:ASN00076082",
+      "longitude": 143.05
+    },
+    {
+      "mindate": "1927-03-01",
+      "maxdate": "1934-12-31",
+      "latitude": -35.4,
+      "name": "GUNAMALARY, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076083",
+      "longitude": 141.1
+    },
+    {
+      "mindate": "1916-07-01",
+      "maxdate": "1932-10-31",
+      "latitude": -34.75,
+      "name": "HATTAH, AS",
+      "datacoverage": 0.9995,
+      "id": "GHCND:ASN00076084",
+      "longitude": 142.3
+    },
+    {
+      "elevation": 46,
+      "mindate": "1902-12-01",
+      "maxdate": "1915-12-31",
+      "latitude": -34.2333,
+      "name": "IRYMPLE, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00076085",
+      "elevationUnit": "METERS",
+      "longitude": 142.1667
+    },
+    {
+      "mindate": "1929-01-01",
+      "maxdate": "1966-08-31",
+      "latitude": -34.4,
+      "name": "KARAWINNA POST OFFICE, AS",
+      "datacoverage": 0.6682,
+      "id": "GHCND:ASN00076086",
+      "longitude": 141.7
+    }
+  ]
+}

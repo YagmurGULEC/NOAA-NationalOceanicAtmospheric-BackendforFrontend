@@ -127,9 +127,9 @@ for offset in $OFFSETS; do
     done
 done
 #
-## ✅ Fix: Ensure offsets are correctly passed to parallel
-#parallel --delay 0.2 -j5 fetch_page ::: "${ENDPOINTS[@]}" ::: $OFFSETS &
-#wait $!  # ✅ Wait for parallel process to finish
+# ## ✅ Fix: Ensure offsets are correctly passed to parallel
+# parallel --delay 0.2 -j5 fetch_page ::: "${ENDPOINTS[@]}" ::: $OFFSETS &
+# wait $!  # ✅ Wait for parallel process to finish
 
 
 
