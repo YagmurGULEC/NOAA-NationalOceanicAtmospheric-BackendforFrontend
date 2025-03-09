@@ -9,14 +9,28 @@ services:
       POSTGRES_DB: noaa_database
       POSTGRES_PASSWORD: your_secure_password
       POSTGRES_USER: noaa_user
+    networks:
+        - my_network
     ports:
       - "5432:5432"
     volumes:
         - db-data:/var/lib/postgresql/data
         - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
-
-
+  backend:
+    build: ./backend
+    container_name: noaa-backend
+    restart: always
+    networks:
+        - my_network
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
 
 
 volumes:
   db-data:
+
+networks:
+  my_network:
+    driver: bridge
