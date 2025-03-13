@@ -10,26 +10,41 @@ services:
       POSTGRES_PASSWORD: your_secure_password
       POSTGRES_USER: noaa_user
     networks:
-        - my_network
+      - my_network
     ports:
       - "5432:5432"
     volumes:
-        - db-data:/var/lib/postgresql/data
-        - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - db-data:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+
   backend:
     build: ./backend
     container_name: noaa-backend
     restart: always
     networks:
-        - my_network
+      - my_network
     ports:
       - "8080:8080"
     depends_on:
       - db
-
+    environment:
+      DB_URL: jdbc:postgresql://db:5432/noaa_database
+      DB_USER: noaa_user
+      DB_PASSWORD: your_secure_password
+  frontend:
+    build: ./frontend-map-app
+    container_name: noaa-frontend
+    restart: always
+    networks:
+      - my_network
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
 
 volumes:
   db-data:
+
 
 networks:
   my_network:

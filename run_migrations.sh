@@ -65,15 +65,53 @@ if [ "$#" -eq 0 ]; then
     echo "❌ No migration specified. Use 'all' to apply all migrations or specify a file."
     exit 1
 fi
+
 if [ "$1" == "all" ]; then
     copy_csv_to_container
     echo "🔄 Applying all migrations..."
     for file in migrations/*.sql; do
         apply_migration "$(basename "$file")"
     done
+elif [ "$1" == "create_geojson" ]; then
+    echo "🔄 Generating Separate GeoJSON Files for Voronoi Polygons & Station Points"
+
+    HOST_VORONOI="./voronoi.json"  # On the host
+    HOST_STATIONS="./stations.json"
+
+    # Bounding box coordinates (modify as needed)
+    MIN_LON="-73.99"
+    MIN_LAT="40.70"
+    MAX_LON="-73.97"
+    MAX_LAT="40.72"
+
+    # Query Voronoi Polygons
+    docker exec -i "$CONTAINER_NAME" psql -U "$POSTGRES_USER" -d "$DB_NAME" -t -A -c "
+        
+           SELECT json_build_object(
+            'type', 'FeatureCollection',
+            'features', json_agg(
+                json_build_object(
+                    'type', 'Feature',
+                    'geometry', ST_AsGeoJSON(v.geom)::jsonb,
+                    'properties', jsonb_build_object(
+                        'id', v.id,
+                        'station_id', v.station_id
+                    )
+                )
+            )
+        )
+        FROM geo.voronoi_polygons v
+        WHERE v.geom && ST_MakeEnvelope($MIN_LON, $MIN_LAT, $MAX_LON, $MAX_LAT, 4326);
+       
+    "| jq . | tee "$HOST_VORONOI" > /dev/null
+
+
+    
+
+    
+    
+  
 else
-    echo "🔄 Applying specified migrations..."
-    for arg in "$@"; do
-        apply_migration "$arg"
-    done
+    apply_migration "$1"
+
 fi

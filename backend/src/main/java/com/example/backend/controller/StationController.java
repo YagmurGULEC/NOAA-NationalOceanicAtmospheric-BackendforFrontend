@@ -1,8 +1,11 @@
 package com.example.backend.controller;
-import com.example.backend.model.StationDTO;
+
 import org.springframework.web.bind.annotation.*;
 import com.example.backend.service.StationService;
 import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+import com.example.backend.model.Station;
 
 @RestController
 @RequestMapping("/stations")
@@ -11,16 +14,19 @@ public class StationController {
     public StationController(StationService stationService) {
         this.stationService = stationService;
     }
-    @GetMapping
-    public String hello() {
-        return "Hello from the other side!";
-    }
-    @GetMapping("/bbox")
-    public List<StationDTO> getStationsInBoundingBox(
+  @GetMapping("/bbox")
+    public Map<String, Object> getStationsInBoundingBox(
             @RequestParam double minLng,
             @RequestParam double minLat,
             @RequestParam double maxLng,
             @RequestParam double maxLat) {
-        return stationService.getStationsInBoundingBox(minLng, minLat, maxLng, maxLat);
+
+        List<Station> stations = stationService.getStationsInBoundingBox(minLng, minLat, maxLng, maxLat);
+
+        return Map.of(
+            "type", "FeatureCollection",
+            "features", stations // Automatically serialized as GeoJSON
+        );
     }
+    
 }

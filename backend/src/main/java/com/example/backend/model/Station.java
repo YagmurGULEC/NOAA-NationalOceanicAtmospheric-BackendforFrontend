@@ -1,12 +1,14 @@
 package com.example.backend.model;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+
+import com.example.backend.util.StationGeoJsonSerializer;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import jakarta.persistence.*;
+import org.locationtech.jts.geom.Point;
 
 @Entity
-@Table(name = "geo.stations", schema = "geo")
+@Table(name = "stations", schema = "geo")
+@JsonSerialize(using = StationGeoJsonSerializer.class)  // Attach custom serializer
 public class Station {
 
     @Id
@@ -16,18 +18,24 @@ public class Station {
     @Column(name = "name")
     private String name;
 
-    // Depending on your database and how you want to map the geometry,
-    // you can store it as a String (WKT) or use a geometry type.
-    @Column(name = "geom")
-    private String geom;
+    @Column(name = "geom", columnDefinition = "geometry(Point,4326)")
+    private Point geom;
 
     public Station() {} // Default no-arg constructor required by JPA
 
-    public Station(String id, String name, String geom) {
+    public Station(String id, String name, Point geom) {
         this.id = id;
         this.name = name;
         this.geom = geom;
     }
 
-    // Getters and setters...
+    // Getters and setters
+    public String getId() { return id; }
+    public void setId(String id) { this.id = id; }
+
+    public Point getGeom() { return geom; }
+    public void setGeom(Point geom) { this.geom = geom; }
+
+    public String getName() { return name; }
+    public void setName(String name) { this.name = name; }
 }
