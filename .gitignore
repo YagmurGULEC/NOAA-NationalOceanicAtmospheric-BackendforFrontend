@@ -7,4 +7,9 @@
 **/logs
 **/target
 
+**/.env*
+**/venv
+**/.ipynb_checkpoints/
+**/.idea/
+
 
