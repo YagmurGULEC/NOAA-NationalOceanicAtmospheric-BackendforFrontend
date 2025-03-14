@@ -11,7 +11,7 @@ help: Makefile
 ## install: installs dependencies under venv
 .PHONY: install
 install:
-	python3 -m venv venv
+	python3 -m venv .venv
 	pip install --upgrade pip
 
 .PHONY: post-install
