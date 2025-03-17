@@ -32,6 +32,7 @@
   flex-direction: column;
   gap: 32px;
   grid-row-start: 2;
+
 }
 
 .main ol {
@@ -165,4 +166,43 @@ a.secondary {
   .logo {
     filter: invert();
   }
+}
+
+.sliderContainer {
+  position: absolute;
+  top: 800px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(59, 58, 58, 0.5);
+  /* Only background is transparent */
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.slider {
+
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tick-labels {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin-top: 5px;
+  position: relative;
+}
+
+.tick-labels span {
+  position: absolute;
+  transform: translateX(-50%);
+  font-size: 12px;
+  white-space: nowrap;
 }
