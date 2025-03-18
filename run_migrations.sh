@@ -106,7 +106,9 @@ elif [ "$1" == "create_geojson" ]; then
     "| jq . | tee "$HOST_VORONOI" > /dev/null
 
 elif [ "$1" == "insert_station_data" ]; then
-    docker cp ./migrations/examples.csv "$CONTAINER_NAME":"$DESTINATION"/.
+    echo "🔄 Inserting station data"
+    echo "$CONTAINER_NAME":"$DESTINATION"/.
+    docker cp ./migrations/all_tavg_gsom.csv "$CONTAINER_NAME":"$DESTINATION"/.
     cat ./migrations/insert_stations_data.sql | docker exec -i "$CONTAINER_NAME" psql -U "$POSTGRES_USER" -d "$DB_NAME"
 
 elif [ "$1" == "get_schema" ]; then

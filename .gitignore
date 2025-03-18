@@ -7,8 +7,9 @@
 **/logs
 **/target
 
-**/.env*
-**/venv
+**/.env/
+**/venv/
+**/.venv/
 **/.ipynb_checkpoints/
 **/.idea/
 

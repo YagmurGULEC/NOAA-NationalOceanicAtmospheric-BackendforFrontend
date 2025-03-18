@@ -4,8 +4,5 @@ WHERE table_schema = 'geo';
 
 SELECT * FROM geo.station_data JOIN geo.stations ON station_data.station_id = stations.id 
 JOIN geo.datasets ON station_data.dataset_name = datasets.name 
-WHERE station_data.dataset_name='GSOM' AND station_data.datatype='TAVG' ORDER BY station_data.date DESC;
+WHERE station_data.dataset_name='GSOM' AND station_data.datatype='TAVG' ORDER BY station_data.date DESC LIMIT 10;
 
-DELETE FROM geo.station_data;
-
-SELECT * FROM geo.station_data;
