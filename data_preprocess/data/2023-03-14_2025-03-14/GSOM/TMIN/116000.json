@@ -1,0 +1,7011 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 116000,
+      "count": 227729,
+      "limit": 1000
+    }
+  },
+  "results": [
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094194",
+      "attributes": ",,,W",
+      "value": -5.36
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094197",
+      "attributes": ",,,W",
+      "value": 0.11
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094224",
+      "attributes": ",,,W",
+      "value": 4.12
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094225",
+      "attributes": ",,,W",
+      "value": 4.14
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094227",
+      "attributes": ",,,W",
+      "value": 1.44
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094236",
+      "attributes": ",,,W",
+      "value": -2.41
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094239",
+      "attributes": ",,,W",
+      "value": 0.07
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094240",
+      "attributes": ",,,W",
+      "value": 3.98
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094248",
+      "attributes": ",,,W",
+      "value": 4.55
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094261",
+      "attributes": ",,,W",
+      "value": 2.92
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094263",
+      "attributes": ",,,W",
+      "value": 1.12
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094266",
+      "attributes": ",,,W",
+      "value": 3.4
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094273",
+      "attributes": ",,,W",
+      "value": 3.25
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094274",
+      "attributes": ",,,W",
+      "value": 4.09
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094276",
+      "attributes": ",,,W",
+      "value": 4.62
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094281",
+      "attributes": ",,,W",
+      "value": 4.1
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094290",
+      "attributes": ",,,W",
+      "value": 3.83
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094298",
+      "attributes": ",,,W",
+      "value": 3.28
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094299",
+      "attributes": ",,,W",
+      "value": -3.93
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094623",
+      "attributes": ",,,W",
+      "value": -6.74
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094624",
+      "attributes": ",,,W",
+      "value": -1.47
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094626",
+      "attributes": ",,,W",
+      "value": -9.59
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094644",
+      "attributes": ",,,R",
+      "value": -8.45
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094645",
+      "attributes": ",,,R",
+      "value": -12.3
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094700",
+      "attributes": ",,,W",
+      "value": -12.47
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094702",
+      "attributes": ",,,W",
+      "value": -1.22
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094704",
+      "attributes": ",,,W",
+      "value": -2.62
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094705",
+      "attributes": ",,,W",
+      "value": -8.57
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094720",
+      "attributes": ",,,W",
+      "value": -3.05
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094723",
+      "attributes": "2,,,W",
+      "value": -3.89
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094724",
+      "attributes": ",,,W",
+      "value": -3.04
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094725",
+      "attributes": ",,,W",
+      "value": -8.64
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094726",
+      "attributes": ",,,W",
+      "value": -3.2
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094728",
+      "attributes": ",,,W",
+      "value": 1.08
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094732",
+      "attributes": ",,,W",
+      "value": -0.46
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094740",
+      "attributes": ",,,W",
+      "value": -11.78
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094741",
+      "attributes": ",,,W",
+      "value": -1.08
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094745",
+      "attributes": ",,,W",
+      "value": -2.36
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094746",
+      "attributes": ",,,W",
+      "value": -3.73
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094765",
+      "attributes": ",,,W",
+      "value": -7.48
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094789",
+      "attributes": ",,,W",
+      "value": -0.22
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094790",
+      "attributes": ",,,W",
+      "value": -6.47
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094814",
+      "attributes": ",,,W",
+      "value": -5.94
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094815",
+      "attributes": ",,,W",
+      "value": -2.38
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094817",
+      "attributes": ",,,W",
+      "value": -3.23
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094818",
+      "attributes": ",,,W",
+      "value": -2.15
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094822",
+      "attributes": ",,,W",
+      "value": -3.72
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094823",
+      "attributes": ",,,W",
+      "value": -1.62
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094830",
+      "attributes": ",,,W",
+      "value": -1.84
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094846",
+      "attributes": ",,,W",
+      "value": -1.22
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094847",
+      "attributes": ",,,W",
+      "value": -2.33
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094849",
+      "attributes": ",,,W",
+      "value": -5.58
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094850",
+      "attributes": ",,,W",
+      "value": -9.23
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094853",
+      "attributes": ",,,W",
+      "value": -7.51
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094855",
+      "attributes": ",,,W",
+      "value": -4.53
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094860",
+      "attributes": ",,,W",
+      "value": -3.25
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094868",
+      "attributes": ",,,W",
+      "value": -4.08
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094870",
+      "attributes": "3,,,W",
+      "value": -1.99
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094871",
+      "attributes": ",,,W",
+      "value": -2.23
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094889",
+      "attributes": ",,,W",
+      "value": -4.44
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094892",
+      "attributes": ",,,W",
+      "value": -3.32
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094893",
+      "attributes": ",,,W",
+      "value": -8.14
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094895",
+      "attributes": ",,,W",
+      "value": -1.29
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094897",
+      "attributes": ",,,W",
+      "value": -4.29
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094898",
+      "attributes": ",,,W",
+      "value": -2.14
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094899",
+      "attributes": ",,,W",
+      "value": -5.64
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094902",
+      "attributes": ",,,W",
+      "value": -6.36
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094908",
+      "attributes": ",,,W",
+      "value": -3.84
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094910",
+      "attributes": ",,,W",
+      "value": -5.11
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094911",
+      "attributes": ",,,7",
+      "value": -4.11
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094929",
+      "attributes": ",,,W",
+      "value": -8.18
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094931",
+      "attributes": ",,,W",
+      "value": -10.03
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094933",
+      "attributes": ",,,W",
+      "value": -4.76
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094938",
+      "attributes": ",,,W",
+      "value": -7.57
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094940",
+      "attributes": ",,,W",
+      "value": -7.68
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094943",
+      "attributes": "1,,,W",
+      "value": -4.41
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094946",
+      "attributes": ",,,W",
+      "value": -3.75
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094948",
+      "attributes": ",,,W",
+      "value": -5.34
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094949",
+      "attributes": ",,,W",
+      "value": -2.82
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094950",
+      "attributes": ",,,W",
+      "value": -4.2
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094951",
+      "attributes": ",,,W",
+      "value": -4.04
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094957",
+      "attributes": ",,,W",
+      "value": -2.35
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094958",
+      "attributes": ",,,W",
+      "value": -4.24
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094960",
+      "attributes": ",,,W",
+      "value": -5.65
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094961",
+      "attributes": ",,,W",
+      "value": -7.84
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094963",
+      "attributes": ",,,W",
+      "value": -5.5
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094967",
+      "attributes": ",,,W",
+      "value": -8.22
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094971",
+      "attributes": ",,,W",
+      "value": -5.33
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094973",
+      "attributes": ",,,W",
+      "value": -9.6
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094976",
+      "attributes": ",,,W",
+      "value": -5.55
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094978",
+      "attributes": ",,,W",
+      "value": -3.91
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094982",
+      "attributes": ",,,W",
+      "value": -3.3
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094985",
+      "attributes": ",,,W",
+      "value": -6.26
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094988",
+      "attributes": ",,,W",
+      "value": -4.8
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094989",
+      "attributes": ",,,W",
+      "value": -4.36
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094990",
+      "attributes": ",,,W",
+      "value": -3.02
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094991",
+      "attributes": ",,,W",
+      "value": -1.93
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094992",
+      "attributes": ",,,W",
+      "value": -7.04
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094993",
+      "attributes": ",,,W",
+      "value": -5.81
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094994",
+      "attributes": ",,,W",
+      "value": -5.12
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094995",
+      "attributes": ",,,R",
+      "value": -3.86
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00094996",
+      "attributes": ",,,R",
+      "value": -2.68
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00096404",
+      "attributes": ",,,R",
+      "value": -27.12
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00096407",
+      "attributes": ",,,R",
+      "value": -19.34
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00096409",
+      "attributes": ",,,R",
+      "value": -23.11
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:UZM00038149",
+      "attributes": "4,,,S",
+      "value": -6.33
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:UZM00038178",
+      "attributes": "4,,,S",
+      "value": -7.03
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:UZM00038606",
+      "attributes": "5,,,S",
+      "value": 0.45
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:VQC00670819",
+      "attributes": ",,,7",
+      "value": 22.24
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:VQW00011624",
+      "attributes": ",,,W",
+      "value": 23.25
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:VQW00011640",
+      "attributes": ",,,W",
+      "value": 23.39
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:WA004191820",
+      "attributes": "5,,,S",
+      "value": 19.59
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:WA007401540",
+      "attributes": ",,,S",
+      "value": 18.18
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:WAM00068006",
+      "attributes": "5,,,S",
+      "value": 21.12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:AQW00061705",
+      "attributes": ",,,W",
+      "value": 26.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00001006",
+      "attributes": ",,,a",
+      "value": 26.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00001007",
+      "attributes": ",,,a",
+      "value": 26.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00001019",
+      "attributes": ",,,a",
+      "value": 25.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00001020",
+      "attributes": ",,,a",
+      "value": 26.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00001025",
+      "attributes": ",,,a",
+      "value": 23.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00002056",
+      "attributes": ",,,a",
+      "value": 25.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00002064",
+      "attributes": ",,,a",
+      "value": 25.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00003003",
+      "attributes": ",,,a",
+      "value": 25.82
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00003032",
+      "attributes": ",,,a",
+      "value": 25.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00003057",
+      "attributes": "5,,,a",
+      "value": 25.58
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00003080",
+      "attributes": ",,,a",
+      "value": 24.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00003093",
+      "attributes": ",,,a",
+      "value": 24.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00004019",
+      "attributes": ",,,a",
+      "value": 25.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00004032",
+      "attributes": ",,,a",
+      "value": 26.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00004083",
+      "attributes": ",,,a",
+      "value": 26.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00004090",
+      "attributes": ",,,a",
+      "value": 26.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00004106",
+      "attributes": ",,,a",
+      "value": 25.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00005007",
+      "attributes": ",,,a",
+      "value": 24.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00005008",
+      "attributes": ",,,a",
+      "value": 26.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00005017",
+      "attributes": ",,,a",
+      "value": 25.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00005084",
+      "attributes": "2,,,a",
+      "value": 26.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00005094",
+      "attributes": ",,,a",
+      "value": 26.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00006011",
+      "attributes": ",,,a",
+      "value": 23.69
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00006072",
+      "attributes": "1,,,a",
+      "value": 25.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00006105",
+      "attributes": ",,,a",
+      "value": 22.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00007045",
+      "attributes": ",,,a",
+      "value": 21.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00007139",
+      "attributes": "4,,,a",
+      "value": 19.69
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00007176",
+      "attributes": ",,,a",
+      "value": 22.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00007185",
+      "attributes": ",,,a",
+      "value": 25.61
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00008095",
+      "attributes": "2,,,a",
+      "value": 20.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00008137",
+      "attributes": ",,,a",
+      "value": 16.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00008251",
+      "attributes": ",,,a",
+      "value": 20.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00008290",
+      "attributes": ",,,a",
+      "value": 22.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00008296",
+      "attributes": ",,,a",
+      "value": 19.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00008297",
+      "attributes": ",,,a",
+      "value": 17.1
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009021",
+      "attributes": ",,,a",
+      "value": 16.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009037",
+      "attributes": ",,,a",
+      "value": 17.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009053",
+      "attributes": ",,,a",
+      "value": 16.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009111",
+      "attributes": "1,,,a",
+      "value": 14.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009131",
+      "attributes": "4,,,a",
+      "value": 17.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009172",
+      "attributes": ",,,a",
+      "value": 16.25
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009178",
+      "attributes": ",,,a",
+      "value": 16.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009193",
+      "attributes": ",,,a",
+      "value": 19.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009215",
+      "attributes": ",,,a",
+      "value": 18.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009225",
+      "attributes": ",,,a",
+      "value": 17.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009240",
+      "attributes": ",,,a",
+      "value": 15.03
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009256",
+      "attributes": ",,,a",
+      "value": 17.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009500",
+      "attributes": "2,,,a",
+      "value": 15.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009518",
+      "attributes": ",,,a",
+      "value": 17.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009519",
+      "attributes": ",,,a",
+      "value": 15.69
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009538",
+      "attributes": ",,,a",
+      "value": 13.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009542",
+      "attributes": ",,,a",
+      "value": 15.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009573",
+      "attributes": ",,,a",
+      "value": 13.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009603",
+      "attributes": ",,,a",
+      "value": 14.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009617",
+      "attributes": ",,,a",
+      "value": 12.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009789",
+      "attributes": ",,,a",
+      "value": 15.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009842",
+      "attributes": ",,,a",
+      "value": 12.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009871",
+      "attributes": "1,,,a",
+      "value": 12.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009961",
+      "attributes": ",,,a",
+      "value": 14.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009964",
+      "attributes": ",,,a",
+      "value": 13.08
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009965",
+      "attributes": ",,,a",
+      "value": 15.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009968",
+      "attributes": ",,,a",
+      "value": 13.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009977",
+      "attributes": ",,,a",
+      "value": 18.12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009994",
+      "attributes": ",,,a",
+      "value": 12.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00009998",
+      "attributes": ",,,a",
+      "value": 14.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010092",
+      "attributes": ",,,a",
+      "value": 17.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010111",
+      "attributes": ",,,a",
+      "value": 15.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010286",
+      "attributes": ",,,a",
+      "value": 15.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010311",
+      "attributes": "2,,,a",
+      "value": 14.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010515",
+      "attributes": ",,,a",
+      "value": 14.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010524",
+      "attributes": "1,,,a",
+      "value": 14.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010568",
+      "attributes": ",,,a",
+      "value": 14.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010614",
+      "attributes": ",,,a",
+      "value": 13.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010626",
+      "attributes": "1,,,a",
+      "value": 14.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010633",
+      "attributes": ",,,a",
+      "value": 15.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010647",
+      "attributes": ",,,a",
+      "value": 13.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010692",
+      "attributes": "2,,,a",
+      "value": 13.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010905",
+      "attributes": ",,,a",
+      "value": 12.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010911",
+      "attributes": ",,,a",
+      "value": 14.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010916",
+      "attributes": ",,,a",
+      "value": 12.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00010917",
+      "attributes": ",,,a",
+      "value": 12.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00011003",
+      "attributes": ",,,a",
+      "value": 17.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00011019",
+      "attributes": "1,,,a",
+      "value": 15.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00011052",
+      "attributes": ",,,a",
+      "value": 16.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00011053",
+      "attributes": "3,,,a",
+      "value": 18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012009",
+      "attributes": ",,,a",
+      "value": 15.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012038",
+      "attributes": ",,,a",
+      "value": 16.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012044",
+      "attributes": ",,,a",
+      "value": 14.04
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012071",
+      "attributes": ",,,a",
+      "value": 12.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012239",
+      "attributes": "2,,,a",
+      "value": 19.49
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012241",
+      "attributes": ",,,a",
+      "value": 18.06
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012305",
+      "attributes": ",,,a",
+      "value": 18.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012314",
+      "attributes": "1,,,a",
+      "value": 18.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00012320",
+      "attributes": ",,,a",
+      "value": 16.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00013011",
+      "attributes": ",,,a",
+      "value": 22.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00013015",
+      "attributes": "5,,,a",
+      "value": 21.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00013017",
+      "attributes": ",,,a",
+      "value": 21.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00013030",
+      "attributes": ",,,a",
+      "value": 24.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014015",
+      "attributes": ",,,a",
+      "value": 25.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014041",
+      "attributes": ",,,a",
+      "value": 25.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014142",
+      "attributes": ",,,a",
+      "value": 25.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014198",
+      "attributes": "1,,,a",
+      "value": 25.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014253",
+      "attributes": ",,,a",
+      "value": 26.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014254",
+      "attributes": "3,,,a",
+      "value": 26.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014272",
+      "attributes": ",,,a",
+      "value": 24.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014274",
+      "attributes": "2,,,a",
+      "value": 27.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014277",
+      "attributes": ",,,a",
+      "value": 26.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014401",
+      "attributes": ",,,a",
+      "value": 26.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014404",
+      "attributes": ",,,a",
+      "value": 25.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014405",
+      "attributes": ",,,a",
+      "value": 25.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014518",
+      "attributes": ",,,a",
+      "value": 25.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014626",
+      "attributes": ",,,a",
+      "value": 24.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014627",
+      "attributes": ",,,a",
+      "value": 24.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014703",
+      "attributes": ",,,a",
+      "value": 26.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014825",
+      "attributes": ",,,a",
+      "value": 25.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014829",
+      "attributes": ",,,a",
+      "value": 23.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014901",
+      "attributes": ",,,a",
+      "value": 25.04
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014909",
+      "attributes": ",,,a",
+      "value": 23.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014932",
+      "attributes": ",,,a",
+      "value": 24.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014948",
+      "attributes": "1,,,a",
+      "value": 25.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014949",
+      "attributes": ",,,a",
+      "value": 24.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00014954",
+      "attributes": "1,,,a",
+      "value": 25.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015131",
+      "attributes": ",,,a",
+      "value": 24.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015135",
+      "attributes": ",,,a",
+      "value": 22.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015590",
+      "attributes": ",,,a",
+      "value": 20.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015594",
+      "attributes": "1,,,a",
+      "value": 19.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015602",
+      "attributes": "3,,,a",
+      "value": 22.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015635",
+      "attributes": ",,,a",
+      "value": 21.93
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015643",
+      "attributes": ",,,a",
+      "value": 20.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015652",
+      "attributes": "5,,,a",
+      "value": 21.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015664",
+      "attributes": ",,,a",
+      "value": 22.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00015666",
+      "attributes": ",,,a",
+      "value": 22.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016001",
+      "attributes": ",,,a",
+      "value": 20.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016065",
+      "attributes": "1,,,a",
+      "value": 22.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016067",
+      "attributes": ",,,a",
+      "value": 17.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016090",
+      "attributes": "1,,,a",
+      "value": 21.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016096",
+      "attributes": ",,,a",
+      "value": 20.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016097",
+      "attributes": ",,,a",
+      "value": 19.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00016098",
+      "attributes": ",,,a",
+      "value": 18.46
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00017043",
+      "attributes": "2,,,a",
+      "value": 24.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00017110",
+      "attributes": "1,,,a",
+      "value": 21.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00017123",
+      "attributes": ",,,a",
+      "value": 23.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00017126",
+      "attributes": ",,,a",
+      "value": 23.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018012",
+      "attributes": ",,,a",
+      "value": 15.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018014",
+      "attributes": ",,,a",
+      "value": 15.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018040",
+      "attributes": ",,,a",
+      "value": 16.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018044",
+      "attributes": "2,,,a",
+      "value": 13.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018079",
+      "attributes": "1,,,a",
+      "value": 13.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018083",
+      "attributes": ",,,a",
+      "value": 13.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018106",
+      "attributes": ",,,a",
+      "value": 16.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018115",
+      "attributes": ",,,a",
+      "value": 16.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018116",
+      "attributes": ",,,a",
+      "value": 16.16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018120",
+      "attributes": ",,,a",
+      "value": 17.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018192",
+      "attributes": ",,,a",
+      "value": 15.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018195",
+      "attributes": ",,,a",
+      "value": 15.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00018201",
+      "attributes": ",,,a",
+      "value": 19.25
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00019062",
+      "attributes": "2,,,a",
+      "value": 14.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00020028",
+      "attributes": ",,,a",
+      "value": 13.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00020062",
+      "attributes": ",,,a",
+      "value": 14.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00021131",
+      "attributes": ",,,a",
+      "value": 14.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00021133",
+      "attributes": ",,,a",
+      "value": 13.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022031",
+      "attributes": ",,,a",
+      "value": 14.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022046",
+      "attributes": ",,,a",
+      "value": 16.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022049",
+      "attributes": ",,,a",
+      "value": 16.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022050",
+      "attributes": "1,,,a",
+      "value": 14.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022803",
+      "attributes": ",,,a",
+      "value": 16.17
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022823",
+      "attributes": ",,,a",
+      "value": 14.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00022841",
+      "attributes": ",,,a",
+      "value": 11.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023000",
+      "attributes": ",,,a",
+      "value": 16.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023013",
+      "attributes": ",,,a",
+      "value": 16.16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023034",
+      "attributes": ",,,a",
+      "value": 16.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023083",
+      "attributes": ",,,a",
+      "value": 16.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023122",
+      "attributes": ",,,a",
+      "value": 15.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023373",
+      "attributes": ",,,a",
+      "value": 14.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023804",
+      "attributes": ",,,a",
+      "value": 13.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023842",
+      "attributes": "1,,,a",
+      "value": 13.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023875",
+      "attributes": ",,,a",
+      "value": 14.06
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023878",
+      "attributes": ",,,a",
+      "value": 13.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023885",
+      "attributes": ",,,a",
+      "value": 16.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023887",
+      "attributes": ",,,a",
+      "value": 14.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00023894",
+      "attributes": ",,,a",
+      "value": 14.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00024024",
+      "attributes": ",,,a",
+      "value": 13.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00024048",
+      "attributes": ",,,a",
+      "value": 14.95
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00024511",
+      "attributes": ",,,a",
+      "value": 14.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00024521",
+      "attributes": "1,,,a",
+      "value": 13.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00024580",
+      "attributes": ",,,a",
+      "value": 13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00024584",
+      "attributes": ",,,a",
+      "value": 12.93
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00025006",
+      "attributes": "5,,,a",
+      "value": 13.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00025507",
+      "attributes": "1,,,a",
+      "value": 12.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00025557",
+      "attributes": ",,,a",
+      "value": 11.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00025562",
+      "attributes": ",,,a",
+      "value": 12.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026021",
+      "attributes": ",,,a",
+      "value": 11.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026026",
+      "attributes": ",,,a",
+      "value": 12.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026091",
+      "attributes": ",,,a",
+      "value": 10.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026095",
+      "attributes": "1,,,a",
+      "value": 13.06
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026099",
+      "attributes": ",,,a",
+      "value": 10.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026100",
+      "attributes": ",,,a",
+      "value": 10.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00026105",
+      "attributes": ",,,a",
+      "value": 11.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00027045",
+      "attributes": ",,,a",
+      "value": 25.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00027054",
+      "attributes": "2,,,a",
+      "value": 26.58
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00027058",
+      "attributes": "1,,,a",
+      "value": 25.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00027073",
+      "attributes": ",,,a",
+      "value": 24.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00027075",
+      "attributes": "1,,,a",
+      "value": 24.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00028004",
+      "attributes": ",,,a",
+      "value": 23.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00028008",
+      "attributes": ",,,a",
+      "value": 24.92
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029038",
+      "attributes": ",,,a",
+      "value": 25.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029058",
+      "attributes": ",,,a",
+      "value": 22.6
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029063",
+      "attributes": ",,,a",
+      "value": 25.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029077",
+      "attributes": ",,,a",
+      "value": 25.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029127",
+      "attributes": ",,,a",
+      "value": 22.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029141",
+      "attributes": ",,,a",
+      "value": 23.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00029167",
+      "attributes": "1,,,a",
+      "value": 24.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00030022",
+      "attributes": ",,,a",
+      "value": 23.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00030124",
+      "attributes": ",,,a",
+      "value": 23.12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00030161",
+      "attributes": ",,,a",
+      "value": 22.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00031011",
+      "attributes": ",,,a",
+      "value": 24.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00031037",
+      "attributes": ",,,a",
+      "value": 25.58
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00031108",
+      "attributes": ",,,a",
+      "value": 20.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00031209",
+      "attributes": ",,,a",
+      "value": 24.92
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00031210",
+      "attributes": ",,,a",
+      "value": 22.08
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00031213",
+      "attributes": ",,,a",
+      "value": 25.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00032037",
+      "attributes": ",,,a",
+      "value": 23.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00032040",
+      "attributes": ",,,a",
+      "value": 24.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033002",
+      "attributes": ",,,a",
+      "value": 22.95
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033013",
+      "attributes": "2,,,a",
+      "value": 21.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033045",
+      "attributes": ",,,a",
+      "value": 23.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033106",
+      "attributes": ",,,a",
+      "value": 24.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033119",
+      "attributes": ",,,a",
+      "value": 24.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033195",
+      "attributes": ",,,a",
+      "value": 22.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033210",
+      "attributes": ",,,a",
+      "value": 22.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033247",
+      "attributes": ",,,a",
+      "value": 22.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033294",
+      "attributes": ",,,a",
+      "value": 23.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00033308",
+      "attributes": ",,,a",
+      "value": 22.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00034084",
+      "attributes": ",,,a",
+      "value": 21.93
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00035065",
+      "attributes": "3,,,a",
+      "value": 19.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00035069",
+      "attributes": "4,,,a",
+      "value": 18.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00035070",
+      "attributes": "1,,,a",
+      "value": 19.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00035264",
+      "attributes": ",,,a",
+      "value": 21.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00036007",
+      "attributes": ",,,a",
+      "value": 23.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00036026",
+      "attributes": ",,,a",
+      "value": 23.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00036031",
+      "attributes": ",,,a",
+      "value": 23.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00036034",
+      "attributes": ",,,a",
+      "value": 21.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00037010",
+      "attributes": ",,,a",
+      "value": 23.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00037034",
+      "attributes": ",,,a",
+      "value": 22.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00037036",
+      "attributes": ",,,a",
+      "value": 22.3
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00037039",
+      "attributes": ",,,a",
+      "value": 22.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00038000",
+      "attributes": "2,,,a",
+      "value": 23.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00038026",
+      "attributes": ",,,a",
+      "value": 24.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039059",
+      "attributes": "2,,,a",
+      "value": 24.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039066",
+      "attributes": ",,,a",
+      "value": 19.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039083",
+      "attributes": ",,,a",
+      "value": 22.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039089",
+      "attributes": ",,,a",
+      "value": 18.92
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039104",
+      "attributes": "5,,,a",
+      "value": 17.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039123",
+      "attributes": ",,,a",
+      "value": 22.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039128",
+      "attributes": ",,,a",
+      "value": 21.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039314",
+      "attributes": ",,,a",
+      "value": 21.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039322",
+      "attributes": ",,,a",
+      "value": 23.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00039326",
+      "attributes": ",,,a",
+      "value": 22.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040004",
+      "attributes": ",,,a",
+      "value": 18.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040043",
+      "attributes": ",,,a",
+      "value": 21.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040068",
+      "attributes": "3,,,a",
+      "value": 22.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040082",
+      "attributes": ",,,a",
+      "value": 18.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040093",
+      "attributes": ",,,a",
+      "value": 19.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040126",
+      "attributes": ",,,a",
+      "value": 20.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040209",
+      "attributes": "2,,,a",
+      "value": 21.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040211",
+      "attributes": ",,,a",
+      "value": 19.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040284",
+      "attributes": ",,,a",
+      "value": 19.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040405",
+      "attributes": ",,,a",
+      "value": 21.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040717",
+      "attributes": ",,,a",
+      "value": 20.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040764",
+      "attributes": ",,,a",
+      "value": 21.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040842",
+      "attributes": ",,,a",
+      "value": 20.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040856",
+      "attributes": "3,,,a",
+      "value": 21.49
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040861",
+      "attributes": ",,,a",
+      "value": 21.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040908",
+      "attributes": ",,,a",
+      "value": 21.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040913",
+      "attributes": ",,,a",
+      "value": 20.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040922",
+      "attributes": ",,,a",
+      "value": 16.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00040958",
+      "attributes": ",,,a",
+      "value": 21.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041095",
+      "attributes": "1,,,a",
+      "value": 15.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041100",
+      "attributes": ",,,a",
+      "value": 17.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041175",
+      "attributes": ",,,a",
+      "value": 14.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041359",
+      "attributes": ",,,a",
+      "value": 17.12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041522",
+      "attributes": ",,,a",
+      "value": 17.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041525",
+      "attributes": ",,,a",
+      "value": 16.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00041529",
+      "attributes": ",,,a",
+      "value": 16.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00042112",
+      "attributes": ",,,a",
+      "value": 19.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00043015",
+      "attributes": "2,,,a",
+      "value": 17.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00043020",
+      "attributes": ",,,a",
+      "value": 19.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00043035",
+      "attributes": "1,,,a",
+      "value": 19.3
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00043091",
+      "attributes": ",,,a",
+      "value": 19.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00043109",
+      "attributes": ",,,a",
+      "value": 20.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00044010",
+      "attributes": "3,,,a",
+      "value": 20.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00044021",
+      "attributes": ",,,a",
+      "value": 21.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00044026",
+      "attributes": "1,,,a",
+      "value": 21.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00045009",
+      "attributes": ",,,a",
+      "value": 24.17
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00045025",
+      "attributes": ",,,a",
+      "value": 23.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00046012",
+      "attributes": ",,,a",
+      "value": 18.25
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00046126",
+      "attributes": ",,,a",
+      "value": 22.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00046128",
+      "attributes": ",,,a",
+      "value": 20.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00046129",
+      "attributes": ",,,a",
+      "value": 20.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00047016",
+      "attributes": "2,,,a",
+      "value": 15.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00047019",
+      "attributes": "3,,,a",
+      "value": 17.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00047029",
+      "attributes": ",,,a",
+      "value": 16.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00047048",
+      "attributes": ",,,a",
+      "value": 17.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00048015",
+      "attributes": "3,,,a",
+      "value": 18.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00048027",
+      "attributes": ",,,a",
+      "value": 19.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00048079",
+      "attributes": "3,,,a",
+      "value": 21.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00048237",
+      "attributes": ",,,a",
+      "value": 18.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00048245",
+      "attributes": ",,,a",
+      "value": 19.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00049000",
+      "attributes": ",,,a",
+      "value": 17.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00049002",
+      "attributes": "4,,,a",
+      "value": 15.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00050017",
+      "attributes": ",,,a",
+      "value": 14.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00050137",
+      "attributes": ",,,a",
+      "value": 15.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00051049",
+      "attributes": ",,,a",
+      "value": 17.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00051161",
+      "attributes": ",,,a",
+      "value": 18.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00052020",
+      "attributes": ",,,a",
+      "value": 19.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00052088",
+      "attributes": ",,,a",
+      "value": 18.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00053115",
+      "attributes": ",,,a",
+      "value": 19.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00054003",
+      "attributes": "5,,,a",
+      "value": 13.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00054038",
+      "attributes": ",,,a",
+      "value": 17.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00055024",
+      "attributes": ",,,a",
+      "value": 17.93
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00055049",
+      "attributes": ",,,a",
+      "value": 15.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00055136",
+      "attributes": ",,,a",
+      "value": 10.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00055202",
+      "attributes": "2,,,a",
+      "value": 16.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00055325",
+      "attributes": ",,,a",
+      "value": 15.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056013",
+      "attributes": ",,,a",
+      "value": 13.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056018",
+      "attributes": ",,,a",
+      "value": 15.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056037",
+      "attributes": ",,,a",
+      "value": 11.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056229",
+      "attributes": ",,,a",
+      "value": 10.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056238",
+      "attributes": ",,,a",
+      "value": 12.16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056242",
+      "attributes": ",,,a",
+      "value": 13.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00056243",
+      "attributes": "1,,,a",
+      "value": 13.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00057095",
+      "attributes": ",,,a",
+      "value": 16.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058012",
+      "attributes": ",,,a",
+      "value": 20.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058077",
+      "attributes": ",,,a",
+      "value": 18.69
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058161",
+      "attributes": ",,,a",
+      "value": 17.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058198",
+      "attributes": ",,,a",
+      "value": 19.46
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058208",
+      "attributes": ",,,a",
+      "value": 17.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058212",
+      "attributes": ",,,a",
+      "value": 19.6
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058214",
+      "attributes": ",,,a",
+      "value": 17.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00058216",
+      "attributes": ",,,a",
+      "value": 20.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00059007",
+      "attributes": ",,,a",
+      "value": 17.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00059140",
+      "attributes": "5,,,a",
+      "value": 14.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00060085",
+      "attributes": ",,,a",
+      "value": 16.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00060141",
+      "attributes": ",,,a",
+      "value": 17.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061055",
+      "attributes": ",,,a",
+      "value": 19.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061078",
+      "attributes": ",,,a",
+      "value": 16.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061250",
+      "attributes": ",,,a",
+      "value": 16.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061260",
+      "attributes": ",,,a",
+      "value": 14.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061287",
+      "attributes": ",,,a",
+      "value": 13.87
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061363",
+      "attributes": ",,,a",
+      "value": 14.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061366",
+      "attributes": ",,,a",
+      "value": 19.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061375",
+      "attributes": ",,,a",
+      "value": 15.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00061392",
+      "attributes": ",,,a",
+      "value": 14.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00062100",
+      "attributes": ",,,a",
+      "value": 11.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00062101",
+      "attributes": ",,,a",
+      "value": 13.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00063005",
+      "attributes": "5,,,a",
+      "value": 11.03
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00063226",
+      "attributes": ",,,a",
+      "value": 10.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00063291",
+      "attributes": ",,,a",
+      "value": 11.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00063292",
+      "attributes": ",,,a",
+      "value": 12.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00063303",
+      "attributes": "1,,,a",
+      "value": 10.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00064008",
+      "attributes": ",,,a",
+      "value": 13.58
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00064009",
+      "attributes": "4,,,a",
+      "value": 14.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00064017",
+      "attributes": ",,,a",
+      "value": 16.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00065034",
+      "attributes": "1,,,a",
+      "value": 15.82
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00065068",
+      "attributes": ",,,a",
+      "value": 15.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00065070",
+      "attributes": ",,,a",
+      "value": 16.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00065103",
+      "attributes": "1,,,a",
+      "value": 14.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00065111",
+      "attributes": ",,,a",
+      "value": 14.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00066037",
+      "attributes": ",,,a",
+      "value": 19.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00066059",
+      "attributes": ",,,a",
+      "value": 17.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00066124",
+      "attributes": ",,,a",
+      "value": 17.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00066137",
+      "attributes": ",,,a",
+      "value": 16.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00066194",
+      "attributes": ",,,a",
+      "value": 16.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00066196",
+      "attributes": "1,,,a",
+      "value": 19.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00067105",
+      "attributes": ",,,a",
+      "value": 16.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00067108",
+      "attributes": ",,,a",
+      "value": 15.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00067113",
+      "attributes": ",,,a",
+      "value": 17.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00067119",
+      "attributes": ",,,a",
+      "value": 16.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068072",
+      "attributes": ",,,a",
+      "value": 15.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068151",
+      "attributes": ",,,a",
+      "value": 18.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068192",
+      "attributes": ",,,a",
+      "value": 15.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068228",
+      "attributes": ",,,a",
+      "value": 18.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068239",
+      "attributes": ",,,a",
+      "value": 12.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068241",
+      "attributes": ",,,a",
+      "value": 15.92
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068242",
+      "attributes": "1,,,a",
+      "value": 18.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00068257",
+      "attributes": ",,,a",
+      "value": 15.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069017",
+      "attributes": ",,,a",
+      "value": 18.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069018",
+      "attributes": "1,,,a",
+      "value": 16.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069022",
+      "attributes": "1,,,a",
+      "value": 16.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069132",
+      "attributes": ",,,a",
+      "value": 10.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069137",
+      "attributes": ",,,a",
+      "value": 16.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069138",
+      "attributes": ",,,a",
+      "value": 17.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069139",
+      "attributes": ",,,a",
+      "value": 14.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069147",
+      "attributes": ",,,a",
+      "value": 14.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00069148",
+      "attributes": ",,,a",
+      "value": 15.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070005",
+      "attributes": ",,,a",
+      "value": 9.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070080",
+      "attributes": "2,,,a",
+      "value": 10.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070217",
+      "attributes": ",,,a",
+      "value": 7.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070263",
+      "attributes": ",,,a",
+      "value": 12.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070278",
+      "attributes": "3,,,a",
+      "value": 8.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070328",
+      "attributes": ",,,a",
+      "value": 8.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070330",
+      "attributes": ",,,a",
+      "value": 9.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070339",
+      "attributes": ",,,a",
+      "value": 11.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00070349",
+      "attributes": ",,,a",
+      "value": 8.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00071032",
+      "attributes": ",,,a",
+      "value": 6.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00071041",
+      "attributes": "3,,,a",
+      "value": 5.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00072023",
+      "attributes": ",,,a",
+      "value": 15.17
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00072043",
+      "attributes": "1,,,a",
+      "value": 9.31
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00072150",
+      "attributes": ",,,a",
+      "value": 14.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00072160",
+      "attributes": ",,,a",
+      "value": 14.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00072161",
+      "attributes": "1,,,a",
+      "value": 10.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00072162",
+      "attributes": ",,,a",
+      "value": 10.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00073014",
+      "attributes": ",,,a",
+      "value": 12.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00073138",
+      "attributes": ",,,a",
+      "value": 11.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00073142",
+      "attributes": ",,,a",
+      "value": 13.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00073151",
+      "attributes": ",,,a",
+      "value": 13.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00074037",
+      "attributes": "3,,,a",
+      "value": 16.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00074148",
+      "attributes": ",,,a",
+      "value": 15.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00074258",
+      "attributes": ",,,a",
+      "value": 13.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00075032",
+      "attributes": "2,,,a",
+      "value": 16.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00075041",
+      "attributes": ",,,a",
+      "value": 15.61
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00076031",
+      "attributes": ",,,a",
+      "value": 15.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00076047",
+      "attributes": "1,,,a",
+      "value": 14.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00076064",
+      "attributes": ",,,a",
+      "value": 14.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00077010",
+      "attributes": ",,,a",
+      "value": 13.08
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00077094",
+      "attributes": ",,,a",
+      "value": 13.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00078015",
+      "attributes": ",,,a",
+      "value": 12.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00079028",
+      "attributes": ",,,a",
+      "value": 11.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00079097",
+      "attributes": ",,,a",
+      "value": 10.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00079099",
+      "attributes": ",,,a",
+      "value": 11.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00079100",
+      "attributes": ",,,a",
+      "value": 10.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00079103",
+      "attributes": ",,,a",
+      "value": 9.57
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00079105",
+      "attributes": ",,,a",
+      "value": 11.87
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00080015",
+      "attributes": ",,,a",
+      "value": 13.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00080023",
+      "attributes": ",,,a",
+      "value": 13.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00080091",
+      "attributes": ",,,a",
+      "value": 13.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00080128",
+      "attributes": ",,,a",
+      "value": 12.82
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00081049",
+      "attributes": ",,,a",
+      "value": 13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00081123",
+      "attributes": ",,,a",
+      "value": 12.09
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00081124",
+      "attributes": "3,,,a",
+      "value": 13.57
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00081125",
+      "attributes": ",,,a",
+      "value": 13.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00082039",
+      "attributes": ",,,a",
+      "value": 10.57
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00082042",
+      "attributes": "1,,,a",
+      "value": 9.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00082138",
+      "attributes": ",,,a",
+      "value": 10.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00082139",
+      "attributes": ",,,a",
+      "value": 13.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00082169",
+      "attributes": "2,,,a",
+      "value": 9.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00082170",
+      "attributes": "1,,,a",
+      "value": 12.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00083024",
+      "attributes": ",,,a",
+      "value": 8.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00083083",
+      "attributes": "5,,,a",
+      "value": 11.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00083084",
+      "attributes": ",,,a",
+      "value": 8.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00083085",
+      "attributes": ",,,a",
+      "value": 7.87
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00083090",
+      "attributes": ",,,a",
+      "value": 8.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00084016",
+      "attributes": ",,,a",
+      "value": 16.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00084084",
+      "attributes": "2,,,a",
+      "value": 15.1
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00084142",
+      "attributes": ",,,a",
+      "value": 10.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00084143",
+      "attributes": ",,,a",
+      "value": 12.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00084145",
+      "attributes": "5,,,a",
+      "value": 13.46
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00084150",
+      "attributes": ",,,a",
+      "value": 13.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00085072",
+      "attributes": ",,,a",
+      "value": 11.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00085096",
+      "attributes": ",,,a",
+      "value": 15.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00085279",
+      "attributes": ",,,a",
+      "value": 12.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00085280",
+      "attributes": ",,,a",
+      "value": 11.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00085291",
+      "attributes": "3,,,a",
+      "value": 7.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00085296",
+      "attributes": ",,,a",
+      "value": 12.6
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086038",
+      "attributes": ",,,a",
+      "value": 14.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086068",
+      "attributes": ",,,a",
+      "value": 12.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086077",
+      "attributes": ",,,a",
+      "value": 13.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086104",
+      "attributes": "2,,,a",
+      "value": 13.08
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086282",
+      "attributes": ",,,a",
+      "value": 13.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086361",
+      "attributes": ",,,a",
+      "value": 12.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086373",
+      "attributes": "4,,,a",
+      "value": 15.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00086383",
+      "attributes": ",,,a",
+      "value": 9.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00087031",
+      "attributes": ",,,a",
+      "value": 13.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00087113",
+      "attributes": ",,,a",
+      "value": 12.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00087168",
+      "attributes": ",,,a",
+      "value": 11.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088023",
+      "attributes": "1,,,a",
+      "value": 10.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088043",
+      "attributes": ",,,a",
+      "value": 12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088051",
+      "attributes": ",,,a",
+      "value": 11.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088109",
+      "attributes": ",,,a",
+      "value": 12.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088110",
+      "attributes": "3,,,a",
+      "value": 11.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088162",
+      "attributes": ",,,a",
+      "value": 11.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00088164",
+      "attributes": ",,,a",
+      "value": 12.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00089002",
+      "attributes": ",,,a",
+      "value": 10.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00089085",
+      "attributes": "1,,,a",
+      "value": 9.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00089112",
+      "attributes": "1,,,a",
+      "value": 9.16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090015",
+      "attributes": ",,,a",
+      "value": 14.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090035",
+      "attributes": ",,,a",
+      "value": 12.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090171",
+      "attributes": ",,,a",
+      "value": 11.61
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090173",
+      "attributes": ",,,a",
+      "value": 10.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090175",
+      "attributes": ",,,a",
+      "value": 13.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090176",
+      "attributes": ",,,a",
+      "value": 9.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090180",
+      "attributes": ",,,a",
+      "value": 14.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090182",
+      "attributes": ",,,a",
+      "value": 10.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090184",
+      "attributes": ",,,a",
+      "value": 14.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00090186",
+      "attributes": ",,,a",
+      "value": 10.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091107",
+      "attributes": ",,,a",
+      "value": 11.08
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091126",
+      "attributes": ",,,a",
+      "value": 11.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091219",
+      "attributes": ",,,a",
+      "value": 11.06
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091223",
+      "attributes": "1,,,a",
+      "value": 11.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091237",
+      "attributes": ",,,a",
+      "value": 11.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091259",
+      "attributes": ",,,a",
+      "value": 10.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091291",
+      "attributes": ",,,a",
+      "value": 9.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091292",
+      "attributes": ",,,a",
+      "value": 10.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091293",
+      "attributes": ",,,a",
+      "value": 13.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00091311",
+      "attributes": ",,,a",
+      "value": 9.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00092003",
+      "attributes": ",,,a",
+      "value": 13.09
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00092045",
+      "attributes": "2,,,a",
+      "value": 14.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00092114",
+      "attributes": ",,,a",
+      "value": 12.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00092120",
+      "attributes": ",,,a",
+      "value": 12.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00092123",
+      "attributes": ",,,a",
+      "value": 15.17
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00092124",
+      "attributes": ",,,a",
+      "value": 13.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00093053",
+      "attributes": ",,,a",
+      "value": 7.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094020",
+      "attributes": ",,,a",
+      "value": 8.82
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094029",
+      "attributes": "1,,,a",
+      "value": 11.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094041",
+      "attributes": ",,,a",
+      "value": 11.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094087",
+      "attributes": ",,,a",
+      "value": 4.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094155",
+      "attributes": ",,,a",
+      "value": 11.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094191",
+      "attributes": ",,,a",
+      "value": 6.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094195",
+      "attributes": ",,,a",
+      "value": 7.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094198",
+      "attributes": "1,,,a",
+      "value": 11.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094212",
+      "attributes": ",,,a",
+      "value": 9.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00094220",
+      "attributes": ",,,a",
+      "value": 7.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00095003",
+      "attributes": ",,,a",
+      "value": 8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00095048",
+      "attributes": ",,,a",
+      "value": 8.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00096003",
+      "attributes": ",,,a",
+      "value": 5.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00096033",
+      "attributes": ",,,a",
+      "value": 4.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00097000",
+      "attributes": ",,,a",
+      "value": 12.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00097024",
+      "attributes": ",,,a",
+      "value": 7.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00097072",
+      "attributes": ",,,a",
+      "value": 9.95
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00097080",
+      "attributes": ",,,a",
+      "value": 11.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00097083",
+      "attributes": ",,,a",
+      "value": 8.3
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00097085",
+      "attributes": ",,,a",
+      "value": 5.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00098017",
+      "attributes": ",,,a",
+      "value": 12.04
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:ASN00099005",
+      "attributes": ",,,a",
+      "value": 13.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:AU000005010",
+      "attributes": ",,,E",
+      "value": 4.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:AU000005901",
+      "attributes": ",,,E",
+      "value": 6.09
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:AU000006306",
+      "attributes": ",,,E",
+      "value": 4.31
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:AU000011801",
+      "attributes": ",,,E",
+      "value": 4.92
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:AU000015410",
+      "attributes": ",,,E",
+      "value": -9.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:BKM00014654",
+      "attributes": ",,,E",
+      "value": 4.95
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001011500",
+      "attributes": ",,,C",
+      "value": 3.87
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001012475",
+      "attributes": ",,,C",
+      "value": 6.12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001012710",
+      "attributes": ",,,C",
+      "value": 4.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001014820",
+      "attributes": ",,,C",
+      "value": 3.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001015630",
+      "attributes": ",,,C",
+      "value": 2.03
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001015638",
+      "attributes": "1,,,C",
+      "value": 4.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001016640",
+      "attributes": ",,,C",
+      "value": 5.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001017099",
+      "attributes": ",,,C",
+      "value": 4.03
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001017101",
+      "attributes": "1,,,C",
+      "value": 6.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001017254",
+      "attributes": ",,,C",
+      "value": 5.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001018598",
+      "attributes": ",,,C",
+      "value": 3.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001018611",
+      "attributes": ",,,C",
+      "value": 4.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001020590",
+      "attributes": ",,,C",
+      "value": 5.5
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001021261",
+      "attributes": ",,,C",
+      "value": 0.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001021330",
+      "attributes": ",,,C",
+      "value": 4.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001021480",
+      "attributes": ",,,C",
+      "value": 4.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001021830",
+      "attributes": ",,,C",
+      "value": 3.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001021988",
+      "attributes": "2,,,C",
+      "value": 2.12
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001022689",
+      "attributes": ",,,C",
+      "value": 5.62
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001022795",
+      "attributes": ",,,C",
+      "value": 4.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001026170",
+      "attributes": ",,,C",
+      "value": 5.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001026562",
+      "attributes": ",,,C",
+      "value": 2.04
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001026565",
+      "attributes": ",,,C",
+      "value": 2.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001026639",
+      "attributes": ",,,C",
+      "value": 1.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001027403",
+      "attributes": ",,,C",
+      "value": 5.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00102BFHH",
+      "attributes": ",,,C",
+      "value": 5.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001030230",
+      "attributes": ",,,C",
+      "value": 1.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001031316",
+      "attributes": ",,,C",
+      "value": 4.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001031353",
+      "attributes": ",,,C",
+      "value": 3.87
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001032730",
+      "attributes": ",,,C",
+      "value": 4.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001034600",
+      "attributes": ",,,C",
+      "value": 4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001035612",
+      "attributes": ",,,C",
+      "value": 1.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001035614",
+      "attributes": ",,,C",
+      "value": 4.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001035940",
+      "attributes": ",,,C",
+      "value": 2.95
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001036570",
+      "attributes": "1,,,C",
+      "value": 3.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001036572",
+      "attributes": ",,,C",
+      "value": 4.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001036B06",
+      "attributes": ",,,C",
+      "value": 1.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001037090",
+      "attributes": "2,,,C",
+      "value": 4.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001037553",
+      "attributes": "2,,,C",
+      "value": 4.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001038332",
+      "attributes": ",,,C",
+      "value": 2.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001039035",
+      "attributes": ",,,C",
+      "value": 1.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001043152",
+      "attributes": ",,,C",
+      "value": 4.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001045100",
+      "attributes": "1,,,C",
+      "value": 5.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001046332",
+      "attributes": ",,,C",
+      "value": 3.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001046391",
+      "attributes": ",,,C",
+      "value": 1.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001046392",
+      "attributes": ",,,C",
+      "value": 1.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001047172",
+      "attributes": ",,,C",
+      "value": 2.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA0010476F0",
+      "attributes": "1,,,C",
+      "value": 1.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001048898",
+      "attributes": "4,,,C",
+      "value": -2.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001051351",
+      "attributes": "2,,,C",
+      "value": 4.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001054500",
+      "attributes": ",,,C",
+      "value": 2.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001054503",
+      "attributes": ",,,C",
+      "value": 2.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001056869",
+      "attributes": ",,,C",
+      "value": 2.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001057052",
+      "attributes": ",,,C",
+      "value": 2.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001060080",
+      "attributes": ",,,C",
+      "value": 4.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001060815",
+      "attributes": ",,,C",
+      "value": -0.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001060901",
+      "attributes": ",,,C",
+      "value": 1.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001060902",
+      "attributes": ",,,C",
+      "value": 3.34
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001060R0K",
+      "attributes": "1,,,C",
+      "value": 3.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001062251",
+      "attributes": "2,,,C",
+      "value": 4.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001062544",
+      "attributes": ",,,C",
+      "value": 3.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001062646",
+      "attributes": ",,,C",
+      "value": 4.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001063298",
+      "attributes": ",,,C",
+      "value": 3.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001063461",
+      "attributes": ",,,C",
+      "value": 5.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001063690",
+      "attributes": ",,,C",
+      "value": 3.31
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001064020",
+      "attributes": ",,,C",
+      "value": -2.9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001064728",
+      "attributes": ",,,C",
+      "value": 3.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001065010",
+      "attributes": ",,,C",
+      "value": 3.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001066482",
+      "attributes": ",,,C",
+      "value": 0.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001068131",
+      "attributes": "2,,,C",
+      "value": -4.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001068134",
+      "attributes": ",,,C",
+      "value": -2.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001068250",
+      "attributes": ",,,C",
+      "value": 4.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001077499",
+      "attributes": ",,,C",
+      "value": -5.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00107G879",
+      "attributes": ",,,C",
+      "value": -4.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001085836",
+      "attributes": "1,,,C",
+      "value": -9.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001086082",
+      "attributes": ",,,C",
+      "value": -0.25
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001086558",
+      "attributes": "1,,,C",
+      "value": -11.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001088015",
+      "attributes": "1,,,C",
+      "value": -7.03
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001090660",
+      "attributes": "1,,,C",
+      "value": -9.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001091174",
+      "attributes": "2,,,C",
+      "value": -9.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001093474",
+      "attributes": "3,,,C",
+      "value": -6.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001096439",
+      "attributes": "1,,,C",
+      "value": -7.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001096629",
+      "attributes": ",,,C",
+      "value": -6.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001096631",
+      "attributes": ",,,C",
+      "value": -6.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001097646",
+      "attributes": ",,,C",
+      "value": -8.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001098941",
+      "attributes": "2,,,C",
+      "value": -4.89
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001100031",
+      "attributes": "2,,,C",
+      "value": 3.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001100119",
+      "attributes": ",,,C",
+      "value": 3.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001100875",
+      "attributes": "1,,,C",
+      "value": -2.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001101300",
+      "attributes": ",,,C",
+      "value": -2.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001101708",
+      "attributes": ",,,C",
+      "value": 3.87
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001102415",
+      "attributes": "1,,,C",
+      "value": 1.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001102425",
+      "attributes": ",,,C",
+      "value": 5.95
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001102912",
+      "attributes": ",,,C",
+      "value": 3.61
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001105192",
+      "attributes": ",,,C",
+      "value": 3.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001105658",
+      "attributes": ",,,C",
+      "value": -1.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001106178",
+      "attributes": ",,,C",
+      "value": 3.61
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001106200",
+      "attributes": ",,,C",
+      "value": 5.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001106CL2",
+      "attributes": "2,,,C",
+      "value": 3.09
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001107010",
+      "attributes": ",,,C",
+      "value": 5.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001108380",
+      "attributes": ",,,C",
+      "value": 3.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001108395",
+      "attributes": "2,,,C",
+      "value": 3.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001108446",
+      "attributes": ",,,C",
+      "value": 4.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001108824",
+      "attributes": ",,,C",
+      "value": 3.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001108906",
+      "attributes": ",,,C",
+      "value": -5.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001108910",
+      "attributes": ",,,C",
+      "value": 4.3
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001113542",
+      "attributes": ",,,C",
+      "value": 2.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001113543",
+      "attributes": ",,,C",
+      "value": 2.58
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001113581",
+      "attributes": ",,,C",
+      "value": -2.23
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001114619",
+      "attributes": ",,,C",
+      "value": -0.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001114746",
+      "attributes": ",,,C",
+      "value": 0.6
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001123721",
+      "attributes": ",,,C",
+      "value": -5.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001123939",
+      "attributes": "1,,,C",
+      "value": -2.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001125073",
+      "attributes": ",,,C",
+      "value": -4.08
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001125852",
+      "attributes": ",,,C",
+      "value": 0.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001126070",
+      "attributes": ",,,C",
+      "value": 1.76
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001126146",
+      "attributes": "3,,,C",
+      "value": -1.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001128582",
+      "attributes": ",,,C",
+      "value": -0.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001128584",
+      "attributes": ",,,C",
+      "value": -5.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00112FN0M",
+      "attributes": ",,,C",
+      "value": -3.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00112G8L1",
+      "attributes": ",,,C",
+      "value": 0.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001140876",
+      "attributes": ",,,C",
+      "value": -0.16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001141457",
+      "attributes": "1,,,C",
+      "value": 0.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001142574",
+      "attributes": ",,,C",
+      "value": -2.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001144635",
+      "attributes": ",,,C",
+      "value": -0.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001145297",
+      "attributes": ",,,C",
+      "value": -1.72
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001145460",
+      "attributes": ",,,C",
+      "value": -0.74
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001145M29",
+      "attributes": "1,,,C",
+      "value": -0.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001148705",
+      "attributes": ",,,C",
+      "value": -0.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00114B1F0",
+      "attributes": ",,,C",
+      "value": 0.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00114EMDM",
+      "attributes": ",,,C",
+      "value": -1.58
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001152105",
+      "attributes": "1,,,C",
+      "value": -4.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001152850",
+      "attributes": "2,,,C",
+      "value": -6.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001154203",
+      "attributes": ",,,C",
+      "value": -4.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001157631",
+      "attributes": ",,,C",
+      "value": -6.64
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001160515",
+      "attributes": ",,,C",
+      "value": -0.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001160899",
+      "attributes": ",,,C",
+      "value": -4.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001160H99",
+      "attributes": ",,,C",
+      "value": -5.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001163842",
+      "attributes": ",,,C",
+      "value": -0.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001166658",
+      "attributes": "1,,,C",
+      "value": -4.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001168520",
+      "attributes": "1,,,C",
+      "value": -4.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00116C8P0",
+      "attributes": ",,,C",
+      "value": -1.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00116FRMN",
+      "attributes": ",,,C",
+      "value": -2.17
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001173210",
+      "attributes": ",,,C",
+      "value": -4.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001175122",
+      "attributes": "4,,,C",
+      "value": -4.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001176745",
+      "attributes": "1,,,C",
+      "value": -2.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA0011790J1",
+      "attributes": "2,,,C",
+      "value": -10.97
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001181508",
+      "attributes": ",,,C",
+      "value": -8.69
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001182289",
+      "attributes": "1,,,C",
+      "value": -9.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001183001",
+      "attributes": ",,,C",
+      "value": -8.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001184791",
+      "attributes": ",,,C",
+      "value": -8.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001192341",
+      "attributes": "1,,,C",
+      "value": -11.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA001192946",
+      "attributes": ",,,C",
+      "value": -14.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00119BLM0",
+      "attributes": ",,,C",
+      "value": -11.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100181",
+      "attributes": "1,,,C",
+      "value": -16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100301",
+      "attributes": ",,,C",
+      "value": -12.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100518",
+      "attributes": ",,,C",
+      "value": -11.62
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100630",
+      "attributes": ",,,C",
+      "value": -12.83
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100660",
+      "attributes": "2,,,C",
+      "value": -26.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100693",
+      "attributes": "2,,,C",
+      "value": -18.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100697",
+      "attributes": "3,,,C",
+      "value": -27.16
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100805",
+      "attributes": ",,,C",
+      "value": -23.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100840",
+      "attributes": "1,,,C",
+      "value": -8.68
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100935",
+      "attributes": "2,,,C",
+      "value": -20.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002100LRP",
+      "attributes": ",,,C",
+      "value": -16.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002101102",
+      "attributes": ",,,C",
+      "value": -11.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002101204",
+      "attributes": ",,,C",
+      "value": -16.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002101303",
+      "attributes": "1,,,C",
+      "value": -8.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002101310",
+      "attributes": ",,,C",
+      "value": -7.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002201022",
+      "attributes": ",,,C",
+      "value": -23.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA0022010H0",
+      "attributes": "1,,,C",
+      "value": -19.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002201450",
+      "attributes": ",,,C",
+      "value": -23.78
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002201579",
+      "attributes": "3,,,C",
+      "value": -16.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002201799",
+      "attributes": ",,,C",
+      "value": -22.06
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202102",
+      "attributes": ",,,C",
+      "value": -18.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202202",
+      "attributes": ",,,C",
+      "value": -18.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202351",
+      "attributes": "2,,,C",
+      "value": -30.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202402",
+      "attributes": ",,,C",
+      "value": -20.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202560",
+      "attributes": "2,,,C",
+      "value": -20.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202578",
+      "attributes": ",,,C",
+      "value": -23.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202678",
+      "attributes": ",,,C",
+      "value": -25.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202801",
+      "attributes": ",,,C",
+      "value": -24.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002202810",
+      "attributes": ",,,C",
+      "value": -24.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002203058",
+      "attributes": ",,,C",
+      "value": -28.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002203095",
+      "attributes": "5,,,C",
+      "value": -26.67
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002203342",
+      "attributes": "1,,,C",
+      "value": -19.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002203359",
+      "attributes": ",,,C",
+      "value": -25.48
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002203914",
+      "attributes": ",,,C",
+      "value": -27.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002203918",
+      "attributes": "4,,,C",
+      "value": -27.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002204101",
+      "attributes": ",,,C",
+      "value": -22.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002204300",
+      "attributes": "2,,,C",
+      "value": -19.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00220B6Q3",
+      "attributes": "5,,,C",
+      "value": -23.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00220CQHR",
+      "attributes": ",,,C",
+      "value": -21.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00220LQJJ",
+      "attributes": ",,,C",
+      "value": -24.91
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00220N003",
+      "attributes": "4,,,C",
+      "value": -22.06
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00220N005",
+      "attributes": "2,,,C",
+      "value": -26.49
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002300427",
+      "attributes": ",,,C",
+      "value": -26.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002300501",
+      "attributes": "1,,,C",
+      "value": -29.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002300551",
+      "attributes": "2,,,C",
+      "value": -27.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002300904",
+      "attributes": ",,,C",
+      "value": -29.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002301102",
+      "attributes": "2,,,C",
+      "value": -24.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002301153",
+      "attributes": ",,,C",
+      "value": -26.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002302337",
+      "attributes": ",,,C",
+      "value": -33.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002302340",
+      "attributes": ",,,C",
+      "value": -33.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002303094",
+      "attributes": ",,,C",
+      "value": -30.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400305",
+      "attributes": ",,,C",
+      "value": -32.86
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400404",
+      "attributes": ",,,C",
+      "value": -29.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400573",
+      "attributes": "3,,,C",
+      "value": -29.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400602",
+      "attributes": ",,,C",
+      "value": -30.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400636",
+      "attributes": "1,,,C",
+      "value": -18.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400802",
+      "attributes": "2,,,C",
+      "value": -30.92
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002400804",
+      "attributes": ",,,C",
+      "value": -30.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002402051",
+      "attributes": ",,,C",
+      "value": -30.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002402351",
+      "attributes": ",,,C",
+      "value": -30.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002402353",
+      "attributes": ",,,C",
+      "value": -28.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002402592",
+      "attributes": "2,,,C",
+      "value": -25.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403049",
+      "attributes": ",,,C",
+      "value": -23.03
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403204",
+      "attributes": ",,,C",
+      "value": -30.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403206",
+      "attributes": ",,,C",
+      "value": -29.32
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403450",
+      "attributes": "1,,,C",
+      "value": -34.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403505",
+      "attributes": ",,,C",
+      "value": -31.61
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403833",
+      "attributes": ",,,C",
+      "value": -34.15
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002403945",
+      "attributes": "4,,,C",
+      "value": -26.49
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002500440",
+      "attributes": "4,,,C",
+      "value": -35.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002502505",
+      "attributes": ",,,C",
+      "value": -29.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002503648",
+      "attributes": ",,,C",
+      "value": -29.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA002503886",
+      "attributes": "5,,,C",
+      "value": -35.71
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00250M001",
+      "attributes": "3,,,C",
+      "value": -36.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010010",
+      "attributes": "3,,,C",
+      "value": -13.52
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010060",
+      "attributes": "4,,,C",
+      "value": -13.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010162",
+      "attributes": "3,,,C",
+      "value": -11.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010237",
+      "attributes": "3,,,C",
+      "value": -13.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010650",
+      "attributes": "3,,,C",
+      "value": -11.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010730",
+      "attributes": "3,,,C",
+      "value": -12.53
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010816",
+      "attributes": "3,,,C",
+      "value": -10.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010979",
+      "attributes": "3,,,C",
+      "value": -11.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003010992",
+      "attributes": "3,,,C",
+      "value": -12.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003011240",
+      "attributes": ",,,C",
+      "value": -11.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003011815",
+      "attributes": "3,,,C",
+      "value": -12.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003011892",
+      "attributes": "3,,,C",
+      "value": -11.57
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003011953",
+      "attributes": ",,,C",
+      "value": -9.82
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012050",
+      "attributes": "3,,,C",
+      "value": -11.19
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012192",
+      "attributes": "3,,,C",
+      "value": -13.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012206",
+      "attributes": "1,,,C",
+      "value": -11.26
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012209",
+      "attributes": ",,,C",
+      "value": -9.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012216",
+      "attributes": ",,,C",
+      "value": -11.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00301222F",
+      "attributes": ",,,C",
+      "value": -8.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012275",
+      "attributes": ",,,C",
+      "value": -11.42
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012515",
+      "attributes": ",,,C",
+      "value": -14.44
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012590",
+      "attributes": "3,,,C",
+      "value": -12.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012653",
+      "attributes": "3,,,C",
+      "value": -12.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012790",
+      "attributes": "4,,,C",
+      "value": -12.77
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012818",
+      "attributes": "4,,,C",
+      "value": -9.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003012999",
+      "attributes": "4,,,C",
+      "value": -11.98
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013140",
+      "attributes": "3,,,C",
+      "value": -11.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013340",
+      "attributes": "3,,,C",
+      "value": -13.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013362",
+      "attributes": "3,,,C",
+      "value": -12.96
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013640",
+      "attributes": "3,,,C",
+      "value": -13.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013644",
+      "attributes": "3,,,C",
+      "value": -12.21
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013660",
+      "attributes": "3,,,C",
+      "value": -13.25
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013790",
+      "attributes": "3,,,C",
+      "value": -11.47
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013921",
+      "attributes": "3,,,C",
+      "value": -15.27
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013959",
+      "attributes": ",,,C",
+      "value": -13.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003013961",
+      "attributes": ",,,C",
+      "value": -12.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003014195",
+      "attributes": "3,,,C",
+      "value": -12.66
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003014665",
+      "attributes": "3,,,C",
+      "value": -11.43
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003014795",
+      "attributes": "3,,,C",
+      "value": -11.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003014921",
+      "attributes": "3,,,C",
+      "value": -12.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015346",
+      "attributes": "3,,,C",
+      "value": -12.2
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015480",
+      "attributes": "3,,,C",
+      "value": -13.38
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015501",
+      "attributes": "3,,,C",
+      "value": -14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015523",
+      "attributes": ",,,C",
+      "value": -12.62
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015600",
+      "attributes": "3,,,C",
+      "value": -11.93
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015797",
+      "attributes": "3,,,C",
+      "value": -11.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003015900",
+      "attributes": "3,,,C",
+      "value": -12.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016022",
+      "attributes": "5,,,C",
+      "value": -10.73
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016070",
+      "attributes": "3,,,C",
+      "value": -12.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016124",
+      "attributes": "3,,,C",
+      "value": -11.63
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016441",
+      "attributes": "3,,,C",
+      "value": -11.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016505",
+      "attributes": "3,,,C",
+      "value": -10.1
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016655",
+      "attributes": "3,,,C",
+      "value": -11.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016802",
+      "attributes": "3,,,C",
+      "value": -13.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016841",
+      "attributes": "3,,,C",
+      "value": -11.88
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003016GF0",
+      "attributes": ",,,C",
+      "value": -12.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003017282",
+      "attributes": "3,,,C",
+      "value": -11.57
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00301B460",
+      "attributes": ",,,C",
+      "value": -11.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA00301S001",
+      "attributes": ",,,C",
+      "value": -12.22
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003020035",
+      "attributes": "3,,,C",
+      "value": -10.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003020405",
+      "attributes": "3,,,C",
+      "value": -10.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003020610",
+      "attributes": "3,,,C",
+      "value": -12.56
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003020679",
+      "attributes": "3,,,C",
+      "value": -10.79
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003021912",
+      "attributes": "3,,,C",
+      "value": -11.93
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003023200",
+      "attributes": "4,,,C",
+      "value": -14.37
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003023402",
+      "attributes": "3,,,C",
+      "value": -10.99
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003023722",
+      "attributes": ",,,C",
+      "value": -12.05
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003023740",
+      "attributes": "3,,,C",
+      "value": -15.18
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003023850",
+      "attributes": "3,,,C",
+      "value": -13.54
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003024668",
+      "attributes": "3,,,C",
+      "value": -11.65
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003024925",
+      "attributes": "3,,,C",
+      "value": -11.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003024965",
+      "attributes": "3,,,C",
+      "value": -11.28
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003025243",
+      "attributes": "3,,,C",
+      "value": -11.62
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003025297",
+      "attributes": "3,,,C",
+      "value": -11.13
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003025768",
+      "attributes": "3,,,C",
+      "value": -10.29
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003026479",
+      "attributes": "3,,,C",
+      "value": -12.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003026KNQ",
+      "attributes": ",,,C",
+      "value": -13.35
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003027582",
+      "attributes": "3,,,C",
+      "value": -12.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030450",
+      "attributes": "3,,,C",
+      "value": -10.94
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030525",
+      "attributes": "3,,,C",
+      "value": -9.75
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030529",
+      "attributes": "3,,,C",
+      "value": -10.84
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030540",
+      "attributes": "3,,,C",
+      "value": -12.07
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030680",
+      "attributes": "3,,,C",
+      "value": -11.57
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030720",
+      "attributes": "3,,,C",
+      "value": -10.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030768",
+      "attributes": ",,,C",
+      "value": -8.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030830",
+      "attributes": "3,,,C",
+      "value": -10.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003030QLP",
+      "attributes": ",,,C",
+      "value": -10.39
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003031092",
+      "attributes": ",,,C",
+      "value": -9.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003031094",
+      "attributes": ",,,C",
+      "value": -9.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003031322",
+      "attributes": ",,,C",
+      "value": -7.85
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003031480",
+      "attributes": "3,,,C",
+      "value": -11.33
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003031640",
+      "attributes": ",,,C",
+      "value": -10.01
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003031875",
+      "attributes": ",,,C",
+      "value": -8.41
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032422",
+      "attributes": "3,,,C",
+      "value": -10.02
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032450",
+      "attributes": "4,,,C",
+      "value": -9.55
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032550",
+      "attributes": "3,,,C",
+      "value": -9.14
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032642",
+      "attributes": "3,,,C",
+      "value": -9.62
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032683",
+      "attributes": "4,,,C",
+      "value": -10.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032801",
+      "attributes": "3,,,C",
+      "value": -11.49
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003032927",
+      "attributes": "3,,,C",
+      "value": -9.1
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003033550",
+      "attributes": "4,,,C",
+      "value": -9.51
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003033875",
+      "attributes": ",,,C",
+      "value": -9
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003033890",
+      "attributes": "1,,,C",
+      "value": -8.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003033897",
+      "attributes": "3,,,C",
+      "value": -9.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003034479",
+      "attributes": ",,,C",
+      "value": -8.81
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003034485",
+      "attributes": ",,,C",
+      "value": -8.4
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003034577",
+      "attributes": "3,,,C",
+      "value": -11.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003034795",
+      "attributes": "3,,,C",
+      "value": -11.11
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035198",
+      "attributes": ",,,C",
+      "value": -9.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035208",
+      "attributes": ",,,C",
+      "value": -9.31
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035340",
+      "attributes": ",,,C",
+      "value": -10.24
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035422",
+      "attributes": "3,,,C",
+      "value": -8.59
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035530",
+      "attributes": "3,,,C",
+      "value": -10.8
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035650",
+      "attributes": "3,,,C",
+      "value": -12.36
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003035845",
+      "attributes": "3,,,C",
+      "value": -9.7
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003036086",
+      "attributes": "3,,,C",
+      "value": -10.45
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:CA003036099",
+      "attributes": "1,,,C",
+      "value": -8.17
+    }
+  ]
+}

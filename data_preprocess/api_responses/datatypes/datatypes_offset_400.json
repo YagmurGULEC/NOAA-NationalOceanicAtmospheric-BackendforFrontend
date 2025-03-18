@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 400,
+      "count": 1566,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "mindate": "1946-10-29",
+      "maxdate": "1964-12-31",
+      "name": "Base of frozen ground layer",
+      "datacoverage": 1,
+      "id": "FRGB"
+    },
+    {
+      "mindate": "1946-10-29",
+      "maxdate": "1964-12-31",
+      "name": "Top of frozen ground layer",
+      "datacoverage": 1,
+      "id": "FRGT"
+    },
+    {
+      "mindate": "1948-01-01",
+      "maxdate": "1964-12-31",
+      "name": "Thickness of frozen ground layer",
+      "datacoverage": 1,
+      "id": "FRTH"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Free Text Message",
+      "datacoverage": 0.95,
+      "id": "FTM"
+    },
+    {
+      "mindate": "1763-01-01",
+      "maxdate": "2024-01-01",
+      "name": "First freeze <= to 32F/0C of the year.",
+      "datacoverage": 1,
+      "id": "FZF0"
+    },
+    {
+      "mindate": "1765-01-01",
+      "maxdate": "2024-01-01",
+      "name": "First freeze <= 28F/-2.2C of the year",
+      "datacoverage": 1,
+      "id": "FZF1"
+    },
+    {
+      "mindate": "1767-01-01",
+      "maxdate": "2024-01-01",
+      "name": "First freeze <= 24F/-4.4C of the year",
+      "datacoverage": 1,
+      "id": "FZF2"
+    },
+    {
+      "mindate": "1774-01-01",
+      "maxdate": "2024-01-01",
+      "name": "First freeze <= 20F/-6.7C of the year",
+      "datacoverage": 1,
+      "id": "FZF3"
+    },
+    {
+      "mindate": "1774-01-01",
+      "maxdate": "2024-01-01",
+      "name": "First freeze <= 16F/-8.9C of the year",
+      "datacoverage": 1,
+      "id": "FZF4"
+    },
+    {
+      "mindate": "1763-01-01",
+      "maxdate": "2024-01-01",
+      "name": "Last freeze <= 32F/0C of the year",
+      "datacoverage": 1,
+      "id": "FZF5"
+    },
+    {
+      "mindate": "1763-01-01",
+      "maxdate": "2024-01-01",
+      "name": "Last freeze <= 28F/-2.2C of the year",
+      "datacoverage": 1,
+      "id": "FZF6"
+    },
+    {
+      "mindate": "1763-01-01",
+      "maxdate": "2024-01-01",
+      "name": "Last freeze <= 24F/-4.4C of the year",
+      "datacoverage": 1,
+      "id": "FZF7"
+    },
+    {
+      "mindate": "1766-01-01",
+      "maxdate": "2024-01-01",
+      "name": "Last freeze <= 20F/-6.7C of the year",
+      "datacoverage": 1,
+      "id": "FZF8"
+    },
+    {
+      "mindate": "1767-01-01",
+      "maxdate": "2024-01-01",
+      "name": "Last freeze <= 16F/-8.9C of the year",
+      "datacoverage": 1,
+      "id": "FZF9"
+    },
+    {
+      "mindate": "1913-07-25",
+      "maxdate": "1964-12-31",
+      "name": "Difference between river and gauge height",
+      "datacoverage": 1,
+      "id": "GAHT"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "General Status Message",
+      "datacoverage": 0.95,
+      "id": "GSM"
+    },
+    {
+      "mindate": "1763-07-01",
+      "maxdate": "2025-02-01",
+      "name": "Heating Degree Days Season to Date",
+      "datacoverage": 1,
+      "id": "HDSD"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Hybrid Hydrometeor Classification",
+      "datacoverage": 0.95,
+      "id": "HHC"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Cooling degree hours",
+      "datacoverage": 1,
+      "id": "HLY-CLDH-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Clouds broken percentage",
+      "datacoverage": 1,
+      "id": "HLY-CLOD-PCTBKN"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Clouds clear percentage",
+      "datacoverage": 1,
+      "id": "HLY-CLOD-PCTCLR"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Clouds few percentage",
+      "datacoverage": 1,
+      "id": "HLY-CLOD-PCTFEW"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Clouds overcast percentage",
+      "datacoverage": 1,
+      "id": "HLY-CLOD-PCTOVC"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Clouds scattered percentage",
+      "datacoverage": 1,
+      "id": "HLY-CLOD-PCTSCT"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Dew point 10th percentile",
+      "datacoverage": 1,
+      "id": "HLY-DEWP-10PCTL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Dew point 90th percentile",
+      "datacoverage": 1,
+      "id": "HLY-DEWP-90PCTL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Dew point mean",
+      "datacoverage": 1,
+      "id": "HLY-DEWP-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Heat index mean",
+      "datacoverage": 1,
+      "id": "HLY-HIDX-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Heating degree hours",
+      "datacoverage": 1,
+      "id": "HLY-HTDH-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Sea level pressure 10th percentile",
+      "datacoverage": 1,
+      "id": "HLY-PRES-10PCTL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Sea level pressure 90th percentile",
+      "datacoverage": 1,
+      "id": "HLY-PRES-90PCTL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Sea level pressure mean",
+      "datacoverage": 1,
+      "id": "HLY-PRES-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Temperature 10th percentile",
+      "datacoverage": 1,
+      "id": "HLY-TEMP-10PCTL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Temperature 90th percentile",
+      "datacoverage": 1,
+      "id": "HLY-TEMP-90PCTL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Temperature mean",
+      "datacoverage": 1,
+      "id": "HLY-TEMP-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Wind chill mean",
+      "datacoverage": 1,
+      "id": "HLY-WCHL-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Prevailing wind direction (1-8)",
+      "datacoverage": 1,
+      "id": "HLY-WIND-1STDIR"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Prevailing wind percentage",
+      "datacoverage": 1,
+      "id": "HLY-WIND-1STPCT"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Secondary wind direction (1-8)",
+      "datacoverage": 1,
+      "id": "HLY-WIND-2NDDIR"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Secondary wind percentage",
+      "datacoverage": 1,
+      "id": "HLY-WIND-2NDPCT"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Average wind speed",
+      "datacoverage": 1,
+      "id": "HLY-WIND-AVGSPD"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Percentage calm",
+      "datacoverage": 1,
+      "id": "HLY-WIND-PCTCLM"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Mean wind vector direction",
+      "datacoverage": 1,
+      "id": "HLY-WIND-VCTDIR"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Mean wind vector magnitude",
+      "datacoverage": 1,
+      "id": "HLY-WIND-VCTSPD"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 1,
+      "id": "HN01"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2009-08-01",
+      "name": "Highest minimum soil temperature for the month(cover: unknown",
+      "datacoverage": 1,
+      "id": "HN0190"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 1,
+      "id": "HN02"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: unknown",
+      "datacoverage": 1,
+      "id": "HN0290"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2012-01-01",
+      "name": "Highest minimum soil temperature for the month(cover: unknown",
+      "datacoverage": 0.998,
+      "id": "HN0299"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 1,
+      "id": "HN03"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2009-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: unknown",
+      "datacoverage": 1,
+      "id": "HN0390"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 1,
+      "id": "HN04"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 1,
+      "id": "HN05"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 1,
+      "id": "HN06"
+    },
+    {
+      "mindate": "1982-06-01",
+      "maxdate": "2025-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 0.9997,
+      "id": "HN07"
+    },
+    {
+      "mindate": "1982-06-01",
+      "maxdate": "2024-01-01",
+      "name": "Highest minimum soil temperature for the month (degrees F)",
+      "datacoverage": 0.97,
+      "id": "HN08"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 0.9819,
+      "id": "HN1190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1985-07-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 1,
+      "id": "HN1191"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 1,
+      "id": "HN1290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-07-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 0.8807,
+      "id": "HN1291"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2012-09-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 1,
+      "id": "HN1299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 0.998,
+      "id": "HN1390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 0.8497,
+      "id": "HN1391"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-01-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 0.9819,
+      "id": "HN1399"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 1,
+      "id": "HN1490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-01-01",
+      "name": "Highest minimum soil temperature for the month(cover: grass",
+      "datacoverage": 0.9819,
+      "id": "HN1499"
+    },
+    {
+      "mindate": "1989-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: fallow",
+      "datacoverage": 0.9338,
+      "id": "HN2190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: fallow",
+      "datacoverage": 0.8663,
+      "id": "HN2192"
+    },
+    {
+      "mindate": "1989-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: fallow",
+      "datacoverage": 0.9299,
+      "id": "HN2290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: fallow",
+      "datacoverage": 0.8663,
+      "id": "HN2292"
+    },
+    {
+      "mindate": "1989-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: fallow",
+      "datacoverage": 0.9338,
+      "id": "HN2390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: fallow",
+      "datacoverage": 0.6497,
+      "id": "HN2392"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 0.9996,
+      "id": "HN3192"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3199"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3292"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 0.9845,
+      "id": "HN3392"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3399"
+    },
+    {
+      "mindate": "2004-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-09-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3499"
+    },
+    {
+      "mindate": "2004-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3590"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3599"
+    },
+    {
+      "mindate": "2006-04-01",
+      "maxdate": "2006-04-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3690"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "HN3699"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 0.9998,
+      "id": "HN5190"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5199"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5291"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5390"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5399"
+    },
+    {
+      "mindate": "2002-03-01",
+      "maxdate": "2010-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 0.998,
+      "id": "HN5490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-12-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5499"
+    },
+    {
+      "mindate": "2002-03-01",
+      "maxdate": "2009-02-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 0.998,
+      "id": "HN5590"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5599"
+    },
+    {
+      "mindate": "2012-09-01",
+      "maxdate": "2015-11-01",
+      "name": "Highest minimum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "HN5699"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1993-01-01",
+      "name": "Highest minimum soil temperature for the month(cover: straw mulch",
+      "datacoverage": 0.9812,
+      "id": "HN6190"
+    }
+  ]
+}

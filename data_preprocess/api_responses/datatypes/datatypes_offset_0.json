@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 1,
+      "count": 1566,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "mindate": "1994-03-19",
+      "maxdate": "1996-05-28",
+      "name": "Average cloudiness midnight to midnight from 30-second ceilometer data",
+      "datacoverage": 1,
+      "id": "ACMC"
+    },
+    {
+      "mindate": "1965-01-01",
+      "maxdate": "2005-12-31",
+      "name": "Average cloudiness midnight to midnight from manual observations",
+      "datacoverage": 1,
+      "id": "ACMH"
+    },
+    {
+      "mindate": "1994-02-01",
+      "maxdate": "1996-05-28",
+      "name": "Average cloudiness sunrise to sunset from 30-second ceilometer data",
+      "datacoverage": 1,
+      "id": "ACSC"
+    },
+    {
+      "mindate": "1965-01-01",
+      "maxdate": "2005-12-31",
+      "name": "Average cloudiness sunrise to sunset from manual observations",
+      "datacoverage": 1,
+      "id": "ACSH"
+    },
+    {
+      "mindate": "1991-06-05",
+      "maxdate": "2025-03-13",
+      "name": "Base Data",
+      "datacoverage": 0.95,
+      "id": "ALL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 45F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 50F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 55F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 57F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 60F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 70F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 72F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-BASE72"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual cooling degree days with base 65F",
+      "datacoverage": 1,
+      "id": "ANN-CLDD-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual diurnal temperature range",
+      "datacoverage": 1,
+      "id": "ANN-DUTR-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 40F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 45F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 50F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 55F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 57F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 60F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 65F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE65"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 70F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with base 72F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-BASE72"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with truncated bases 48F and 86F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-TB4886"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual growing degree days with truncated bases 50F and 86F",
+      "datacoverage": 1,
+      "id": "ANN-GRDD-TB5086"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 40F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-BASE40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 45F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 50F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 55F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 57F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 60F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual heating degree days with base 65F",
+      "datacoverage": 1,
+      "id": "ANN-HTDD-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with precipitation >= 0.01 inches",
+      "datacoverage": 1,
+      "id": "ANN-PRCP-AVGNDS-GE001HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with precipitation >= 0.10 inches",
+      "datacoverage": 1,
+      "id": "ANN-PRCP-AVGNDS-GE010HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with precipitation >= 0.50 inches",
+      "datacoverage": 1,
+      "id": "ANN-PRCP-AVGNDS-GE050HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with precipitation >= 1.00 inches",
+      "datacoverage": 1,
+      "id": "ANN-PRCP-AVGNDS-GE100HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual precipitation totals",
+      "datacoverage": 1,
+      "id": "ANN-PRCP-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snowfall >= 0.1 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNOW-AVGNDS-GE001TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snowfall >= 1.0 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNOW-AVGNDS-GE010TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snowfall >= 3.0 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNOW-AVGNDS-GE030TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snowfall >= 5.0 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNOW-AVGNDS-GE050TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snowfall >= 10.0 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNOW-AVGNDS-GE100TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual snowfall totals",
+      "datacoverage": 1,
+      "id": "ANN-SNOW-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snow depth >= 1 inch",
+      "datacoverage": 1,
+      "id": "ANN-SNWD-AVGNDS-GE001WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snow depth >= 3 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNWD-AVGNDS-GE003WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snow depth >=5 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNWD-AVGNDS-GE005WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during the year with snow depth >=10 inches",
+      "datacoverage": 1,
+      "id": "ANN-SNWD-AVGNDS-GE010WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual average temperature",
+      "datacoverage": 1,
+      "id": "ANN-TAVG-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 40F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH040"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 50F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH050"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 60F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH060"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 70F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH070"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 80F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH080"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 90F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH090"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is greater than or equal to 100F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-GRTH100"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmax is less than or equal to 32F",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-AVGNDS-LSTH032"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual maximum temperature",
+      "datacoverage": 1,
+      "id": "ANN-TMAX-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 0F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH000"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 10F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH010"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 20F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH020"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 32F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH032"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 40F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH040"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 50F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH050"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 60F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH060"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per year where tmin is less than or equal to 70F",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-AVGNDS-LSTH070"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of annual minimum temperature",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "10% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP10"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "20% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP20"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "30% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP30"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "40% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "50% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "60% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "70% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "80% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP80"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "90% probability date of first 16F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T16FP90"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "10% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP10"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "20% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP20"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "30% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP30"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "40% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "50% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "60% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "70% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "80% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP80"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "90% probability date of first 20F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T20FP90"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "10% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP10"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "20% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP20"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "30% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP30"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "40% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "50% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "60% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "70% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "80% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP80"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "90% probability date of first 24F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T24FP90"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "10% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP10"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "20% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP20"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "30% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP30"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "40% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "50% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "60% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "70% probability date of first 28F occurrence or earlier",
+      "datacoverage": 1,
+      "id": "ANN-TMIN-PRBFST-T28FP70"
+    }
+  ]
+}

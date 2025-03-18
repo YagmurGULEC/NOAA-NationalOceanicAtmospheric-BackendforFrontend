@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 1200,
+      "count": 1566,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "mindate": "1984-02-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 1,
+      "id": "MO54P0"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 1,
+      "id": "MO55A0"
+    },
+    {
+      "mindate": "1987-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 1,
+      "id": "MO55P0"
+    },
+    {
+      "mindate": "2006-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 1,
+      "id": "MO56A0"
+    },
+    {
+      "mindate": "2006-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 1,
+      "id": "MO56P0"
+    },
+    {
+      "mindate": "2006-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 1,
+      "id": "MO57A0"
+    },
+    {
+      "mindate": "2006-01-01",
+      "maxdate": "2010-09-01",
+      "name": "Monthly mean soil temperature at observation time(cover: sod",
+      "datacoverage": 0.8514,
+      "id": "MO57P0"
+    },
+    {
+      "mindate": "1989-03-01",
+      "maxdate": "1990-10-01",
+      "name": "Monthly mean soil temperature at observation time(cover: bare muck",
+      "datacoverage": 0.998,
+      "id": "MO84A0"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: bare muck",
+      "datacoverage": 0.9996,
+      "id": "MO84A3"
+    },
+    {
+      "mindate": "1989-03-01",
+      "maxdate": "1990-10-01",
+      "name": "Monthly mean soil temperature at observation time(cover: bare muck",
+      "datacoverage": 0.998,
+      "id": "MO85A0"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean soil temperature at observation time(cover: bare muck",
+      "datacoverage": 0.9996,
+      "id": "MO85A3"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Long-term average month-to-date precipitation totals",
+      "datacoverage": 1,
+      "id": "MTD-PRCP-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-31",
+      "name": "Long-term average month-to-date snowfall totals",
+      "datacoverage": 1,
+      "id": "MTD-SNOW-NORMAL"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX01"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2009-08-01",
+      "name": "Monthly mean maximum soil temperature(cover: unknown",
+      "datacoverage": 1,
+      "id": "MX0190"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX02"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: unknown",
+      "datacoverage": 1,
+      "id": "MX0290"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2012-01-01",
+      "name": "Monthly mean maximum soil temperature(cover: unknown",
+      "datacoverage": 0.998,
+      "id": "MX0299"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX03"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2009-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: unknown",
+      "datacoverage": 1,
+      "id": "MX0390"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX04"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX05"
+    },
+    {
+      "mindate": "1982-01-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX06"
+    },
+    {
+      "mindate": "1982-06-01",
+      "maxdate": "2025-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 0.9997,
+      "id": "MX07"
+    },
+    {
+      "mindate": "1982-06-01",
+      "maxdate": "2024-01-01",
+      "name": "Monthly mean maximum soil temperature (degrees F)",
+      "datacoverage": 1,
+      "id": "MX08"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.9819,
+      "id": "MX1190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1985-06-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.946,
+      "id": "MX1191"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 1,
+      "id": "MX1290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.833,
+      "id": "MX1291"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2012-09-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 1,
+      "id": "MX1299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 1,
+      "id": "MX1390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-07-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.8509,
+      "id": "MX1391"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-01-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.9819,
+      "id": "MX1399"
+    },
+    {
+      "mindate": "2009-03-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.998,
+      "id": "MX1490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 1,
+      "id": "MX1499"
+    },
+    {
+      "mindate": "2011-08-01",
+      "maxdate": "2012-06-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.9994,
+      "id": "MX1599"
+    },
+    {
+      "mindate": "2011-08-01",
+      "maxdate": "2012-06-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass",
+      "datacoverage": 0.9994,
+      "id": "MX1799"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: fallow",
+      "datacoverage": 0.9326,
+      "id": "MX2190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-07-01",
+      "name": "Monthly mean maximum soil temperature(cover: fallow",
+      "datacoverage": 0.8509,
+      "id": "MX2192"
+    },
+    {
+      "mindate": "1989-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: fallow",
+      "datacoverage": 0.9338,
+      "id": "MX2290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: fallow",
+      "datacoverage": 0.7997,
+      "id": "MX2292"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: fallow",
+      "datacoverage": 0.9326,
+      "id": "MX2390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-07-01",
+      "name": "Monthly mean maximum soil temperature(cover: fallow",
+      "datacoverage": 0.6717,
+      "id": "MX2392"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3192"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3199"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 0.9996,
+      "id": "MX3292"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3392"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3399"
+    },
+    {
+      "mindate": "2004-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 0.9989,
+      "id": "MX3490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-09-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3499"
+    },
+    {
+      "mindate": "2004-08-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3590"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3599"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare ground",
+      "datacoverage": 1,
+      "id": "MX3699"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 0.9998,
+      "id": "MX5190"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5199"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 0.9996,
+      "id": "MX5291"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5390"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5399"
+    },
+    {
+      "mindate": "2002-03-01",
+      "maxdate": "2010-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 0.998,
+      "id": "MX5490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5499"
+    },
+    {
+      "mindate": "2002-03-01",
+      "maxdate": "2009-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 0.998,
+      "id": "MX5590"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5599"
+    },
+    {
+      "mindate": "2012-09-01",
+      "maxdate": "2015-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: sod",
+      "datacoverage": 1,
+      "id": "MX5699"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1996-11-01",
+      "name": "Monthly mean maximum soil temperature(cover: straw mulch",
+      "datacoverage": 0.9812,
+      "id": "MX6190"
+    },
+    {
+      "mindate": "1989-03-01",
+      "maxdate": "1990-10-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass muck",
+      "datacoverage": 0.998,
+      "id": "MX7290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Monthly mean maximum soil temperature(cover: grass muck",
+      "datacoverage": 0.9996,
+      "id": "MX7293"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "1990-10-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare muck",
+      "datacoverage": 1,
+      "id": "MX8190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare muck",
+      "datacoverage": 1,
+      "id": "MX8193"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "1990-10-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare muck",
+      "datacoverage": 1,
+      "id": "MX8290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare muck",
+      "datacoverage": 1,
+      "id": "MX8293"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "1990-10-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare muck",
+      "datacoverage": 1,
+      "id": "MX8390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Monthly mean maximum soil temperature(cover: bare muck",
+      "datacoverage": 1,
+      "id": "MX8393"
+    },
+    {
+      "mindate": "1921-12-09",
+      "maxdate": "2025-02-28",
+      "name": "Daily maximum temperature of water in an evaporation pan",
+      "datacoverage": 1,
+      "id": "MXPN"
+    },
+    {
+      "mindate": "1857-01-01",
+      "maxdate": "2016-03-01",
+      "name": "Maximum snow depth",
+      "datacoverage": 1,
+      "id": "MXSD"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Correlation Coefficient (approx. elev. angle: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0C"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Power Removed Control (0.5 Deg)",
+      "datacoverage": 0.95,
+      "id": "N0F"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Hydrometeor Classification (approx. elev.: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0H"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Specific Differential Phase (approx. elev.: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0K"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Digital Base Reflectivity (approx. elev. angle: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0Q"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Base Reflectivity (approx. elev. angle: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0R"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Storm Relative Velocity (approx. elev. angle: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0S"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Base Velocity (approx. elev. angle: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0V"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Base Velocity",
+      "datacoverage": 0.95,
+      "id": "N0W"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Differential Reflectivity (approx. elev. angle: 0.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N0X"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Long Range Base Reflectivity (460 km.",
+      "datacoverage": 0.95,
+      "id": "N0Z"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Correlation Coefficient (approx. elev. angle: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1C"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Power Removed Control (1.3",
+      "datacoverage": 0.95,
+      "id": "N1F"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Hydrometeor Classification (approx. elev.: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1H"
+    },
+    {
+      "mindate": "2011-03-08",
+      "maxdate": "2025-02-27",
+      "name": "Specific Differential Phase (approx. elev.: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1K"
+    },
+    {
+      "mindate": "1994-06-17",
+      "maxdate": "2025-02-27",
+      "name": "One Hour Precipitation Total",
+      "datacoverage": 0.95,
+      "id": "N1P"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Digital Base Reflectivity (approx. elev. angle: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1Q"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Base Reflectivity (approx. elev. angle: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1R"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Storm Relative Velocity (approx. elev. angle: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1S"
+    },
+    {
+      "mindate": "1994-05-20",
+      "maxdate": "2025-02-27",
+      "name": "Base Velocity (approx. elev. angle: 1.5 deg)",
+      "datacoverage": 0.95,
+      "id": "N1V"
+    }
+  ]
+}

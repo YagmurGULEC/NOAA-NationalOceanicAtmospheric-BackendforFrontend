@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 900,
+      "count": 1566,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare ground",
+      "datacoverage": 1,
+      "id": "LX3699"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 0.9998,
+      "id": "LX5190"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5199"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5291"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5299"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5390"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5399"
+    },
+    {
+      "mindate": "2002-03-01",
+      "maxdate": "2010-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 0.998,
+      "id": "LX5490"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2011-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5499"
+    },
+    {
+      "mindate": "2002-03-01",
+      "maxdate": "2009-02-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 0.998,
+      "id": "LX5590"
+    },
+    {
+      "mindate": "2011-01-01",
+      "maxdate": "2015-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5599"
+    },
+    {
+      "mindate": "2012-09-01",
+      "maxdate": "2015-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: sod",
+      "datacoverage": 1,
+      "id": "LX5699"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1996-11-01",
+      "name": "Lowest maximum soil temperature for the month(cover: straw mulch",
+      "datacoverage": 0.9812,
+      "id": "LX6190"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "1990-10-01",
+      "name": "Lowest maximum soil temperature for the month(cover: grass muck",
+      "datacoverage": 1,
+      "id": "LX7290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Lowest maximum soil temperature for the month(cover: grass muck",
+      "datacoverage": 1,
+      "id": "LX7293"
+    },
+    {
+      "mindate": "1990-01-01",
+      "maxdate": "1990-10-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare muck",
+      "datacoverage": 1,
+      "id": "LX8190"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1989-02-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare muck",
+      "datacoverage": 1,
+      "id": "LX8193"
+    },
+    {
+      "mindate": "1989-03-01",
+      "maxdate": "1990-10-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare muck",
+      "datacoverage": 0.998,
+      "id": "LX8290"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare muck",
+      "datacoverage": 0.9996,
+      "id": "LX8293"
+    },
+    {
+      "mindate": "1989-03-01",
+      "maxdate": "1990-10-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare muck",
+      "datacoverage": 0.998,
+      "id": "LX8390"
+    },
+    {
+      "mindate": "1984-01-01",
+      "maxdate": "1988-12-01",
+      "name": "Lowest maximum soil temperature for the month(cover: bare muck",
+      "datacoverage": 0.9996,
+      "id": "LX8393"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 45F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 50F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 55F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 57F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 60F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 70F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 72F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-BASE72"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring cooling degree days with base 65F",
+      "datacoverage": 1,
+      "id": "MAM-CLDD-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring diurnal temperature range",
+      "datacoverage": 1,
+      "id": "MAM-DUTR-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 40F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 45F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 50F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 55F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 57F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 60F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 65F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE65"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 70F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring growing degree days with base 72F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-BASE72"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of summer growing degree days with truncated bases 48F and 86F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-TB4886"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of summer growing degree days with truncated bases 50F and 86F",
+      "datacoverage": 1,
+      "id": "MAM-GRDD-TB5086"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 40F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-BASE40"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 45F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 50F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 55F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 57F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 60F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring heating degree days with base 65F",
+      "datacoverage": 1,
+      "id": "MAM-HTDD-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with precipitation >= 0.01 inches",
+      "datacoverage": 1,
+      "id": "MAM-PRCP-AVGNDS-GE001HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with precipitation >= a 0.10 inches",
+      "datacoverage": 1,
+      "id": "MAM-PRCP-AVGNDS-GE010HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with precipitation >= 0.50 inches",
+      "datacoverage": 1,
+      "id": "MAM-PRCP-AVGNDS-GE050HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with precipitation >= 1.00 inches",
+      "datacoverage": 1,
+      "id": "MAM-PRCP-AVGNDS-GE100HI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of seasonal precipitation totals for March-May",
+      "datacoverage": 1,
+      "id": "MAM-PRCP-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snowfall >= 0.1 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNOW-AVGNDS-GE001TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snowfall >= 1.0 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNOW-AVGNDS-GE010TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snowfall >= 3.0 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNOW-AVGNDS-GE030TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snowfall >= 5.0 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNOW-AVGNDS-GE050TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snowfall >= 10.0 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNOW-AVGNDS-GE100TI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of seasonal snowfall totals for March-May",
+      "datacoverage": 1,
+      "id": "MAM-SNOW-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snow depth >= 1 inch",
+      "datacoverage": 1,
+      "id": "MAM-SNWD-AVGNDS-GE001WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snow depth >= 3 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNWD-AVGNDS-GE003WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snow depth >= 5 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNWD-AVGNDS-GE005WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of number of days during March-May with snow depth >= 10 inches",
+      "datacoverage": 1,
+      "id": "MAM-SNWD-AVGNDS-GE010WI"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring average temperature",
+      "datacoverage": 1,
+      "id": "MAM-TAVG-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 40F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH040"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 50F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH050"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 60F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH060"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 70F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH070"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 80F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH080"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 90F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH090"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is greater than or equal to 100F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-GRTH100"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmax is less than or equal to 32F",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-AVGNDS-LSTH032"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring maximum temperature",
+      "datacoverage": 1,
+      "id": "MAM-TMAX-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 0F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH000"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 10F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH010"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 20F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH020"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 32F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH032"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 40F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH040"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 50F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH050"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 60F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH060"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term average number of days per spring where tmin is less than or equal to 70F",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-AVGNDS-LSTH070"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-01-01",
+      "name": "Long-term averages of spring minimum temperature",
+      "datacoverage": 1,
+      "id": "MAM-TMIN-NORMAL"
+    },
+    {
+      "mindate": "1948-08-02",
+      "maxdate": "2010-08-16",
+      "name": "Multiday evaporation total (use with DAEV)",
+      "datacoverage": 1,
+      "id": "MDEV"
+    },
+    {
+      "mindate": "1832-05-11",
+      "maxdate": "2025-03-12",
+      "name": "Multiday precipitation total (use with DAPR and DWPR, if available)",
+      "datacoverage": 1,
+      "id": "MDPR"
+    },
+    {
+      "mindate": "1859-12-29",
+      "maxdate": "2024-05-25",
+      "name": "Multiday snowfall total ",
+      "datacoverage": 1,
+      "id": "MDSF"
+    },
+    {
+      "mindate": "1863-05-04",
+      "maxdate": "2025-03-06",
+      "name": "Multiday minimum temperature (use with DATN)",
+      "datacoverage": 1,
+      "id": "MDTN"
+    },
+    {
+      "mindate": "1863-05-04",
+      "maxdate": "2025-03-05",
+      "name": "Multiday maximum temperature (use with DATX)",
+      "datacoverage": 1,
+      "id": "MDTX"
+    },
+    {
+      "mindate": "1935-09-23",
+      "maxdate": "2010-06-21",
+      "name": "Multiday wind movement",
+      "datacoverage": 1,
+      "id": "MDWM"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 45F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE45"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 50F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE50"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 55F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE55"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 57F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE57"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 60F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE60"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 70F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE70"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 72F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-BASE72"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly cooling degree days with base 65F",
+      "datacoverage": 1,
+      "id": "MLY-CLDD-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly diurnal temperature range",
+      "datacoverage": 1,
+      "id": "MLY-DUTR-NORMAL"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term standard deviations of monthly diurnal temperature range",
+      "datacoverage": 1,
+      "id": "MLY-DUTR-STDDEV"
+    },
+    {
+      "mindate": "2010-01-01",
+      "maxdate": "2010-12-01",
+      "name": "Long-term averages of monthly growing degree days with base 40F",
+      "datacoverage": 1,
+      "id": "MLY-GRDD-BASE40"
+    }
+  ]
+}

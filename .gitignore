@@ -44,7 +44,8 @@ frontend-map-app/.turbo
 frontend-map-app/out
 frontend-map-app/.eslintcache
 
-**/.env*
+**/.env/*
 **/venv
 **/.ipynb_checkpoints/
 **/.idea/
+**/.venv/

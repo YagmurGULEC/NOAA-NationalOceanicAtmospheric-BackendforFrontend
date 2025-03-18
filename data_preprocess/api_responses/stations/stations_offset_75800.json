@@ -1,0 +1,1053 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 75800,
+      "count": 154115,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "elevation": 472.1,
+      "mindate": "2004-07-01",
+      "maxdate": "2025-03-07",
+      "latitude": 40.3504,
+      "name": "TOBIAS 4.7 SSW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sali011",
+      "elevationUnit": "METERS",
+      "longitude": -97.3542
+    },
+    {
+      "elevation": 487.1,
+      "mindate": "2004-07-01",
+      "maxdate": "2017-06-17",
+      "latitude": 40.4798,
+      "name": "TOBIAS 4.9 NE, NE US",
+      "datacoverage": 0.6314,
+      "id": "GHCND:US10sali012",
+      "elevationUnit": "METERS",
+      "longitude": -97.2918
+    },
+    {
+      "elevation": 433.1,
+      "mindate": "2004-10-01",
+      "maxdate": "2008-11-06",
+      "latitude": 40.6547,
+      "name": "CRETE 2.4 NE, NE US",
+      "datacoverage": 0.7799,
+      "id": "GHCND:US10sali015",
+      "elevationUnit": "METERS",
+      "longitude": -96.9317
+    },
+    {
+      "elevation": 449,
+      "mindate": "2004-11-01",
+      "maxdate": "2015-08-26",
+      "latitude": 40.6261,
+      "name": "DORCHESTER 2.1 NW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sali016",
+      "elevationUnit": "METERS",
+      "longitude": -97.1392
+    },
+    {
+      "elevation": 406.9,
+      "mindate": "2004-11-01",
+      "maxdate": "2014-12-22",
+      "latitude": 40.371,
+      "name": "SWANTON 52.2 E, NE US",
+      "datacoverage": 0.9919,
+      "id": "GHCND:US10sali019",
+      "elevationUnit": "METERS",
+      "longitude": -97.0795
+    },
+    {
+      "elevation": 406,
+      "mindate": "2004-10-01",
+      "maxdate": "2009-12-02",
+      "latitude": 40.4832,
+      "name": "WILBER 0.3 WNW, NE US",
+      "datacoverage": 0.9363,
+      "id": "GHCND:US10sali021",
+      "elevationUnit": "METERS",
+      "longitude": -96.9655
+    },
+    {
+      "elevation": 477.9,
+      "mindate": "2007-04-01",
+      "maxdate": "2008-09-10",
+      "latitude": 40.6562,
+      "name": "FRIEND 0.2 NNE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sali023",
+      "elevationUnit": "METERS",
+      "longitude": -97.2849
+    },
+    {
+      "elevation": 433.1,
+      "mindate": "2008-05-01",
+      "maxdate": "2018-11-27",
+      "latitude": 40.480285,
+      "name": "WILBER 4.1 W, NE US",
+      "datacoverage": 0.7303,
+      "id": "GHCND:US10sali024",
+      "elevationUnit": "METERS",
+      "longitude": -97.038924
+    },
+    {
+      "elevation": 465.1,
+      "mindate": "2007-07-01",
+      "maxdate": "2008-10-07",
+      "latitude": 40.5674,
+      "name": "DORCHESTER 6.2 SW, NE US",
+      "datacoverage": 0.9947,
+      "id": "GHCND:US10sali025",
+      "elevationUnit": "METERS",
+      "longitude": -97.1693
+    },
+    {
+      "mindate": "2010-03-01",
+      "maxdate": "2011-05-20",
+      "latitude": 40.544663,
+      "name": "FRIEND 7.6 SSW, NE US",
+      "datacoverage": 0.7326,
+      "id": "GHCND:US10sali028",
+      "longitude": -97.311613
+    },
+    {
+      "mindate": "2010-06-01",
+      "maxdate": "2010-10-01",
+      "latitude": 40.5827032309,
+      "name": "FRIEND 5.5 SSW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sali029",
+      "longitude": -97.332859039
+    },
+    {
+      "mindate": "2013-09-01",
+      "maxdate": "2024-12-31",
+      "latitude": 40.452107,
+      "name": "WESTERN 4.4 NNE, NE US",
+      "datacoverage": 0.0783,
+      "id": "GHCND:US10sali030",
+      "longitude": -97.164545
+    },
+    {
+      "mindate": "2015-05-01",
+      "maxdate": "2024-04-16",
+      "latitude": 40.362407,
+      "name": "SWANTON 1.3 SSW, NE US",
+      "datacoverage": 0.8153,
+      "id": "GHCND:US10sali031",
+      "longitude": -97.086706
+    },
+    {
+      "elevation": 324,
+      "mindate": "2006-06-01",
+      "maxdate": "2011-08-12",
+      "latitude": 41.0906,
+      "name": "BELLEVUE 3.6 SW, NE US",
+      "datacoverage": 0.4443,
+      "id": "GHCND:US10sarp002",
+      "elevationUnit": "METERS",
+      "longitude": -95.9228
+    },
+    {
+      "elevation": 341.1,
+      "mindate": "2006-06-01",
+      "maxdate": "2012-07-15",
+      "latitude": 41.1295,
+      "name": "BELLEVUE 3.7 W, NE US",
+      "datacoverage": 0.9997,
+      "id": "GHCND:US10sarp004",
+      "elevationUnit": "METERS",
+      "longitude": -95.9617
+    },
+    {
+      "elevation": 306,
+      "mindate": "2006-05-01",
+      "maxdate": "2014-07-31",
+      "latitude": 41.15166,
+      "name": "OMAHA 8.2 SSW, NE US",
+      "datacoverage": 0.9925,
+      "id": "GHCND:US10sarp005",
+      "elevationUnit": "METERS",
+      "longitude": -96.00412
+    },
+    {
+      "elevation": 326.1,
+      "mindate": "2006-06-01",
+      "maxdate": "2025-03-06",
+      "latitude": 41.1056,
+      "name": "BELLEVUE 3.3 WSW, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10sarp006",
+      "elevationUnit": "METERS",
+      "longitude": -95.9386
+    },
+    {
+      "elevation": 319.1,
+      "mindate": "2006-07-01",
+      "maxdate": "2025-03-04",
+      "latitude": 41.1735,
+      "name": "OMAHA 6.4 SSW, NE US",
+      "datacoverage": 0.7861,
+      "id": "GHCND:US10sarp007",
+      "elevationUnit": "METERS",
+      "longitude": -95.9838
+    },
+    {
+      "mindate": "2006-06-24",
+      "maxdate": "2019-10-22",
+      "latitude": 41.1733,
+      "name": "OMAHA 6.4 SSW, NE US",
+      "datacoverage": 0.0417,
+      "id": "GHCND:US10sarp008",
+      "longitude": -95.9867
+    },
+    {
+      "elevation": 330.1,
+      "mindate": "2006-06-01",
+      "maxdate": "2017-09-27",
+      "latitude": 41.16483,
+      "name": "BELLEVUE 2.8 NW, NE US",
+      "datacoverage": 0.7631,
+      "id": "GHCND:US10sarp009",
+      "elevationUnit": "METERS",
+      "longitude": -95.93095
+    },
+    {
+      "elevation": 340.2,
+      "mindate": "2006-06-01",
+      "maxdate": "2009-04-13",
+      "latitude": 41.13438,
+      "name": "PAPILLION 2.4 ESE, NE US",
+      "datacoverage": 0.6288,
+      "id": "GHCND:US10sarp011",
+      "elevationUnit": "METERS",
+      "longitude": -96.0037
+    },
+    {
+      "elevation": 324,
+      "mindate": "2006-07-01",
+      "maxdate": "2019-08-29",
+      "latitude": 41.1493,
+      "name": "BELLEVUE 1.8 WNW, NE US",
+      "datacoverage": 0.9741,
+      "id": "GHCND:US10sarp012",
+      "elevationUnit": "METERS",
+      "longitude": -95.9217
+    },
+    {
+      "elevation": 313.9,
+      "mindate": "2006-08-01",
+      "maxdate": "2008-02-02",
+      "latitude": 41.1273,
+      "name": "OFFUTT AFB 0.6 NE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sarp014",
+      "elevationUnit": "METERS",
+      "longitude": -95.9105
+    },
+    {
+      "elevation": 320,
+      "mindate": "2006-08-01",
+      "maxdate": "2009-08-21",
+      "latitude": 41.1078,
+      "name": "BELLEVUE 3.8 WSW, NE US",
+      "datacoverage": 0.7022,
+      "id": "GHCND:US10sarp015",
+      "elevationUnit": "METERS",
+      "longitude": -95.9524
+    },
+    {
+      "elevation": 346.9,
+      "mindate": "2006-09-01",
+      "maxdate": "2025-03-07",
+      "latitude": 41.1135,
+      "name": "BELLEVUE 4.2 WSW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sarp016",
+      "elevationUnit": "METERS",
+      "longitude": -95.9648
+    },
+    {
+      "elevation": 313.9,
+      "mindate": "2006-09-01",
+      "maxdate": "2015-04-02",
+      "latitude": 41.151,
+      "name": "BELLEVUE 2.9 WNW, NE US",
+      "datacoverage": 0.9185,
+      "id": "GHCND:US10sarp017",
+      "elevationUnit": "METERS",
+      "longitude": -95.9433
+    },
+    {
+      "elevation": 340.2,
+      "mindate": "2006-08-01",
+      "maxdate": "2010-07-20",
+      "latitude": 41.1584,
+      "name": "BELLEVUE 2.0 NW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sarp018",
+      "elevationUnit": "METERS",
+      "longitude": -95.9174
+    },
+    {
+      "elevation": 323.1,
+      "mindate": "2006-09-01",
+      "maxdate": "2012-06-15",
+      "latitude": 41.164003,
+      "name": "OMAHA 12.3 WSW, NE US",
+      "datacoverage": 0.9986,
+      "id": "GHCND:US10sarp020",
+      "elevationUnit": "METERS",
+      "longitude": -96.195876
+    },
+    {
+      "elevation": 327.1,
+      "mindate": "2006-08-01",
+      "maxdate": "2022-04-24",
+      "latitude": 41.1469,
+      "name": "PAPILLION 1.4 WSW, NE US",
+      "datacoverage": 0.9218,
+      "id": "GHCND:US10sarp022",
+      "elevationUnit": "METERS",
+      "longitude": -96.0668
+    },
+    {
+      "mindate": "2011-05-01",
+      "maxdate": "2025-02-28",
+      "latitude": 41.1684,
+      "name": "PAPILLION 1.3 NE, NE US",
+      "datacoverage": 0.9993,
+      "id": "GHCND:US10sarp024",
+      "longitude": -96.026
+    },
+    {
+      "elevation": 359.1,
+      "mindate": "2008-07-01",
+      "maxdate": "2009-11-24",
+      "latitude": 41.131855,
+      "name": "PAPILLION 1.8 SW, NE US",
+      "datacoverage": 0.7051,
+      "id": "GHCND:US10sarp028",
+      "elevationUnit": "METERS",
+      "longitude": -96.059312
+    },
+    {
+      "elevation": 349.9,
+      "mindate": "2008-07-01",
+      "maxdate": "2009-06-10",
+      "latitude": 41.0846,
+      "name": "SPRINGFIELD 0.5 ENE, NE US",
+      "datacoverage": 0.8614,
+      "id": "GHCND:US10sarp029",
+      "elevationUnit": "METERS",
+      "longitude": -96.1262
+    },
+    {
+      "mindate": "2010-10-01",
+      "maxdate": "2025-03-07",
+      "latitude": 41.14308,
+      "name": "PAPILLION 1.2 WSW, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10sarp031",
+      "longitude": -96.05967
+    },
+    {
+      "mindate": "2011-05-01",
+      "maxdate": "2013-12-03",
+      "latitude": 41.1687,
+      "name": "BELLEVUE 2.7 NW, NE US",
+      "datacoverage": 0.499,
+      "id": "GHCND:US10sarp032",
+      "longitude": -95.9212
+    },
+    {
+      "mindate": "2010-06-01",
+      "maxdate": "2011-03-23",
+      "latitude": 41.1272757667906,
+      "name": "GRETNA 1.0 SSW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sarp035",
+      "longitude": -96.2481307983398
+    },
+    {
+      "mindate": "2011-05-01",
+      "maxdate": "2017-10-21",
+      "latitude": 41.148628,
+      "name": "BELLEVUE 1.9 WNW, NE US",
+      "datacoverage": 0.9997,
+      "id": "GHCND:US10sarp036",
+      "longitude": -95.922888
+    },
+    {
+      "mindate": "2011-08-01",
+      "maxdate": "2012-10-01",
+      "latitude": 41.165985,
+      "name": "OMAHA 13.7 WSW, NE US",
+      "datacoverage": 0.9969,
+      "id": "GHCND:US10sarp038",
+      "longitude": -96.170513
+    },
+    {
+      "mindate": "2012-02-01",
+      "maxdate": "2023-05-31",
+      "latitude": 41.167366,
+      "name": "BELLEVUE 3.7 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sarp039",
+      "longitude": -95.94996
+    },
+    {
+      "mindate": "2014-04-01",
+      "maxdate": "2024-09-24",
+      "latitude": 41.186905,
+      "name": "OMAHA 13.5 SW, NE US",
+      "datacoverage": 0.7221,
+      "id": "GHCND:US10sarp048",
+      "longitude": -96.185134
+    },
+    {
+      "mindate": "2017-05-16",
+      "maxdate": "2020-10-13",
+      "latitude": 41.175199,
+      "name": "OMAHA 11.9 WSW, NE US",
+      "datacoverage": 0.7891,
+      "id": "GHCND:US10sarp049",
+      "longitude": -96.137585
+    },
+    {
+      "mindate": "2004-05-01",
+      "maxdate": "2004-11-02",
+      "latitude": 41.0765,
+      "name": "CERESCO 5.0 WNW, NE US",
+      "datacoverage": 0.9956,
+      "id": "GHCND:US10saun001",
+      "longitude": -96.7382
+    },
+    {
+      "elevation": 365.2,
+      "mindate": "2007-08-01",
+      "maxdate": "2010-09-02",
+      "latitude": 41.054,
+      "name": "CERESCO 0.2 S, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10saun002",
+      "elevationUnit": "METERS",
+      "longitude": -96.6451
+    },
+    {
+      "elevation": 381.9,
+      "mindate": "2007-08-01",
+      "maxdate": "2019-10-15",
+      "latitude": 41.2882,
+      "name": "COLON 2.0 WSW, NE US",
+      "datacoverage": 0.971,
+      "id": "GHCND:US10saun005",
+      "elevationUnit": "METERS",
+      "longitude": -96.6431
+    },
+    {
+      "elevation": 378.9,
+      "mindate": "2008-10-01",
+      "maxdate": "2010-09-06",
+      "latitude": 41.2228,
+      "name": "WAHOO 0.9 NNW, NE US",
+      "datacoverage": 0.959,
+      "id": "GHCND:US10saun008",
+      "elevationUnit": "METERS",
+      "longitude": -96.6279
+    },
+    {
+      "mindate": "2011-04-01",
+      "maxdate": "2022-06-17",
+      "latitude": 41.060404,
+      "name": "CERESCO 3.3 E, NE US",
+      "datacoverage": 0.7997,
+      "id": "GHCND:US10saun009",
+      "longitude": -96.582795
+    },
+    {
+      "mindate": "2017-05-22",
+      "maxdate": "2017-09-14",
+      "latitude": 41.231109,
+      "name": "WAHOO 1.6 NE, NE US",
+      "datacoverage": 0.9925,
+      "id": "GHCND:US10saun012",
+      "longitude": -96.603481
+    },
+    {
+      "mindate": "2012-06-01",
+      "maxdate": "2013-02-14",
+      "latitude": 41.191167,
+      "name": "WAHOO 1.4 SSE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10saun014",
+      "longitude": -96.616621
+    },
+    {
+      "elevation": 1288.1,
+      "mindate": "2004-04-01",
+      "maxdate": "2011-10-18",
+      "latitude": 41.8262,
+      "name": "LYMAN 7.9 SE, NE US",
+      "datacoverage": 0.9986,
+      "id": "GHCND:US10scot001",
+      "elevationUnit": "METERS",
+      "longitude": -103.9472
+    },
+    {
+      "elevation": 1196,
+      "mindate": "2004-05-01",
+      "maxdate": "2005-07-06",
+      "latitude": 41.844,
+      "name": "MINATARE 4.1 ENE, NE US",
+      "datacoverage": 0.7992,
+      "id": "GHCND:US10scot003",
+      "elevationUnit": "METERS",
+      "longitude": -103.44
+    },
+    {
+      "elevation": 1350,
+      "mindate": "2004-05-01",
+      "maxdate": "2006-08-29",
+      "latitude": 41.7026,
+      "name": "GERING 9.0 SSW, NE US",
+      "datacoverage": 0.785,
+      "id": "GHCND:US10scot004",
+      "elevationUnit": "METERS",
+      "longitude": -103.7175
+    },
+    {
+      "elevation": 1250,
+      "mindate": "2004-06-01",
+      "maxdate": "2024-11-09",
+      "latitude": 41.9894,
+      "name": "SCOTTSBLUFF 16.4 WNW, NE US",
+      "datacoverage": 0.9986,
+      "id": "GHCND:US10scot005",
+      "elevationUnit": "METERS",
+      "longitude": -103.9365
+    },
+    {
+      "elevation": 1252.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2012-07-07",
+      "latitude": 41.8863,
+      "name": "MORRILL 5.7 SSW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot006",
+      "elevationUnit": "METERS",
+      "longitude": -103.9672
+    },
+    {
+      "elevation": 1272.8,
+      "mindate": "2004-06-01",
+      "maxdate": "2005-11-14",
+      "latitude": 41.9618,
+      "name": "MINATARE 10.5 N, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot007",
+      "elevationUnit": "METERS",
+      "longitude": -103.5192
+    },
+    {
+      "elevation": 1195.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2008-12-15",
+      "latitude": 41.8458,
+      "name": "MINATARE 3.2 NE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot008",
+      "elevationUnit": "METERS",
+      "longitude": -103.4672
+    },
+    {
+      "elevation": 1232.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2009-07-28",
+      "latitude": 41.9182,
+      "name": "LYMAN 0.2 ENE, NE US",
+      "datacoverage": 0.871,
+      "id": "GHCND:US10scot011",
+      "elevationUnit": "METERS",
+      "longitude": -104.0372
+    },
+    {
+      "elevation": 1320.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2012-07-10",
+      "latitude": 41.7199,
+      "name": "GERING 7.3 S, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot012",
+      "elevationUnit": "METERS",
+      "longitude": -103.6684
+    },
+    {
+      "elevation": 1191.2,
+      "mindate": "2004-06-01",
+      "maxdate": "2014-09-12",
+      "latitude": 41.8841,
+      "name": "SCOTTSBLUFF 2.7 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot013",
+      "elevationUnit": "METERS",
+      "longitude": -103.7149
+    },
+    {
+      "elevation": 1186.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2025-03-07",
+      "latitude": 41.824,
+      "name": "GERING 0.4 E, NE US",
+      "datacoverage": 0.9859,
+      "id": "GHCND:US10scot014",
+      "elevationUnit": "METERS",
+      "longitude": -103.6533
+    },
+    {
+      "elevation": 1206.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2006-12-18",
+      "latitude": 41.8881,
+      "name": "SCOTTSBLUFF 2.6 ENE, NE US",
+      "datacoverage": 0.8706,
+      "id": "GHCND:US10scot016",
+      "elevationUnit": "METERS",
+      "longitude": -103.6272
+    },
+    {
+      "elevation": 1228,
+      "mindate": "2004-06-01",
+      "maxdate": "2004-11-08",
+      "latitude": 41.98457,
+      "name": "MITCHELL 3.1 N, NE US",
+      "datacoverage": 0.998,
+      "id": "GHCND:US10scot017",
+      "elevationUnit": "METERS",
+      "longitude": -103.812
+    },
+    {
+      "elevation": 1300,
+      "mindate": "2004-06-01",
+      "maxdate": "2009-02-21",
+      "latitude": 41.8279,
+      "name": "LYMAN 8.5 SE, NE US",
+      "datacoverage": 0.9986,
+      "id": "GHCND:US10scot018",
+      "elevationUnit": "METERS",
+      "longitude": -103.927
+    },
+    {
+      "elevation": 1213.1,
+      "mindate": "2004-06-01",
+      "maxdate": "2011-10-09",
+      "latitude": 41.7686,
+      "name": "GERING 3.9 S, NE US",
+      "datacoverage": 0.7191,
+      "id": "GHCND:US10scot019",
+      "elevationUnit": "METERS",
+      "longitude": -103.6536
+    },
+    {
+      "elevation": 1232.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2015-07-13",
+      "latitude": 41.935,
+      "name": "SCOTTSBLUFF 6.6 NE, NE US",
+      "datacoverage": 0.9991,
+      "id": "GHCND:US10scot020",
+      "elevationUnit": "METERS",
+      "longitude": -103.5792
+    },
+    {
+      "elevation": 1207,
+      "mindate": "2004-07-01",
+      "maxdate": "2007-12-04",
+      "latitude": 41.9571,
+      "name": "MITCHELL 2.3 WNW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot022",
+      "elevationUnit": "METERS",
+      "longitude": -103.8471
+    },
+    {
+      "elevation": 1202.1,
+      "mindate": "2004-07-01",
+      "maxdate": "2011-08-29",
+      "latitude": 41.8667,
+      "name": "GERING 1.0 ESE, NE US",
+      "datacoverage": 0.1976,
+      "id": "GHCND:US10scot023",
+      "elevationUnit": "METERS",
+      "longitude": -103.5969
+    },
+    {
+      "elevation": 1243.9,
+      "mindate": "2006-06-01",
+      "maxdate": "2012-03-31",
+      "latitude": 41.957,
+      "name": "MITCHELL 3.0 ENE, NE US",
+      "datacoverage": 0.9998,
+      "id": "GHCND:US10scot026",
+      "elevationUnit": "METERS",
+      "longitude": -103.7559
+    },
+    {
+      "elevation": 1249.1,
+      "mindate": "2007-04-01",
+      "maxdate": "2012-09-13",
+      "latitude": 41.9289,
+      "name": "SCOTTSBLUFF 4.4 NNE, NE US",
+      "datacoverage": 0.9993,
+      "id": "GHCND:US10scot027",
+      "elevationUnit": "METERS",
+      "longitude": -103.6484
+    },
+    {
+      "elevation": 1357.9,
+      "mindate": "2007-04-01",
+      "maxdate": "2008-09-01",
+      "latitude": 41.7121,
+      "name": "LYMAN 15.0 SSE, NE US",
+      "datacoverage": 0.7762,
+      "id": "GHCND:US10scot028",
+      "elevationUnit": "METERS",
+      "longitude": -103.9426
+    },
+    {
+      "mindate": "2014-04-01",
+      "maxdate": "2014-09-30",
+      "latitude": 41.867108,
+      "name": "SCOTTSBLUFF 0.1 E, NE US",
+      "datacoverage": 0.998,
+      "id": "GHCND:US10scot034",
+      "longitude": -103.665183
+    },
+    {
+      "mindate": "2014-02-23",
+      "maxdate": "2024-11-08",
+      "latitude": 41.8828,
+      "name": "SCOTTSBLUFF 1.5 NE, NE US",
+      "datacoverage": 0.5279,
+      "id": "GHCND:US10scot039",
+      "longitude": -103.6488
+    },
+    {
+      "mindate": "2015-05-01",
+      "maxdate": "2025-02-23",
+      "latitude": 41.866697,
+      "name": "SCOTTSBLUFF 3.7 E, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10scot041",
+      "longitude": -103.596874
+    },
+    {
+      "elevation": 488,
+      "mindate": "2004-05-01",
+      "maxdate": "2006-06-13",
+      "latitude": 40.9309,
+      "name": "UTICA 2.5 N, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sewa002",
+      "elevationUnit": "METERS",
+      "longitude": -97.345
+    },
+    {
+      "elevation": 483.1,
+      "mindate": "2004-05-01",
+      "maxdate": "2024-12-31",
+      "latitude": 41.019,
+      "name": "GRESHAM 6.2 E, NE US",
+      "datacoverage": 0.8461,
+      "id": "GHCND:US10sewa004",
+      "elevationUnit": "METERS",
+      "longitude": -97.2844
+    },
+    {
+      "elevation": 413,
+      "mindate": "2004-05-01",
+      "maxdate": "2025-03-03",
+      "latitude": 40.8157,
+      "name": "PLEASANT DALE 2.5 NNW, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10sewa005",
+      "elevationUnit": "METERS",
+      "longitude": -96.9506
+    },
+    {
+      "elevation": 463,
+      "mindate": "2004-05-01",
+      "maxdate": "2025-03-05",
+      "latitude": 40.95964,
+      "name": "SEWARD 4.7 NE, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10sewa006",
+      "elevationUnit": "METERS",
+      "longitude": -97.0415
+    },
+    {
+      "elevation": 454.2,
+      "mindate": "2004-05-01",
+      "maxdate": "2009-06-06",
+      "latitude": 40.8726,
+      "name": "SEWARD 2.5 SSW, NE US",
+      "datacoverage": 0.6617,
+      "id": "GHCND:US10sewa007",
+      "elevationUnit": "METERS",
+      "longitude": -97.1127
+    },
+    {
+      "elevation": 445,
+      "mindate": "2004-05-01",
+      "maxdate": "2004-11-17",
+      "latitude": 40.7781,
+      "name": "MILFORD 0.4 WNW, NE US",
+      "datacoverage": 0.9956,
+      "id": "GHCND:US10sewa009",
+      "elevationUnit": "METERS",
+      "longitude": -97.0581
+    },
+    {
+      "elevation": 483.1,
+      "mindate": "2004-05-01",
+      "maxdate": "2017-07-18",
+      "latitude": 41.0006,
+      "name": "GRESHAM 3.5 ESE, NE US",
+      "datacoverage": 0.9999,
+      "id": "GHCND:US10sewa010",
+      "elevationUnit": "METERS",
+      "longitude": -97.3461
+    },
+    {
+      "elevation": 442.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2010-08-09",
+      "latitude": 40.7731,
+      "name": "MILFORD 0.1 S, NE US",
+      "datacoverage": 0.4113,
+      "id": "GHCND:US10sewa011",
+      "elevationUnit": "METERS",
+      "longitude": -97.0507
+    },
+    {
+      "elevation": 476.1,
+      "mindate": "2005-04-01",
+      "maxdate": "2005-11-11",
+      "latitude": 41.0044,
+      "name": "BEE 0.2 SSE, NE US",
+      "datacoverage": 0.998,
+      "id": "GHCND:US10sewa013",
+      "elevationUnit": "METERS",
+      "longitude": -97.0566
+    },
+    {
+      "elevation": 479.1,
+      "mindate": "2005-06-01",
+      "maxdate": "2017-03-24",
+      "latitude": 40.873,
+      "name": "UTICA 2.6 ESE, NE US",
+      "datacoverage": 0.9461,
+      "id": "GHCND:US10sewa014",
+      "elevationUnit": "METERS",
+      "longitude": -97.3044
+    },
+    {
+      "elevation": 488,
+      "mindate": "2006-04-01",
+      "maxdate": "2017-10-28",
+      "latitude": 40.9459,
+      "name": "UTICA 3.5 N, NE US",
+      "datacoverage": 0.5916,
+      "id": "GHCND:US10sewa015",
+      "elevationUnit": "METERS",
+      "longitude": -97.3433
+    },
+    {
+      "elevation": 441,
+      "mindate": "2008-05-01",
+      "maxdate": "2017-05-20",
+      "latitude": 40.8292,
+      "name": "PLEASANT DALE 4.3 NW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10sewa016",
+      "elevationUnit": "METERS",
+      "longitude": -96.9898
+    },
+    {
+      "mindate": "2009-10-01",
+      "maxdate": "2025-01-08",
+      "latitude": 40.772208,
+      "name": "MILFORD 0.4 WSW, NE US",
+      "datacoverage": 0.4231,
+      "id": "GHCND:US10sewa017",
+      "longitude": -97.058258
+    },
+    {
+      "mindate": "2012-06-01",
+      "maxdate": "2013-05-25",
+      "latitude": 40.887157,
+      "name": "SEWARD 5.9 E, NE US",
+      "datacoverage": 0.9819,
+      "id": "GHCND:US10sewa020",
+      "longitude": -96.98945
+    },
+    {
+      "mindate": "2012-06-01",
+      "maxdate": "2023-10-26",
+      "latitude": 40.920696,
+      "name": "SEWARD 1.1 NE, NE US",
+      "datacoverage": 0.9783,
+      "id": "GHCND:US10sewa021",
+      "longitude": -97.089261
+    },
+    {
+      "mindate": "2012-08-01",
+      "maxdate": "2014-05-22",
+      "latitude": 41.026009,
+      "name": "SEWARD 8.8 NNW, NE US",
+      "datacoverage": 0.364,
+      "id": "GHCND:US10sewa022",
+      "longitude": -97.15689
+    },
+    {
+      "mindate": "2014-07-01",
+      "maxdate": "2025-03-05",
+      "latitude": 40.89111111,
+      "name": "UTICA 0.1 SSE, NE US",
+      "datacoverage": 0.9987,
+      "id": "GHCND:US10sewa023",
+      "longitude": -97.34555556
+    },
+    {
+      "elevation": 663.9,
+      "mindate": "2004-08-01",
+      "maxdate": "2025-01-04",
+      "latitude": 41.222,
+      "name": "LITCHFIELD 4.4 N, NE US",
+      "datacoverage": 0.8286,
+      "id": "GHCND:US10shem001",
+      "elevationUnit": "METERS",
+      "longitude": -99.1575
+    },
+    {
+      "elevation": 670.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2016-09-16",
+      "latitude": 41.049,
+      "name": "LITCHFIELD 7.5 S, NE US",
+      "datacoverage": 0.824,
+      "id": "GHCND:US10shem002",
+      "elevationUnit": "METERS",
+      "longitude": -99.1624
+    },
+    {
+      "elevation": 613,
+      "mindate": "2004-06-01",
+      "maxdate": "2025-03-07",
+      "latitude": 41.1426,
+      "name": "ROCKVILLE 2.2 NW, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10shem003",
+      "elevationUnit": "METERS",
+      "longitude": -98.8593
+    },
+    {
+      "elevation": 645.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2016-11-08",
+      "latitude": 41.3331,
+      "name": "ARCADIA 7.3 SE, NE US",
+      "datacoverage": 0.5435,
+      "id": "GHCND:US10shem004",
+      "elevationUnit": "METERS",
+      "longitude": -99.054
+    },
+    {
+      "elevation": 637,
+      "mindate": "2004-06-01",
+      "maxdate": "2018-01-22",
+      "latitude": 41.2787,
+      "name": "LOUP CITY 0.3 NW, NE US",
+      "datacoverage": 0.8662,
+      "id": "GHCND:US10shem008",
+      "elevationUnit": "METERS",
+      "longitude": -98.9704
+    },
+    {
+      "elevation": 638.9,
+      "mindate": "2004-06-01",
+      "maxdate": "2024-11-20",
+      "latitude": 41.2754,
+      "name": "LOUP CITY 2.3 W, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10shem009",
+      "elevationUnit": "METERS",
+      "longitude": -99.0104
+    },
+    {
+      "elevation": 672.1,
+      "mindate": "2004-07-01",
+      "maxdate": "2004-11-19",
+      "latitude": 41.2947,
+      "name": "ARCADIA 9.7 SSE, NE US",
+      "datacoverage": 0.9947,
+      "id": "GHCND:US10shem010",
+      "elevationUnit": "METERS",
+      "longitude": -99.0511
+    },
+    {
+      "elevation": 622.1,
+      "mindate": "2006-05-01",
+      "maxdate": "2007-06-21",
+      "latitude": 41.2538,
+      "name": "ASHTON 0.4 NW, NE US",
+      "datacoverage": 0.9288,
+      "id": "GHCND:US10shem011",
+      "elevationUnit": "METERS",
+      "longitude": -98.7986
+    },
+    {
+      "elevation": 659.9,
+      "mindate": "2007-01-01",
+      "maxdate": "2024-06-23",
+      "latitude": 41.194,
+      "name": "LITCHFIELD 13.6 SE, NE US",
+      "datacoverage": 1,
+      "id": "GHCND:US10shem012",
+      "elevationUnit": "METERS",
+      "longitude": -99.1407
+    },
+    {
+      "mindate": "2013-09-01",
+      "maxdate": "2025-03-04",
+      "latitude": 41.375021,
+      "name": "LOUP CITY 7.1 NNE, NE US",
+      "datacoverage": 0.9683,
+      "id": "GHCND:US10shem014",
+      "longitude": -98.936155
+    },
+    {
+      "mindate": "2015-08-08",
+      "maxdate": "2018-04-21",
+      "latitude": 41.163426,
+      "name": "LITCHFIELD 1.0 WNW, NE US",
+      "datacoverage": 0.3229,
+      "id": "GHCND:US10shem016",
+      "longitude": -99.173648
+    },
+    {
+      "mindate": "2017-06-28",
+      "maxdate": "2018-09-05",
+      "latitude": 41.0588,
+      "name": "LITCHFIELD 6.8 S, NE US",
+      "datacoverage": 0.4828,
+      "id": "GHCND:US10shem017",
+      "longitude": -99.160495
+    }
+  ]
+}

@@ -1,0 +1,987 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 24600,
+      "count": 154115,
+      "limit": 100
+    }
+  },
+  "results": [
+    {
+      "elevation": 450,
+      "mindate": "2004-05-01",
+      "maxdate": "2023-08-03",
+      "latitude": -30.0242,
+      "name": "WINDARLING, AS",
+      "datacoverage": 0.9859,
+      "id": "GHCND:ASN00012141",
+      "elevationUnit": "METERS",
+      "longitude": 119.28
+    },
+    {
+      "mindate": "1923-04-01",
+      "maxdate": "1940-01-31",
+      "latitude": -30.3,
+      "name": "EULINNA, AS",
+      "datacoverage": 0.8414,
+      "id": "GHCND:ASN00012142",
+      "longitude": 122.5
+    },
+    {
+      "mindate": "1929-07-01",
+      "maxdate": "1937-05-31",
+      "latitude": -33.5667,
+      "name": "FLEMING GROVE, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012143",
+      "longitude": 121.7667
+    },
+    {
+      "mindate": "1929-06-01",
+      "maxdate": "1935-08-31",
+      "latitude": -32.1,
+      "name": "GIBB ROCK, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012144",
+      "longitude": 119.2
+    },
+    {
+      "mindate": "1896-04-01",
+      "maxdate": "1926-10-31",
+      "latitude": -30.05,
+      "name": "GOONGARRIE, AS",
+      "datacoverage": 0.8882,
+      "id": "GHCND:ASN00012145",
+      "longitude": 121.15
+    },
+    {
+      "mindate": "1929-06-01",
+      "maxdate": "1935-11-30",
+      "latitude": -33.25,
+      "name": "GRASS PATCH EAST, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012146",
+      "longitude": 121.8167
+    },
+    {
+      "mindate": "1930-09-01",
+      "maxdate": "1937-03-31",
+      "latitude": -31.6,
+      "name": "HIRSH FARM, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012147",
+      "longitude": 119.3
+    },
+    {
+      "mindate": "1929-07-01",
+      "maxdate": "1939-06-30",
+      "latitude": -31.9,
+      "name": "HOLLETON 1, AS",
+      "datacoverage": 0.9995,
+      "id": "GHCND:ASN00012148",
+      "longitude": 119
+    },
+    {
+      "mindate": "1935-08-01",
+      "maxdate": "1945-08-31",
+      "latitude": -33.2,
+      "name": "HONEY LEA, AS",
+      "datacoverage": 0.8675,
+      "id": "GHCND:ASN00012149",
+      "longitude": 121.65
+    },
+    {
+      "mindate": "1907-01-01",
+      "maxdate": "1935-09-30",
+      "latitude": -31.8,
+      "name": "JILBADJI, AS",
+      "datacoverage": 0.8641,
+      "id": "GHCND:ASN00012150",
+      "longitude": 118.9
+    },
+    {
+      "mindate": "1898-03-01",
+      "maxdate": "1929-06-30",
+      "latitude": -31.3,
+      "name": "KARALEE, AS",
+      "datacoverage": 0.7771,
+      "id": "GHCND:ASN00012151",
+      "longitude": 119.85
+    },
+    {
+      "elevation": 459,
+      "mindate": "1894-11-01",
+      "maxdate": "2023-07-31",
+      "latitude": -31.2617,
+      "name": "KOORARAWALYEE, AS",
+      "datacoverage": 0.2339,
+      "id": "GHCND:ASN00012152",
+      "elevationUnit": "METERS",
+      "longitude": 120.0219
+    },
+    {
+      "mindate": "1928-06-01",
+      "maxdate": "1948-02-29",
+      "latitude": -32.8,
+      "name": "KUMARL, AS",
+      "datacoverage": 0.4937,
+      "id": "GHCND:ASN00012153",
+      "longitude": 121.7
+    },
+    {
+      "mindate": "1898-01-01",
+      "maxdate": "1946-12-31",
+      "latitude": -30.5,
+      "name": "KURNALPI, AS",
+      "datacoverage": 0.8494,
+      "id": "GHCND:ASN00012154",
+      "longitude": 122.2
+    },
+    {
+      "mindate": "1922-03-01",
+      "maxdate": "1939-05-31",
+      "latitude": -29.2667,
+      "name": "COBBANCO, AS",
+      "datacoverage": 0.8115,
+      "id": "GHCND:ASN00012155",
+      "longitude": 120.6
+    },
+    {
+      "mindate": "1898-09-01",
+      "maxdate": "1926-04-30",
+      "latitude": -27.9,
+      "name": "LAKE DARLOT, AS",
+      "datacoverage": 0.8176,
+      "id": "GHCND:ASN00012156",
+      "longitude": 121.3
+    },
+    {
+      "mindate": "1904-02-01",
+      "maxdate": "1923-03-31",
+      "latitude": -32.6,
+      "name": "LAKE VIEW, AS",
+      "datacoverage": 0.8267,
+      "id": "GHCND:ASN00012157",
+      "longitude": 121.5
+    },
+    {
+      "mindate": "1897-10-01",
+      "maxdate": "1948-08-31",
+      "latitude": -28.0833,
+      "name": "LAWLERS, AS",
+      "datacoverage": 0.9224,
+      "id": "GHCND:ASN00012158",
+      "longitude": 120.55
+    },
+    {
+      "mindate": "1925-10-01",
+      "maxdate": "1933-11-30",
+      "latitude": -33.25,
+      "name": "LLANGWIN FARM, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012159",
+      "longitude": 121.5167
+    },
+    {
+      "mindate": "1927-01-01",
+      "maxdate": "1935-08-31",
+      "latitude": -31,
+      "name": "LONE PINE, AS",
+      "datacoverage": 0.9809,
+      "id": "GHCND:ASN00012160",
+      "longitude": 119.5
+    },
+    {
+      "mindate": "1929-08-01",
+      "maxdate": "1934-11-30",
+      "latitude": -31.7,
+      "name": "MARCHLAND FARM, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00012161",
+      "longitude": 119.1
+    },
+    {
+      "mindate": "1901-01-01",
+      "maxdate": "1942-11-30",
+      "latitude": -28.75,
+      "name": "MOUNT MORGANS, AS",
+      "datacoverage": 0.8629,
+      "id": "GHCND:ASN00012162",
+      "longitude": 122.1
+    },
+    {
+      "mindate": "1913-01-01",
+      "maxdate": "1941-05-31",
+      "latitude": -29.05,
+      "name": "MOUNT IDA, AS",
+      "datacoverage": 0.9796,
+      "id": "GHCND:ASN00012163",
+      "longitude": 120.5
+    },
+    {
+      "elevation": 538,
+      "mindate": "1897-01-01",
+      "maxdate": "2004-03-03",
+      "latitude": -30.2633,
+      "name": "MOUNT JACKSON, AS",
+      "datacoverage": 0.2044,
+      "id": "GHCND:ASN00012164",
+      "elevationUnit": "METERS",
+      "longitude": 119.2458
+    },
+    {
+      "mindate": "1901-04-01",
+      "maxdate": "1942-12-31",
+      "latitude": -29.8,
+      "name": "MULLINE, AS",
+      "datacoverage": 0.6307,
+      "id": "GHCND:ASN00012165",
+      "longitude": 120.5
+    },
+    {
+      "mindate": "1896-10-01",
+      "maxdate": "1912-07-31",
+      "latitude": -29.4,
+      "name": "NIAGARA, AS",
+      "datacoverage": 0.4997,
+      "id": "GHCND:ASN00012166",
+      "longitude": 121.4
+    },
+    {
+      "mindate": "1927-01-01",
+      "maxdate": "1936-12-31",
+      "latitude": -31.2,
+      "name": "NOONGAR 3, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012167",
+      "longitude": 118.9833
+    },
+    {
+      "mindate": "1925-05-01",
+      "maxdate": "1935-05-31",
+      "latitude": -31.1333,
+      "name": "NOONGAR NORTH, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012168",
+      "longitude": 118.9
+    },
+    {
+      "mindate": "1891-02-01",
+      "maxdate": "1928-02-29",
+      "latitude": -31.6,
+      "name": "PARKERS RANGE 1, AS",
+      "datacoverage": 0.6838,
+      "id": "GHCND:ASN00012169",
+      "longitude": 119.6
+    },
+    {
+      "mindate": "1930-03-01",
+      "maxdate": "1944-03-31",
+      "latitude": -31.6,
+      "name": "PARKERS RANGE 2, AS",
+      "datacoverage": 0.8696,
+      "id": "GHCND:ASN00012170",
+      "longitude": 119.7
+    },
+    {
+      "mindate": "1926-07-01",
+      "maxdate": "1937-12-31",
+      "latitude": -29,
+      "name": "ALFRED DOWNS, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012171",
+      "longitude": 120
+    },
+    {
+      "mindate": "1905-01-01",
+      "maxdate": "1916-04-30",
+      "latitude": -29.9833,
+      "name": "QUANDINNIE, AS",
+      "datacoverage": 0.6989,
+      "id": "GHCND:ASN00012172",
+      "longitude": 122.0667
+    },
+    {
+      "mindate": "1899-12-01",
+      "maxdate": "1939-06-30",
+      "latitude": -33.5,
+      "name": "BONNIE DOON, AS",
+      "datacoverage": 0.9994,
+      "id": "GHCND:ASN00012173",
+      "longitude": 121.6667
+    },
+    {
+      "mindate": "1902-03-01",
+      "maxdate": "1930-10-31",
+      "latitude": -30.25,
+      "name": "SIBERIA, AS",
+      "datacoverage": 0.863,
+      "id": "GHCND:ASN00012174",
+      "longitude": 120.95
+    },
+    {
+      "elevation": 300,
+      "mindate": "1902-04-01",
+      "maxdate": "2013-11-30",
+      "latitude": -32.2,
+      "name": "SOUTHERN HILLS, AS",
+      "datacoverage": 0.347,
+      "id": "GHCND:ASN00012175",
+      "elevationUnit": "METERS",
+      "longitude": 122.8283
+    },
+    {
+      "elevation": 400,
+      "mindate": "1900-12-01",
+      "maxdate": "2023-12-31",
+      "latitude": -28.6781,
+      "name": "STURT MEADOWS, AS",
+      "datacoverage": 0.9085,
+      "id": "GHCND:ASN00012176",
+      "elevationUnit": "METERS",
+      "longitude": 120.9706
+    },
+    {
+      "mindate": "1900-10-01",
+      "maxdate": "1938-07-31",
+      "latitude": -29.2,
+      "name": "TAMPA, AS",
+      "datacoverage": 0.8615,
+      "id": "GHCND:ASN00012177",
+      "longitude": 121.45
+    },
+    {
+      "mindate": "1930-04-01",
+      "maxdate": "1944-01-31",
+      "latitude": -31.55,
+      "name": "TROY, AS",
+      "datacoverage": 0.7709,
+      "id": "GHCND:ASN00012178",
+      "longitude": 119.25
+    },
+    {
+      "mindate": "1929-04-01",
+      "maxdate": "1934-12-31",
+      "latitude": -33.25,
+      "name": "TRURAY, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012179",
+      "longitude": 121.9333
+    },
+    {
+      "mindate": "1925-05-01",
+      "maxdate": "1936-01-31",
+      "latitude": -31.0167,
+      "name": "TURKEY HILL, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012180",
+      "longitude": 119.3
+    },
+    {
+      "mindate": "1929-02-01",
+      "maxdate": "1937-03-31",
+      "latitude": -31.5,
+      "name": "VARAMEAD, AS",
+      "datacoverage": 0.9995,
+      "id": "GHCND:ASN00012181",
+      "longitude": 119.1
+    },
+    {
+      "mindate": "1928-06-01",
+      "maxdate": "1936-08-31",
+      "latitude": -30.95,
+      "name": "WARRABA 2, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012182",
+      "longitude": 118.8
+    },
+    {
+      "mindate": "1903-03-01",
+      "maxdate": "1917-10-31",
+      "latitude": -31.3,
+      "name": "WATERDALE, AS",
+      "datacoverage": 0.7993,
+      "id": "GHCND:ASN00012183",
+      "longitude": 121.5
+    },
+    {
+      "mindate": "1926-05-01",
+      "maxdate": "1936-03-31",
+      "latitude": -31.1,
+      "name": "WHEATLEY, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012184",
+      "longitude": 119.5
+    },
+    {
+      "mindate": "1895-12-01",
+      "maxdate": "1930-11-30",
+      "latitude": -31.2,
+      "name": "WOOLANGIE, AS",
+      "datacoverage": 0.8456,
+      "id": "GHCND:ASN00012185",
+      "longitude": 120.5
+    },
+    {
+      "mindate": "1922-10-01",
+      "maxdate": "1939-10-31",
+      "latitude": -29.7833,
+      "name": "YARRI, AS",
+      "datacoverage": 0.7854,
+      "id": "GHCND:ASN00012186",
+      "longitude": 122.3667
+    },
+    {
+      "elevation": 381,
+      "mindate": "1897-10-01",
+      "maxdate": "2018-11-30",
+      "latitude": -29.4711,
+      "name": "YERILLA, AS",
+      "datacoverage": 0.6749,
+      "id": "GHCND:ASN00012187",
+      "elevationUnit": "METERS",
+      "longitude": 121.8272
+    },
+    {
+      "elevation": 192,
+      "mindate": "1963-09-01",
+      "maxdate": "2016-02-29",
+      "latitude": -30.8958,
+      "name": "KANANDAH, AS",
+      "datacoverage": 0.9716,
+      "id": "GHCND:ASN00012191",
+      "elevationUnit": "METERS",
+      "longitude": 124.8658
+    },
+    {
+      "elevation": 180,
+      "mindate": "1964-05-01",
+      "maxdate": "2024-12-31",
+      "latitude": -33.3844,
+      "name": "SCADDAN WEST, AS",
+      "datacoverage": 0.9645,
+      "id": "GHCND:ASN00012198",
+      "elevationUnit": "METERS",
+      "longitude": 121.4494
+    },
+    {
+      "elevation": 366,
+      "mindate": "1962-01-01",
+      "maxdate": "1986-09-30",
+      "latitude": -30.7289,
+      "name": "PARKESTON, AS",
+      "datacoverage": 0.9833,
+      "id": "GHCND:ASN00012199",
+      "elevationUnit": "METERS",
+      "longitude": 121.4978
+    },
+    {
+      "mindate": "1965-06-01",
+      "maxdate": "1974-05-31",
+      "latitude": -31.7833,
+      "name": "CONSTANCE UNA, AS",
+      "datacoverage": 0.6661,
+      "id": "GHCND:ASN00012200",
+      "longitude": 119.6
+    },
+    {
+      "elevation": 420,
+      "mindate": "1965-10-01",
+      "maxdate": "2022-12-31",
+      "latitude": -31.7036,
+      "name": "YOUANMI VALLEY, AS",
+      "datacoverage": 0.9867,
+      "id": "GHCND:ASN00012201",
+      "elevationUnit": "METERS",
+      "longitude": 119.2378
+    },
+    {
+      "elevation": 350,
+      "mindate": "1956-09-01",
+      "maxdate": "1987-05-31",
+      "latitude": -31.3875,
+      "name": "YERBILLON, AS",
+      "datacoverage": 0.7994,
+      "id": "GHCND:ASN00012202",
+      "elevationUnit": "METERS",
+      "longitude": 118.7347
+    },
+    {
+      "elevation": 407,
+      "mindate": "1952-06-01",
+      "maxdate": "1990-10-31",
+      "latitude": -31.255,
+      "name": "GHOOLI, AS",
+      "datacoverage": 0.8744,
+      "id": "GHCND:ASN00012203",
+      "elevationUnit": "METERS",
+      "longitude": 119.4544
+    },
+    {
+      "elevation": 451,
+      "mindate": "1963-11-01",
+      "maxdate": "2012-11-30",
+      "latitude": -31.0931,
+      "name": "DEDARI, AS",
+      "datacoverage": 0.7589,
+      "id": "GHCND:ASN00012204",
+      "elevationUnit": "METERS",
+      "longitude": 120.6908
+    },
+    {
+      "elevation": 450,
+      "mindate": "1964-01-01",
+      "maxdate": "2007-04-30",
+      "latitude": -29.7514,
+      "name": "RIVERINA, AS",
+      "datacoverage": 0.7443,
+      "id": "GHCND:ASN00012205",
+      "elevationUnit": "METERS",
+      "longitude": 120.5669
+    },
+    {
+      "elevation": 435,
+      "mindate": "1966-08-01",
+      "maxdate": "1973-07-31",
+      "latitude": -32.2,
+      "name": "MOOLARA, AS",
+      "datacoverage": 0.6785,
+      "id": "GHCND:ASN00012206",
+      "elevationUnit": "METERS",
+      "longitude": 122.7
+    },
+    {
+      "elevation": 427,
+      "mindate": "1966-08-01",
+      "maxdate": "1973-07-31",
+      "latitude": -31.8333,
+      "name": "SIMON HILLS, AS",
+      "datacoverage": 0.6266,
+      "id": "GHCND:ASN00012207",
+      "elevationUnit": "METERS",
+      "longitude": 123.05
+    },
+    {
+      "elevation": 427,
+      "mindate": "1966-07-01",
+      "maxdate": "1974-07-31",
+      "latitude": -31.95,
+      "name": "YARDELLA, AS",
+      "datacoverage": 0.7215,
+      "id": "GHCND:ASN00012208",
+      "elevationUnit": "METERS",
+      "longitude": 122.9
+    },
+    {
+      "mindate": "1950-02-01",
+      "maxdate": "1970-12-31",
+      "latitude": -27.9833,
+      "name": "COSMO NEWBERY, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00012209",
+      "longitude": 122.9167
+    },
+    {
+      "elevation": 500,
+      "mindate": "1967-01-01",
+      "maxdate": "2002-07-31",
+      "latitude": -27.5878,
+      "name": "LAKE MASON, AS",
+      "datacoverage": 0.8221,
+      "id": "GHCND:ASN00012210",
+      "elevationUnit": "METERS",
+      "longitude": 119.5211
+    },
+    {
+      "elevation": 427,
+      "mindate": "1967-07-01",
+      "maxdate": "1973-04-30",
+      "latitude": -29.4833,
+      "name": "JEEDAMYA WOOLSHED, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012211",
+      "elevationUnit": "METERS",
+      "longitude": 121.2667
+    },
+    {
+      "elevation": 216,
+      "mindate": "1967-10-01",
+      "maxdate": "1976-09-30",
+      "latitude": -31.0319,
+      "name": "KITCHENER, AS",
+      "datacoverage": 0.9998,
+      "id": "GHCND:ASN00012212",
+      "elevationUnit": "METERS",
+      "longitude": 124.1889
+    },
+    {
+      "elevation": 500,
+      "mindate": "1970-01-01",
+      "maxdate": "1982-07-31",
+      "latitude": -27.1147,
+      "name": "YEELIRRIE O.S., AS",
+      "datacoverage": 0.8545,
+      "id": "GHCND:ASN00012213",
+      "elevationUnit": "METERS",
+      "longitude": 119.8492
+    },
+    {
+      "elevation": 500,
+      "mindate": "1967-05-01",
+      "maxdate": "1980-09-30",
+      "latitude": -27.9642,
+      "name": "DEPOT SPRINGS 2, AS",
+      "datacoverage": 0.9997,
+      "id": "GHCND:ASN00012214",
+      "elevationUnit": "METERS",
+      "longitude": 120.2428
+    },
+    {
+      "elevation": 549,
+      "mindate": "1967-05-01",
+      "maxdate": "1980-09-30",
+      "latitude": -27.9897,
+      "name": "DEPOT SPRINGS TANK, AS",
+      "datacoverage": 0.9997,
+      "id": "GHCND:ASN00012215",
+      "elevationUnit": "METERS",
+      "longitude": 119.93
+    },
+    {
+      "elevation": 400,
+      "mindate": "1963-01-01",
+      "maxdate": "1974-10-31",
+      "latitude": -27.7353,
+      "name": "BANDYA, AS",
+      "datacoverage": 0.9992,
+      "id": "GHCND:ASN00012216",
+      "elevationUnit": "METERS",
+      "longitude": 122.1761
+    },
+    {
+      "mindate": "1968-01-01",
+      "maxdate": "1974-03-31",
+      "latitude": -31.5333,
+      "name": "GLENGILLY, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012217",
+      "longitude": 119.1
+    },
+    {
+      "mindate": "1921-08-01",
+      "maxdate": "1924-08-31",
+      "latitude": -29.3333,
+      "name": "MOUNT REMARKABLE, AS",
+      "datacoverage": 0.7562,
+      "id": "GHCND:ASN00012218",
+      "longitude": 121.9833
+    },
+    {
+      "elevation": 441.6,
+      "mindate": "1967-12-01",
+      "maxdate": "1998-06-30",
+      "latitude": -28.1664,
+      "name": "YAMARNA, AS",
+      "datacoverage": 0.9347,
+      "id": "GHCND:ASN00012219",
+      "elevationUnit": "METERS",
+      "longitude": 123.6556
+    },
+    {
+      "elevation": 320,
+      "mindate": "1968-08-01",
+      "maxdate": "2020-02-25",
+      "latitude": -31.0089,
+      "name": "COWARNA DOWNS, AS",
+      "datacoverage": 0.8634,
+      "id": "GHCND:ASN00012220",
+      "elevationUnit": "METERS",
+      "longitude": 122.3567
+    },
+    {
+      "elevation": 366,
+      "mindate": "1968-09-01",
+      "maxdate": "2014-12-31",
+      "latitude": -31.3692,
+      "name": "BODALLIN, AS",
+      "datacoverage": 0.9183,
+      "id": "GHCND:ASN00012221",
+      "elevationUnit": "METERS",
+      "longitude": 118.8361
+    },
+    {
+      "elevation": 433,
+      "mindate": "1963-01-01",
+      "maxdate": "1969-10-31",
+      "latitude": -31.25,
+      "name": "GILGAI, AS",
+      "datacoverage": 0.8414,
+      "id": "GHCND:ASN00012222",
+      "elevationUnit": "METERS",
+      "longitude": 119.95
+    },
+    {
+      "elevation": 200,
+      "mindate": "1750-03-25",
+      "maxdate": "2025-02-19",
+      "latitude": -33.2242,
+      "name": "LORT RIVER, AS",
+      "datacoverage": 0.9983,
+      "id": "GHCND:ASN00012223",
+      "elevationUnit": "METERS",
+      "longitude": 121.3544
+    },
+    {
+      "elevation": 400,
+      "mindate": "1915-01-01",
+      "maxdate": "1978-03-31",
+      "latitude": -30.8483,
+      "name": "GOLDEN RIDGE, AS",
+      "datacoverage": 0.1766,
+      "id": "GHCND:ASN00012224",
+      "elevationUnit": "METERS",
+      "longitude": 121.655
+    },
+    {
+      "mindate": "1931-01-01",
+      "maxdate": "1931-07-31",
+      "latitude": -32.7,
+      "name": "BEETE, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012225",
+      "longitude": 121.7167
+    },
+    {
+      "elevation": 400,
+      "mindate": "1969-06-01",
+      "maxdate": "2014-12-31",
+      "latitude": -31.1664,
+      "name": "BODALLIN NORTH, AS",
+      "datacoverage": 0.9122,
+      "id": "GHCND:ASN00012226",
+      "elevationUnit": "METERS",
+      "longitude": 118.8878
+    },
+    {
+      "elevation": 349,
+      "mindate": "1967-01-01",
+      "maxdate": "2024-08-12",
+      "latitude": -30.8183,
+      "name": "KOOLYANOBBING, AS",
+      "datacoverage": 0.504,
+      "id": "GHCND:ASN00012227",
+      "elevationUnit": "METERS",
+      "longitude": 119.5197
+    },
+    {
+      "mindate": "1933-08-01",
+      "maxdate": "1936-05-31",
+      "latitude": -30.9667,
+      "name": "CAMPION NORTH, AS",
+      "datacoverage": 0.5314,
+      "id": "GHCND:ASN00012228",
+      "longitude": 118.5167
+    },
+    {
+      "mindate": "1929-01-01",
+      "maxdate": "1929-07-31",
+      "latitude": -29.9333,
+      "name": "CAMPBELL DOWNS, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012229",
+      "longitude": 119.7833
+    },
+    {
+      "mindate": "1921-08-01",
+      "maxdate": "1942-01-31",
+      "latitude": -31.3667,
+      "name": "IVES FIND, AS",
+      "datacoverage": 0.4064,
+      "id": "GHCND:ASN00012230",
+      "longitude": 121.8333
+    },
+    {
+      "mindate": "1920-01-01",
+      "maxdate": "1920-12-31",
+      "latitude": -30.8667,
+      "name": "GOLDEN VALLEY, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012231",
+      "longitude": 119.0333
+    },
+    {
+      "mindate": "1925-02-01",
+      "maxdate": "1929-11-30",
+      "latitude": -30.9833,
+      "name": "BRISCOE VALE, AS",
+      "datacoverage": 0.9991,
+      "id": "GHCND:ASN00012232",
+      "longitude": 118.9667
+    },
+    {
+      "mindate": "1927-07-01",
+      "maxdate": "1936-09-30",
+      "latitude": -31.2,
+      "name": "HILLCREST, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00012233",
+      "longitude": 119.15
+    },
+    {
+      "mindate": "1925-04-01",
+      "maxdate": "1929-10-31",
+      "latitude": -33.1167,
+      "name": "WYOMING, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012235",
+      "longitude": 121.5
+    },
+    {
+      "mindate": "1927-02-01",
+      "maxdate": "1930-12-31",
+      "latitude": -31.25,
+      "name": "BRONTE, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012236",
+      "longitude": 119.5
+    },
+    {
+      "mindate": "1930-08-01",
+      "maxdate": "1932-10-31",
+      "latitude": -32.7167,
+      "name": "BRYN AWELON, AS",
+      "datacoverage": 0.9259,
+      "id": "GHCND:ASN00012237",
+      "longitude": 121.7
+    },
+    {
+      "mindate": "1944-02-01",
+      "maxdate": "1945-08-31",
+      "latitude": -31.55,
+      "name": "JERICHO FARM, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012238",
+      "longitude": 119.25
+    },
+    {
+      "elevation": 438.5,
+      "mindate": "1750-03-24",
+      "maxdate": "2025-02-27",
+      "latitude": -28.4967,
+      "name": "BULGA DOWNS, AS",
+      "datacoverage": 0.4389,
+      "id": "GHCND:ASN00012239",
+      "elevationUnit": "METERS",
+      "longitude": 119.7436
+    },
+    {
+      "elevation": 410,
+      "mindate": "2005-03-01",
+      "maxdate": "2025-01-31",
+      "latitude": -28.3514,
+      "name": "ILKURLKA, AS",
+      "datacoverage": 0.7194,
+      "id": "GHCND:ASN00012240",
+      "elevationUnit": "METERS",
+      "longitude": 127.5169
+    },
+    {
+      "elevation": 370,
+      "mindate": "2007-02-01",
+      "maxdate": "2025-02-27",
+      "latitude": -28.8789,
+      "name": "LEONORA AERO, AS",
+      "datacoverage": 0.916,
+      "id": "GHCND:ASN00012241",
+      "elevationUnit": "METERS",
+      "longitude": 121.3186
+    },
+    {
+      "elevation": 434,
+      "mindate": "1970-01-01",
+      "maxdate": "1993-11-30",
+      "latitude": -29.6694,
+      "name": "DIEMALS, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012242",
+      "elevationUnit": "METERS",
+      "longitude": 119.3031
+    },
+    {
+      "mindate": "1907-01-01",
+      "maxdate": "1909-03-14",
+      "latitude": -32.0333,
+      "name": "FIFTEEN MILE CONDENSER, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012244",
+      "longitude": 121.6667
+    },
+    {
+      "mindate": "1928-05-01",
+      "maxdate": "1932-07-31",
+      "latitude": -29.7,
+      "name": "GIN ROCKS, AS",
+      "datacoverage": 0.8428,
+      "id": "GHCND:ASN00012245",
+      "longitude": 121.7
+    },
+    {
+      "elevation": 130,
+      "mindate": "1971-01-01",
+      "maxdate": "1991-12-31",
+      "latitude": -33.6047,
+      "name": "JILLIBY, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012246",
+      "elevationUnit": "METERS",
+      "longitude": 121.9206
+    },
+    {
+      "elevation": 380,
+      "mindate": "1750-07-02",
+      "maxdate": "2025-01-07",
+      "latitude": -30.2817,
+      "name": "GINDALBIE, AS",
+      "datacoverage": 0.6726,
+      "id": "GHCND:ASN00012247",
+      "elevationUnit": "METERS",
+      "longitude": 121.7606
+    },
+    {
+      "mindate": "1898-03-01",
+      "maxdate": "1911-09-30",
+      "latitude": -33.2667,
+      "name": "SWAN LAGOON, AS",
+      "datacoverage": 0.9993,
+      "id": "GHCND:ASN00012248",
+      "longitude": 121.65
+    },
+    {
+      "mindate": "1935-09-01",
+      "maxdate": "1937-01-31",
+      "latitude": -31.6333,
+      "name": "L.S.D.MINE, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012249",
+      "longitude": 119.5667
+    },
+    {
+      "mindate": "1906-10-01",
+      "maxdate": "1910-09-30",
+      "latitude": -29.4667,
+      "name": "MOUNT CELIA, AS",
+      "datacoverage": 0.6893,
+      "id": "GHCND:ASN00012250",
+      "longitude": 122.4833
+    },
+    {
+      "mindate": "1929-05-01",
+      "maxdate": "1930-09-30",
+      "latitude": -28,
+      "name": "GOLDEN DOWNS, AS",
+      "datacoverage": 1,
+      "id": "GHCND:ASN00012251",
+      "longitude": 123.45
+    }
+  ]
+}
