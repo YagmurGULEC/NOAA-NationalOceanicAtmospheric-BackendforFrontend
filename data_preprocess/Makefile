@@ -1,6 +1,5 @@
 SHELL=./make-venv
 
-
 all: help
 
 .PHONY: help
@@ -12,10 +11,11 @@ help: Makefile
 .PHONY: install
 install:
 	python3 -m venv .venv
-	pip install --upgrade pip
-
+	
 .PHONY: post-install
 post-install:
+	pip install --upgrade pip
+
 	pip install -r requirements.txt
 
 
